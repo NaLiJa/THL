@@ -12,16 +12,20 @@ access to the hints, aside from that the repo is mainly here for historical refe
 The folders contain:
 
 **hint_reader.10**
+
 Delphi source project for THL 1.0. There are the compiled binaries included as well, without the installer.
 The binaries still seem to work on recent Windows systems.
 
 **hint_reader.11**
+
 Same as above, only for THL 1.1
 
 **HOMEPAGE.THL**
+
 A small THL website, in memory of times when a 1,2 MB download was quite huge...
 
 **THL_FILES**
+
 Contains both the raw text files in thr format and the binary thl versions, that were distributed.
 For editing, please note, that media links were unfortunately stored with absolute paths. It might necessary to edit the thr files in a text editor to adapt the paths before opening in  THL.
 
