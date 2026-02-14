@@ -1,6 +1,8 @@
 THL - The Hint Library
 ----------------------
 
+![THL](screen.png)
+
 THL was an early attempt of a hint system for games, mostly interactive fiction
 and adventure games. It was developed around 1996-1998 using Borland Delphi 2.
 
