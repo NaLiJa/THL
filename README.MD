@@ -34,8 +34,9 @@ For editing, please note, that media links were unfortunately stored with absolu
 With some minor fixes, it was possible to build the project with the latest Delphi CE 
 edition. Although it did not fully work, it could probably be recovered into a modern executable if there is any need.
 
-This was one of my very first encounters with Delphi, so expect some code mess and bugs that were never caught :-)
-Enoy the blast from the past.
+This was one of my very first encounters with Delphi, so expect some horrible code mess and bugs that were never caught...
+
+Enoy the blast from the past!
 
 
 
