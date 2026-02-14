@@ -1,0 +1,70 @@
+;F101.00 Project file
+[OPTIONS]
+BUILD = BuildAll
+COMPRESS = False
+CONTENTS = Inhalt
+COPYRIGHT = © 1996-97 Stefan Meier, THL-Hilfe 1.1.1
+ICON = E:\WORK\HINT_R~1.11\APP.ICO
+OLDKEYPHRASE = False
+OPTCDROM = Yes
+REPORT = No
+TITLE = The Hint Library 1.1
+WARNING = 1
+ 
+[FILES]
+e:\work\hint_r~1.11\helpfile\hintlib.rtf
+ 
+[CONFIG]
+RegisterRoutine("MMSYSTEM","sndPlaySound","Si")
+RegisterRoutine("MMSYSTEM","mciExecute","S")
+BrowseButtons()
+ 
+[BUILDTAGS]
+BuildAll
+ 
+[ALIAS]
+ 
+[BAGGAGE]
+
+ 
+[BITMAPS]
+
+e:\work\hint_r~1.11\helpfile\main.bmp
+e:\work\hint_r~1.11\helpfile\openbtn.bmp
+e:\work\hint_r~1.11\helpfile\vopen.bmp
+e:\work\hint_r~1.11\helpfile\existf~1.bmp
+e:\work\hint_r~1.11\helpfile\help.bmp
+e:\work\hint_r~1.11\helpfile\info.bmp
+e:\work\hint_r~1.11\helpfile\exit.bmp
+e:\work\hint_r~1.11\helpfile\dateim~1.bmp
+e:\work\hint_r~1.11\helpfile\editor~1.bmp
+e:\work\hint_r~1.11\helpfile\sprach~1.bmp
+e:\work\hint_r~1.11\helpfile\hilfem~1.bmp
+e:\work\hint_r~1.11\helpfile\reader.bmp
+e:\work\hint_r~1.11\helpfile\hintpic.bmp
+e:\work\hint_r~1.11\helpfile\mmpic.bmp
+e:\work\hint_r~1.11\helpfile\picpic.bmp
+e:\work\hint_r~1.11\helpfile\infopic.bmp
+e:\work\hint_r~1.11\helpfile\editor.bmp
+e:\work\hint_r~1.11\helpfile\picview.bmp
+e:\work\hint_r~1.11\helpfile\picedit.bmp
+e:\work\hint_r~1.11\helpfile\hintedit.bmp
+e:\work\hint_r~1.11\helpfile\hintview.bmp
+e:\work\hint_r~1.11\helpfile\infoedit.bmp
+e:\work\hint_r~1.11\helpfile\mmedit.bmp
+e:\work\hint_r~1.11\helpfile\mmview.bmp
+e:\work\hint_r~1.11\helpfile\topedit.bmp
+e:\work\hint_r~1.11\helpfile\infoview.bmp
+e:\work\hint_r~1.11\helpfile\linkwnd.bmp
+ 
+[MAP]
+#include <hintlib.hh>
+ 
+[WINDOWS]
+MAIN = "The Hint Library 1.1", , , , (192,192,192), 0
+Window1 = "", ( 64, 64, 832, 832), , , (192,192,192), 0
+Window2 = "", ( 0, 0, 1023, 511), , , (192,192,192), 0
+Window3 = "", ( 0, 511, 1023, 511), , , (192,192,192), 0
+Window4 = "Glossary", ( 0, 0, 511, 1023), , , (192,192,192), 0
+Window5 = "Index", ( 511, 0, 511, 1023), , , (192,192,192), 0
+ 

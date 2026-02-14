@@ -1,0 +1,67 @@
+;F101.00 Project file
+[OPTIONS]
+BUILD = BuildAll
+COMPRESS = False
+CONTENTS = Inhalt
+COPYRIGHT = © 1996 Stefan Meier, THL-Hilfe 1.0.1
+ICON = E:\WORK\HINT_R~1\APP.ICO
+OLDKEYPHRASE = False
+OPTCDROM = Yes
+REPORT = No
+TITLE = The Hint Library 1.0
+WARNING = 1
+ 
+[FILES]
+e:\work\hint_r~1\helpfile.gb\hintlib.rtf
+ 
+[CONFIG]
+RegisterRoutine("MMSYSTEM","sndPlaySound","Si")
+RegisterRoutine("MMSYSTEM","mciExecute","S")
+BrowseButtons()
+ 
+[BUILDTAGS]
+BuildAll
+ 
+[ALIAS]
+ 
+[BAGGAGE]
+
+ 
+[BITMAPS]
+
+e:\work\hint_r~1\helpfile.gb\main.bmp
+e:\work\hint_r~1\helpfile\openbtn.bmp
+e:\work\hint_r~1\helpfile\vopen.bmp
+e:\work\hint_r~1\helpfile\newfile.bmp
+e:\work\hint_r~1\helpfile\existf~1.bmp
+e:\work\hint_r~1\helpfile\help.bmp
+e:\work\hint_r~1\helpfile\info.bmp
+e:\work\hint_r~1\helpfile\exit.bmp
+e:\work\hint_r~1\helpfile.gb\dateim~1.bmp
+e:\work\hint_r~1\helpfile.gb\editor~1.bmp
+e:\work\hint_r~1\helpfile.gb\sprach~1.bmp
+e:\work\hint_r~1\helpfile.gb\hilfem~1.bmp
+e:\work\hint_r~1\helpfile.gb\reader.bmp
+e:\work\hint_r~1\helpfile.gb\hintpic.bmp
+e:\work\hint_r~1\helpfile.gb\mmpic.bmp
+e:\work\hint_r~1\helpfile\picpic.bmp
+e:\work\hint_r~1\helpfile.gb\editor.bmp
+e:\work\hint_r~1\helpfile.gb\picview.bmp
+e:\work\hint_r~1\helpfile.gb\picedit.bmp
+e:\work\hint_r~1\helpfile.gb\hintedit.bmp
+e:\work\hint_r~1\helpfile.gb\hintview.bmp
+e:\work\hint_r~1\helpfile.gb\mmedit.bmp
+e:\work\hint_r~1\helpfile.gb\mmview.bmp
+e:\work\hint_r~1\helpfile.gb\topedit.bmp
+ 
+[MAP]
+#include <hintlib.hh>
+ 
+[WINDOWS]
+MAIN = "The Hint Library 1.0", , , , (192,192,192), 0
+Window1 = "", ( 64, 64, 832, 832), , , (192,192,192), 0
+Window2 = "", ( 0, 0, 1023, 511), , , (192,192,192), 0
+Window3 = "", ( 0, 511, 1023, 511), , , (192,192,192), 0
+Window4 = "Glossary", ( 0, 0, 511, 1023), , , (192,192,192), 0
+Window5 = "Index", ( 511, 0, 511, 1023), , , (192,192,192), 0
+ 

@@ -1,0 +1,1266 @@
+100
+Border Zone InvisiClues(tm)
+Footlight MT Light
+32768
+24
+1000
+Converted to THL 1996 by Stefan Meier
+#NOTICE<#
+Copyright by Infocom, Inc. Provided for non-commercial use only, with the sole intent of making information available that would otherwise be lost.
+#>NOTICE#
+#TOPIC#
+0
+The Train
+#TOPIC#
+1
+How do I answer the man ?
+#HINT#
+2
+
+#TEXT#
+It is possible to answer either way, although you must be careful.
+#FINISH#
+#HINT#
+2
+
+#TEXT#
+If he thinks you are lying, it will raise his level of suspicion, regardless of what
+you said.
+#FINISH#
+#HINT#
+2
+
+#TEXT#
+Also, the admission that you have seen the American agent is enough to generate
+a little suspicion.
+#FINISH#
+#TOPIC#
+1
+Why doesn´t he believe my answer ?
+#HINT#
+6
+
+#TEXT#
+Is there any reason the man might KNOW that you've seen the American agent? 
+#FINISH#
+#HINT#
+6
+
+#TEXT#
+Might the agent have left something behind, besides the document and the 
+carnation?
+#FINISH#
+#HINT#
+6
+
+#TEXT#
+Wasn't he holding his left arm? Mightn't it have been wounded?
+#FINISH#
+#HINT#
+6
+
+#TEXT#
+LOOK AT THE FLOOR to see the blood that he's left here. It's a dead giveaway, 
+no pun intended. It would be best to clean up after him.
+#FINISH#
+#HINT#
+6
+
+#TEXT#
+In the lavatory, across the hall and to the south, there is a towel. Get it, wet it, then 
+use it to clean up the blood.
+#FINISH#
+#HINT#
+6
+
+#TEXT#
+Also, answering in a way that contradicts the evidence (i.e. the bloodiness of the 
+floor), adds suspicion.
+#FINISH#
+#TOPIC#
+1
+Why am I searched so thoroughly ?
+#HINT#
+13
+
+#TEXT#
+For one reason, there's an important document missing.
+#FINISH#
+#HINT#
+13
+
+#TEXT#
+For another, they know the American agent had it.
+#FINISH#
+#HINT#
+13
+
+#TEXT#
+You are American, therefore somewhat suspicious.
+#FINISH#
+#HINT#
+13
+
+#TEXT#
+If you're wearing that crushed carnation, you might look peculiar to them.
+#FINISH#
+#HINT#
+13
+
+#TEXT#
+Depending on how you handled your 'interview' with the trench coated man, you 
+might have appeared suspicious.
+#FINISH#
+#HINT#
+13
+
+#TEXT#
+Also, if you have been seen outside of your compartment holding any unusual 
+items - a carnation, a briefcase, etc...
+#FINISH#
+#TOPIC#
+1
+Why am I followed at the station ?
+#HINT#
+20
+
+#TEXT#
+Clearly, you are under suspicion.
+#FINISH#
+#HINT#
+20
+
+#TEXT#
+There are a number of things you may have done to make the situation worse. 
+See the previous two questions. Also, if the guards found anything peculiar in their 
+search of your possessions, that would increase their suspicions.
+#FINISH#
+#TOPIC#
+1
+How can I deliver the document ?
+#HINT#
+23
+
+#TEXT#
+You'll have to make sure the guards don't find it.
+#FINISH#
+#HINT#
+23
+
+#TEXT#
+Have you tried hiding it...? 
+#FINISH#
+#HINT#
+23
+
+#TEXT#
+...in your compartment?
+#FINISH#
+#HINT#
+23
+
+#TEXT#
+...in the lavatory? 
+#FINISH#
+#HINT#
+23
+
+#TEXT#
+...in your camera?
+#FINISH#
+#HINT#
+23
+
+#TEXT#
+Oh, you have? Then, you should be aware that you CANNOT deliver the 
+document.
+#FINISH#
+#HINT#
+23
+
+#TEXT#
+However, you can deliver its contents.
+#FINISH#
+#HINT#
+23
+
+#TEXT#
+Your camera can be used for more than tourist shots.
+#FINISH#
+#HINT#
+23
+
+#TEXT#
+PHOTOGRAPH the document.
+#FINISH#
+#HINT#
+23
+
+#TEXT#
+You must be clever to avoid the guards destroying your film during the search.
+#FINISH#
+#HINT#
+23
+
+#TEXT#
+Try rewinding the roll that's in there, and loading the camera with the exposed roll. 
+That will divert suspicion.
+#FINISH#
+#TOPIC#
+1
+Who is my contact ?
+#HINT#
+35
+
+#TEXT#
+It depends on what the American agent said at the very beginning.
+#FINISH#
+#HINT#
+35
+
+#TEXT#
+Check your Frobnian phrase book (in your Border Zone package) for the 
+translation of the phrase that your contact was supposed to repeat. Be careful; the 
+exact words must be used.
+#FINISH#
+#HINT#
+35
+
+#TEXT#
+When your contact appears, you must SAY "It is my fault" in Frobnian. Check your 
+phrase book for the translation.
+#FINISH#
+#HINT#
+35
+
+#TEXT#
+Then, GIVE THE COLOR ROLL TO THE CONTACT. Alternatively, you can 
+DROP THE COLOR FILM; this latter method is less obvious, in case you are 
+followed. Depending on how much suspicion you have raised, you may be able to 
+do either, both, or none of these two things.
+#FINISH#
+#TOPIC#
+0
+The Border
+#TOPIC#
+40
+How do I stop myself from bleeding?
+#HINT#
+41
+
+#TEXT#
+Have you tried using a tourniquet?
+#FINISH#
+#HINT#
+41
+
+#TEXT#
+Is there any cloth or fabric you can use?
+#FINISH#
+#HINT#
+41
+
+#TEXT#
+RIP your CLOTHES.
+#FINISH#
+#HINT#
+41
+
+#TEXT#
+Then, TIE THE PIECE OF CLOTHING AROUND LEFT ARM.
+#FINISH#
+#TOPIC#
+40
+How can I get warm?
+#HINT#
+46
+
+#TEXT#
+Have you found any shelter? 
+#FINISH#
+#HINT#
+46
+
+#TEXT#
+Go east and north from your starting point. 
+#FINISH#
+#HINT#
+46
+
+#TEXT#
+You'll have to get into the hut.
+#FINISH#
+#HINT#
+46
+
+#TEXT#
+There's a very nice parka inside.
+#FINISH#
+#HINT#
+46
+
+#TEXT#
+See the question "How do I get into the hut?" 
+#FINISH#
+#TOPIC#
+40
+How can I keep away from the dogs?
+#HINT#
+52
+
+#TEXT#
+Can you find food to distract them? 
+#FINISH#
+#HINT#
+52
+
+#TEXT#
+Didn't think so.
+#FINISH#
+#HINT#
+52
+
+#TEXT#
+Can you hide your tracks? 
+#FINISH#
+#HINT#
+52
+
+#TEXT#
+Guess not. 
+#FINISH#
+#HINT#
+52
+
+#TEXT#
+Can you confuse their senses? 
+#FINISH#
+#HINT#
+52
+
+#TEXT#
+How about a place where you don't leave tracks... 
+#FINISH#
+#HINT#
+52
+
+#TEXT#
+... and don't worry much about odors. 
+#FINISH#
+#HINT#
+52
+
+#TEXT#
+Have you been at the swamp? 
+#FINISH#
+#HINT#
+52
+
+#TEXT#
+Make sure that you ENTER THE SWAMP; then move somewhere else along the 
+edge, so they'll lose the trail. 
+#FINISH#
+#HINT#
+52
+
+#TEXT#
+Oh, I hope you weren't wearing any of your nice shoes. 
+#FINISH#
+#TOPIC#
+40
+What about the automobile I hear?
+#HINT#
+63
+
+#TEXT#
+Have you observed it from up close? 
+#FINISH#
+#HINT#
+63
+
+#TEXT#
+If you get in it's way, you'll be caught. 
+#FINISH#
+#HINT#
+63
+
+#TEXT#
+There's a good spot where you can observe the car. 
+#FINISH#
+#HINT#
+63
+
+#TEXT#
+Like the north side of the hut. 
+#FINISH#
+#HINT#
+63
+
+#TEXT#
+Basically, three enemy guards are in the car.
+#FINISH#
+#HINT#
+63
+
+#TEXT#
+They come to warn the man in the hut that you are an escaped lunatic. 
+#FINISH#
+#HINT#
+63
+
+#TEXT#
+Who else would be walking around, wounded and cold, in the middle of nowhere? 
+#FINISH#
+#TOPIC#
+40
+How can I get into the hut?
+#HINT#
+71
+
+#TEXT#
+Have you tried the front and back doors? 
+#FINISH#
+#HINT#
+71
+
+#TEXT#
+Well, it works better if nobody's inside. 
+#FINISH#
+#HINT#
+71
+
+#TEXT#
+You can get in when the occupant is talking to the men from the car. [See the hint 
+about the car if this is meaningless...] 
+#FINISH#
+#HINT#
+71
+
+#TEXT#
+Also, the occupant will leave at some point to get more wood from the shed.
+#FINISH#
+#HINT#
+71
+
+#TEXT#
+Also, there's another way, but that's for you to figure out... 
+#FINISH#
+#TOPIC#
+40
+How can I get out of the hut?
+#HINT#
+77
+
+#TEXT#
+If the owner hasn't returned and there's no scout prowling around, it's no problem.
+#FINISH#
+#HINT#
+77
+
+#TEXT#
+The scout will be gone when the car leaves (you'll hear it). 
+#FINISH#
+#HINT#
+77
+
+#TEXT#
+But now, the owner's returned as well. The squeaky door alerts him to your 
+presence.
+#FINISH#
+#HINT#
+77
+
+#TEXT#
+Take the oil can, then OIL THE HINGES. 
+#FINISH#
+#HINT#
+77
+
+#TEXT#
+Now you can leave - just don't come back! 
+#FINISH#
+#TOPIC#
+40
+How do I use the explosive?
+#HINT#
+83
+
+#TEXT#
+Better might be "Where...?" 
+#FINISH#
+#HINT#
+83
+
+#TEXT#
+To use the explosive, REMOVE the CAP, PUSH the BUTTON once for every 
+minute you want the fuse to run, and REPLACE the CAP. 
+#FINISH#
+#HINT#
+83
+
+#TEXT#
+Oh... you won't want to be there when it goes off.
+#FINISH#
+#HINT#
+83
+
+#TEXT#
+Try placing it in different places to see what happens; remember it's magnetic so 
+you can PUT it ON metallic objects.
+#FINISH#
+#HINT#
+83
+
+#TEXT#
+You don't really need this until you've gotten as far as the border fences.
+#FINISH#
+#HINT#
+83
+
+#TEXT#
+See "How can I cross the border?" for details. 
+#FINISH#
+#TOPIC#
+40
+How can I avoid the searchlights?
+#HINT#
+90
+
+#TEXT#
+If you are not WATCHing them, you should.
+#FINISH#
+#HINT#
+90
+
+#TEXT#
+The status line will show you the current positions of the lights.
+#FINISH#
+#HINT#
+90
+
+#TEXT#
+You should plan to head NORTH when the three lights are all aimed away from 
+you.
+#FINISH#
+#HINT#
+90
+
+#TEXT#
+Make sure you understand where YOU are in relation to the three lights; the right 
+times to cross differ depending on your position.
+#FINISH#
+#HINT#
+90
+
+#TEXT#
+To cross successfully, you must be in good physical condition.
+#FINISH#
+#HINT#
+90
+
+#TEXT#
+That means warm and not bleeding.
+#FINISH#
+#HINT#
+90
+
+#TEXT#
+You should also be wearing proper shoes.
+#FINISH#
+#HINT#
+90
+
+#TEXT#
+For example, the WORK SHOES in the hut
+#FINISH#
+#TOPIC#
+40
+How can I cross the first fence?
+#HINT#
+99
+
+#TEXT#
+It's electrified, so you'd best not touch it. 
+#FINISH#
+#HINT#
+99
+
+#TEXT#
+Also, you'll need something to break the chain links.
+#FINISH#
+#HINT#
+99
+
+#TEXT#
+You could use something insulating on your hands. 
+#FINISH#
+#HINT#
+99
+
+#TEXT#
+Perhaps RUBBER GLOVES, from the woodshed.
+#FINISH#
+#HINT#
+99
+
+#TEXT#
+You'll also need the BOLT CUTTERS, also found in the woodshed.
+#FINISH#
+#HINT#
+99
+
+#TEXT#
+You'll have to LOOK AT THE TOOLS to find the gloves and the bolt cutters.
+#FINISH#
+#HINT#
+99
+
+#TEXT#
+Try CUTting the LINKS WITH THE BOLT CUTTERS. 
+#FINISH#
+#HINT#
+99
+
+#TEXT#
+Oh, yeah. If you want to get through the fence, you'll have to BEND (or PULL) it 
+back, otherwise you'll get zapped going through. 
+#FINISH#
+#TOPIC#
+40
+How can I survive the tear gas?
+#HINT#
+108
+
+#TEXT#
+Did you don your gas mask? 
+#FINISH#
+#HINT#
+108
+
+#TEXT#
+And why not? 
+#FINISH#
+#HINT#
+108
+
+#TEXT#
+Oh, you don't have one.
+#FINISH#
+#HINT#
+108
+
+#TEXT#
+Perhaps you're playing the wrong game? 
+#FINISH#
+#HINT#
+108
+
+#TEXT#
+Or cheating? 
+#FINISH#
+#HINT#
+108
+
+#TEXT#
+Either way, it doesn't reflect well on you.
+#FINISH#
+#TOPIC#
+40
+How can I avoid the border guards?
+#HINT#
+115
+
+#TEXT#
+Both are moving, so you should WATCH them.
+#FINISH#
+#HINT#
+115
+
+#TEXT#
+When they are facing away from you, you have some freedom of action
+#FINISH#
+#HINT#
+115
+
+#TEXT#
+Unless you're in front of the middle tower, you are ALWAYS in view of one of the 
+guards.
+#FINISH#
+#HINT#
+115
+
+#TEXT#
+The quieter you are, the better.
+#FINISH#
+#HINT#
+115
+
+#TEXT#
+The farther away they are, the better. 
+#FINISH#
+#HINT#
+115
+
+#TEXT#
+The less you hang around there, the better.
+#FINISH#
+#TOPIC#
+40
+How do I get past the second fence?
+#HINT#
+122
+
+#TEXT#
+There's no way. 
+#FINISH#
+#HINT#
+122
+
+#TEXT#
+You can't. 
+#FINISH#
+#HINT#
+122
+
+#TEXT#
+Really. 
+#FINISH#
+#HINT#
+122
+
+#TEXT#
+No.
+#FINISH#
+#HINT#
+122
+
+#TEXT#
+!
+#FINISH#
+#TOPIC#
+40
+How can I cross the border?
+#HINT#
+128
+
+#TEXT#
+If you haven't gotten to the guard tower yet, don't read any further. 
+#FINISH#
+#HINT#
+128
+
+#TEXT#
+How tall is the fence? 
+#FINISH#
+#HINT#
+128
+
+#TEXT#
+How tall is the tower? 
+#FINISH#
+#HINT#
+128
+
+#TEXT#
+It might be possible to "ride" the tower across the border.
+#FINISH#
+#HINT#
+128
+
+#TEXT#
+An explosive device would be useful in this regard.
+#FINISH#
+#HINT#
+128
+
+#TEXT#
+But where to put it? 
+#FINISH#
+#HINT#
+128
+
+#TEXT#
+The posts are fairly weak, but choose well.
+#FINISH#
+#HINT#
+128
+
+#TEXT#
+The northern posts will work. ATTACH THE PEN TO THE NE (NW) POST
+#FINISH#
+#HINT#
+128
+
+#TEXT#
+Oh, first you should set the timer and arm the device. 
+#FINISH#
+#HINT#
+128
+
+#TEXT#
+Then, you should get INTO the tower.
+#FINISH#
+#TOPIC#
+40
+How do I get into the tower?
+#HINT#
+139
+
+#TEXT#
+Did you try knocking on the door? 
+#FINISH#
+#HINT#
+139
+
+#TEXT#
+Well, that doesn't mean that you should be just standing there with a stupid look 
+on your face... 
+#FINISH#
+#HINT#
+139
+
+#TEXT#
+Check out the brace; you can GET ON it. 
+#FINISH#
+#HINT#
+139
+
+#TEXT#
+Then try KNOCKing on the DOOR.
+#FINISH#
+#HINT#
+139
+
+#TEXT#
+No, we're not pulling your leg. 
+#FINISH#
+#TOPIC#
+40
+The guards are coming after me!
+#HINT#
+145
+
+#TEXT#
+Well, what did you expect? 
+#FINISH#
+#HINT#
+145
+
+#TEXT#
+You can't leave; you can't fight; or can you? 
+#FINISH#
+#HINT#
+145
+
+#TEXT#
+You'll have to somehow blow up the tower and yet stay in relative safety (no mean 
+trick). 
+#FINISH#
+#HINT#
+145
+
+#TEXT#
+This hinges on where you've placed the explosive, how you've set the timer, and 
+where you are when it goes off. 
+#FINISH#
+#HINT#
+145
+
+#TEXT#
+See the question regarding "How can I cross the border?"
+#FINISH#
+#TOPIC#
+0
+The Assassination
+#TOPIC#
+151
+Where is the sniper hiding?
+#HINT#
+152
+
+#TEXT#
+Have you seen your contact, the antique dealer? 
+#FINISH#
+#HINT#
+152
+
+#TEXT#
+The antique shop is just west of the southwest corner of the square (i.e. south and 
+west of your starting position).
+#FINISH#
+#HINT#
+152
+
+#TEXT#
+Be careful; the police are sometimes inside, checking around. They know who 
+you are, so you'd better not get seen. 
+#FINISH#
+#HINT#
+152
+
+#TEXT#
+You'll have to find out yourself on which floor of the apartment building the sniper 
+is hiding, but at least your contact had the password. 
+#FINISH#
+#HINT#
+152
+
+#TEXT#
+Perhaps he is, in some way, visible from the street; the town square might be a 
+good vantage point. 
+#FINISH#
+#HINT#
+152
+
+#TEXT#
+From the town square, try LOOKing AT THE WINDOWS or BUILDINGS. There 
+are three open windows in the apartment building; the sniper is in one of them. 
+#FINISH#
+#HINT#
+152
+
+#TEXT#
+In the apartment building's lobby, there is a directory of residents; maybe there is 
+some information there. 
+#FINISH#
+#HINT#
+152
+
+#TEXT#
+There is only one vacant apartment with the window open. Guess who's in it? 
+#FINISH#
+#TOPIC#
+151
+How do I get TO the sniper?
+#HINT#
+161
+
+#TEXT#
+You can try using the elevator in the apartment lobby.
+#FINISH#
+#HINT#
+161
+
+#TEXT#
+Or, have you been into the alley?
+#FINISH#
+#HINT#
+161
+
+#TEXT#
+Down at the end is a fire-escape ladder.
+#FINISH#
+#HINT#
+161
+
+#TEXT#
+If you TAKE THE TRASH CAN, then PUT THE TRASH CAN UNDER THE 
+LADDER, then STAND ON THE CAN, you can easily reach the ladder. Then, go 
+up to the proper floor. 
+#FINISH#
+#HINT#
+161
+
+#TEXT#
+Knock on the door, and have the password handy. If you don't give the password 
+quickly, the sniper will ignore you for the remainder of the scenario. 
+#FINISH#
+#TOPIC#
+151
+How do I get the password?
+#HINT#
+167
+
+#TEXT#
+You'll have to meet with your contact, the antique dealer. See the previous 
+question. 
+#FINISH#
+#TOPIC#
+151
+Should I kill the sniper?
+#HINT#
+169
+
+#TEXT#
+An interesting dilemma. If you kill the sniper, your cover is broken, due to suspicion 
+regarding the gun used (yours) and the incident on the train, in which you lost the 
+coded document. On the other hand, you stop the assassination. All in all, a mixed 
+bag. You can do better. 
+#FINISH#
+#TOPIC#
+151
+Why does the sniper kill me?
+#HINT#
+171
+
+#TEXT#
+A variety of reasons. First, anything you do that might cause him to think you're 
+intent on defeating him will get you killed. Also, arriving at his door while you're 
+being pursued is a definite killer. 
+#FINISH#
+#TOPIC#
+151
+How can I avoid Topaz?
+#HINT#
+173
+
+#TEXT#
+Once he's seen you, he will doggedly pursue you for the remainder of your alloted 
+time (i.e. until the assassination happens.) 
+#FINISH#
+#HINT#
+173
+
+#TEXT#
+He can be avoided by staying away from the cafe. The more you pass by there or 
+spend time there, the more likely that he'll see you. 
+#FINISH#
+#HINT#
+173
+
+#TEXT#
+Maybe you don't want to avoid him... 
+#FINISH#
+#TOPIC#
+151
+Can Topaz help me?
+#HINT#
+177
+
+#TEXT#
+Firstly, his interest and yours are similar - preventing the assassination. In your 
+case, however, you daren't risk exposing yourself to Topaz, firstly, for fear of being 
+seen by other Soviet agents and, secondly, for fear of being killed by Topaz, who 
+has an axe to grind with you. 
+#FINISH#
+#HINT#
+177
+
+#TEXT#
+Can you arrange for Topaz to kill the sniper? 
+#FINISH#
+#HINT#
+177
+
+#TEXT#
+Think about it... 
+#FINISH#
+#HINT#
+177
+
+#TEXT#
+Topaz will follow you anywhere, even to the sniper's room. 
+#FINISH#
+#HINT#
+177
+
+#TEXT#
+If you can lead him there, you're home free. Almost. 
+#FINISH#
+#TOPIC#
+151
+Topaz always catches me. Why?
+#HINT#
+183
+
+#TEXT#
+He's about the same speed as you, so you're usually fine. Unless you're in the 
+alley, trying to get to the fire-escape ladder. That takes more time than you've got. 
+#FINISH#
+#HINT#
+183
+
+#TEXT#
+Can you put a stumbling block in his way? 
+#FINISH#
+#HINT#
+183
+
+#TEXT#
+You can TOPPLE THE VENDOR'S CART and make an unholy mess; that will 
+hold Topaz for a little while. After that, it's up to you. 
+#FINISH#
+#TOPIC#
+151
+I can't get the best ending. Why?
+#HINT#
+187
+
+#TEXT#
+Presumably, you have found the sniper and know the password. 
+#FINISH#
+#HINT#
+187
+
+#TEXT#
+Also, you know that Topaz can be made to kill the sniper for you. 
+#FINISH#
+#HINT#
+187
+
+#TEXT#
+Meaning that Topaz must follow you up to the sniper's room. See the previous 
+clue for help in this regard.
+#FINISH#
+#HINT#
+187
+
+#TEXT#
+Once you're in the sniper's room, Topaz will never find you in time unless you've 
+helped him along. 
+#FINISH#
+#HINT#
+187
+
+#TEXT#
+DROP something before giving the password; it's presence will alert Topaz to 
+yours. Oh, and make it small or the sniper will find it instead. 
+#FINISH#
+#HINT#
+187
+
+#TEXT#
+And HIDE or STAND BEHIND THE DOOR so that you won't get in Topaz's line of 
+fire and get killed with the sniper. 
+#FINISH#
+#HINT#
+187
+
+#TEXT#
+Then, HIT TOPAZ, and he'll never know what happened. 
+#FINISH#
+#TOPIC#
+0
+Have you ever tried ?
+#HINT#
+195
+
+#TEXT#
+dropping things in the passageway?
+#FINISH#
+#HINT#
+195
+
+#TEXT#
+entering other compartments (they're all different!) 
+#FINISH#
+#HINT#
+195
+
+#TEXT#
+photographing things at the train platform? 
+#FINISH#
+#HINT#
+195
+
+#TEXT#
+photographing the bad spy? yourself? the camera? 
+#FINISH#
+#HINT#
+195
+
+#TEXT#
+pulling the stop cord on the train? 
+#FINISH#
+#HINT#
+195
+
+#TEXT#
+jumping out the window in your compartment?
+#FINISH#
+#HINT#
+195
+
+#TEXT#
+giving the document (or shreds) to the bad spy? 
+#FINISH#
+#HINT#
+195
+
+#TEXT#
+reading the graffiti in the bathroom? 
+#FINISH#
+#HINT#
+195
+
+#TEXT#
+putting things in the sink? 
+#FINISH#
+#HINT#
+195
+
+#TEXT#
+flushing things down the toilet?
+#FINISH#
+#HINT#
+195
+
+#TEXT#
+trying to hide the document every place you can think of? 
+#FINISH#
+#HINT#
+195
+
+#TEXT#
+taking a gun from one of the guards?
+#FINISH#
+#HINT#
+195
+
+#TEXT#
+having the bomb explode in the car? Or in or adjacent to the hut? Or the shed? 
+#FINISH#
+#HINT#
+195
+
+#TEXT#
+going farther into the swamp? 
+#FINISH#
+#HINT#
+195
+
+#TEXT#
+knocking on the tower door for a second time? 
+#FINISH#
+#HINT#
+195
+
+#TEXT#
+using the binoculars? On something you're carrying?
+#FINISH#
+#HINT#
+195
+
+#TEXT#
+climbing the hut?
+#FINISH#
+#HINT#
+195
+
+#TEXT#
+buying food from the vendor?
+#FINISH#
+#HINT#
+195
+
+#TEXT#
+taking food after toppling the cart?
+#FINISH#
+#HINT#
+195
+
+#TEXT#
+throwing things at Topaz as he chases you? 
+#FINISH#
+#HINT#
+195
+
+#TEXT#
+killing the sniper yourself? with Topaz's gun?
+#FINISH#
+#HINT#
+195
+
+#TEXT#
+figuring out how many Infocom people live in the Gribnitz apartments?
+#FINISH#

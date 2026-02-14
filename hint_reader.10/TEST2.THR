@@ -1,0 +1,44 @@
+100
+The Hitchhiker´s Guide to the galaxy
+Times New Roman
+16711680
+18
+1000
+This file was created by Stefan Meier, 1996
+#NOTICE<#
+InfoCom InvisiClues are registered trademark of Activision
+#>NOTICE#
+#TOPIC#
+0
+Dies ist ein Thema
+#HINT#
+1
+
+#TEXT#
+Dies ist ein Hint
+#FINISH#
+#PIC#
+1
+E:\work\hint_reader\main.bmp
+1
+<Komplettes Bild; Complete picture>
+0,0,446,210
+#TOPIC#
+0
+Das ist noch ein Thema
+#TOPIC#
+4
+Das ist ein Unterthema
+#HINT#
+5
+
+#TEXT#
+Hinweis des Unterthemas
+#FINISH#
+#TOPIC#
+4
+blathema
+#MM#
+7
+Dies ist ein Wave-File
+F:\WINNT35\Media\ding.wav

@@ -1,0 +1,1963 @@
+100
+Zork I InvisiClues(tm)
+MS Sans Serif
+16776960
+26
+1000
+Converted to THL 1996 by Stefan Meier
+#NOTICE<#
+Copyright by Infocom, Inc. Provided for non-commercial use only, with the sole intent of making information available that would otherwise be lost.
+#>NOTICE#
+#TOPIC#
+0
+Sample Question
+#TOPIC#
+1
+How many grues does it take to screw in a light bulb?
+#HINT#
+2
+
+#TEXT#
+Don't go on unless you've asked WHAT IS A GRUE?
+#FINISH#
+#HINT#
+2
+
+#TEXT#
+You could break a bulb, then hide and watch what happens. 
+#FINISH#
+#HINT#
+2
+
+#TEXT#
+None. Grues are terrified of light.
+#FINISH#
+#TOPIC#
+0
+Above Ground
+#TOPIC#
+6
+Where do I find a machete?
+#HINT#
+7
+
+#TEXT#
+There is none. The game must have _some_ limitations. You can't expect to walk 
+to the nearest airport and fly to London to see the British Museum...
+#FINISH#
+#TOPIC#
+6
+How do I cross the mountains?
+#HINT#
+9
+
+#TEXT#
+Play ZORK II.
+#FINISH#
+#TOPIC#
+6
+How do I kill the songbird?
+#HINT#
+11
+
+#TEXT#
+What a concept! You need a psychiatrist.
+#FINISH#
+#TOPIC#
+6
+Is the nest useful for anything?
+#HINT#
+13
+
+#TEXT#
+In China you might make bird's nest soup.
+#FINISH#
+#HINT#
+13
+
+#TEXT#
+This is not China.
+#FINISH#
+#HINT#
+13
+
+#TEXT#
+In other words, no.
+#FINISH#
+#TOPIC#
+6
+How do I open the egg without damaging it?
+#HINT#
+17
+
+#TEXT#
+_You_ don't.
+#FINISH#
+#HINT#
+17
+
+#TEXT#
+Have you tried saying OPEN EGG?
+#FINISH#
+#HINT#
+17
+
+#TEXT#
+It takes a great deal of manual dexterity and the proper tools.
+#FINISH#
+#HINT#
+17
+
+#TEXT#
+Someone else in the game can do it.
+#FINISH#
+#HINT#
+17
+
+#TEXT#
+Only the Thief can open the egg. Give it to him or leave it underground where he 
+will find it.
+#FINISH#
+#TOPIC#
+6
+How do I fix the broken canary?
+#HINT#
+23
+
+#TEXT#
+It is broken beyond repair.
+#FINISH#
+#HINT#
+23
+
+#TEXT#
+No one can fix it. Really!
+#FINISH#
+#TOPIC#
+6
+Are the leaves useful for anything?
+#HINT#
+26
+
+#TEXT#
+They're great for hiding gratings.
+#FINISH#
+#HINT#
+26
+
+#TEXT#
+They can be taken, counted, or burned.
+#FINISH#
+#TOPIC#
+6
+How do I open the grating?
+#HINT#
+29
+
+#TEXT#
+You must unlock it.
+#FINISH#
+#HINT#
+29
+
+#TEXT#
+You need the skeleton key.
+#FINISH#
+#HINT#
+29
+
+#TEXT#
+It can be unlocked only from below.
+#FINISH#
+#HINT#
+29
+
+#TEXT#
+The grating and key can be found in the Maze.
+#FINISH#
+#TOPIC#
+6
+How do I get off the roof of the house?
+#HINT#
+34
+
+#TEXT#
+How did you get up there? 
+#FINISH#
+#HINT#
+34
+
+#TEXT#
+Someone from Infocom would love to hear how you did it.
+#FINISH#
+#HINT#
+34
+
+#TEXT#
+This is one of those questions which was put in here for the sole purpose of 
+teaching a lesson -- do not use the presence or absence of a question on a 
+certain topic as an indication of what is important, and don't assume that long 
+answers indicate important questions.
+#FINISH#
+#TOPIC#
+6
+Once I have the canary in an undamaged state, what do I do with it?
+#HINT#
+38
+
+#TEXT#
+Something is attracted to its singing.
+#FINISH#
+#HINT#
+38
+
+#TEXT#
+It is also a treasure.
+#FINISH#
+#HINT#
+38
+
+#TEXT#
+Try winding it in the forest.
+#FINISH#
+#TOPIC#
+6
+How do I get the brass bauble?
+#HINT#
+42
+
+#TEXT#
+You must open the egg first.
+#FINISH#
+#HINT#
+42
+
+#TEXT#
+See the previous question.
+#FINISH#
+#TOPIC#
+6
+How do I open the front door?
+#HINT#
+45
+
+#TEXT#
+It cannot be knocked down.
+#FINISH#
+#HINT#
+45
+
+#TEXT#
+It cannot be destroyed.
+#FINISH#
+#HINT#
+45
+
+#TEXT#
+It cannot be opened.
+#FINISH#
+#TOPIC#
+6
+How do I get into the house?
+#HINT#
+49
+
+#TEXT#
+Have you checked all sides?
+#FINISH#
+#HINT#
+49
+
+#TEXT#
+There's a window in the back which is partly open. Open it and climb through.
+#FINISH#
+#TOPIC#
+6
+Can I eat the lunch?
+#HINT#
+52
+
+#TEXT#
+Try it. Try the water, too. You can't be afraid to try _anything_ in ZORK I (but it 
+may make sense to SAVE your state first).
+#FINISH#
+#TOPIC#
+6
+How do I get into the dungeons?
+#HINT#
+54
+
+#TEXT#
+The entrance is in the house.
+#FINISH#
+#HINT#
+54
+
+#TEXT#
+Trapdoors can be hidden.
+#FINISH#
+#HINT#
+54
+
+#TEXT#
+Move the rug.
+#FINISH#
+#TOPIC#
+6
+What is a grue?
+#HINT#
+58
+
+#TEXT#
+Ask ZORK I.
+#FINISH#
+#TOPIC#
+0
+The Cellar Area
+#TOPIC#
+60
+Can the trapdoor be opened from below?
+#HINT#
+61
+
+#TEXT#
+No. The only way to keep the trapdoor from closing behind you is to find another 
+exit (other than the chimney, which is very limited).
+#FINISH#
+#TOPIC#
+60
+How do I get up the ramp in the Cellar?
+#HINT#
+63
+
+#TEXT#
+"The ramp is too slippery to climb."
+#FINISH#
+#HINT#
+63
+
+#TEXT#
+Is there a way to make it less slippery?
+#FINISH#
+#HINT#
+63
+
+#TEXT#
+No. You won't ever get up the ramp.
+#FINISH#
+#TOPIC#
+60
+How do I negotiate with the Troll?
+#HINT#
+67
+
+#TEXT#
+Trolls tend not to be conversational. They require a much more direct approach.
+#FINISH#
+#HINT#
+67
+
+#TEXT#
+You won't get past the Troll while he is conscious.
+#FINISH#
+#HINT#
+67
+
+#TEXT#
+Kill him with the sword.
+#FINISH#
+#TOPIC#
+60
+What do I do with the axe?
+#HINT#
+71
+
+#TEXT#
+It can be used as a weapon, but isn't really necessary for anything.
+#FINISH#
+#HINT#
+71
+
+#TEXT#
+This space intentionally left blank.
+#FINISH#
+#TOPIC#
+60
+Does the paint in the studio mean anything?
+#HINT#
+74
+
+#TEXT#
+The artist was sloppy.
+#FINISH#
+#TOPIC#
+0
+The Maze
+#TOPIC#
+76
+How do I get through the Maze?
+#HINT#
+77
+
+#TEXT#
+It is essential that you make a map of the Maze.
+#FINISH#
+#HINT#
+77
+
+#TEXT#
+All ten directions are used: N, S, E, W, NE, NW, SE, SW, UP and DOWN.
+#FINISH#
+#HINT#
+77
+
+#TEXT#
+Some passages lead back to the same room.
+#FINISH#
+#HINT#
+77
+
+#TEXT#
+Rooms can be marked by dropping objects. (However, the Thief can be a pain.)
+#FINISH#
+#HINT#
+77
+
+#TEXT#
+There are 22 rooms west of the Troll Room.
+#FINISH#
+#TOPIC#
+76
+What do I do with the rusty knife?
+#HINT#
+83
+
+#TEXT#
+If you had your sword when you took it, the pulse of blinding light should have 
+served as a warning.
+#FINISH#
+#HINT#
+83
+
+#TEXT#
+Try throwing the knife or attacking someone with it.
+#FINISH#
+#TOPIC#
+76
+What do I do with the skeleton?
+#HINT#
+86
+
+#TEXT#
+Let the dead rest in peace.
+#FINISH#
+#HINT#
+86
+
+#TEXT#
+This space intentionally left blank.
+#FINISH#
+#TOPIC#
+76
+Can I use the broken lantern?
+#HINT#
+89
+
+#TEXT#
+If you think it's useful, there's this bridge you might be interested in.
+#FINISH#
+#TOPIC#
+76
+How do I get past the Cyclops?
+#HINT#
+91
+
+#TEXT#
+Fighting isn't always the answer.
+#FINISH#
+#HINT#
+91
+
+#TEXT#
+There are two solutions. The alternate begins at 6.
+#FINISH#
+#HINT#
+91
+
+#TEXT#
+What happens if you hang around too long, or give something to the Cyclops?
+#FINISH#
+#HINT#
+91
+
+#TEXT#
+He's hungry, isn't he?
+#FINISH#
+#HINT#
+91
+
+#TEXT#
+Feed him the lunch and water.
+#FINISH#
+#HINT#
+91
+
+#TEXT#
+Do you remember your mythology?
+#FINISH#
+#HINT#
+91
+
+#TEXT#
+Take a very close look at the commandment in the black book.
+#FINISH#
+#HINT#
+91
+
+#TEXT#
+The Cyclops is scared silly of the name of his father's nemesis, ODYSSEUS (first 
+letter of each line in commandment -- some computer screens are narrow and 
+make this more difficult to see). The Latin version of the name, ULYSSES, is also 
+accepted. 
+#FINISH#
+#HINT#
+91
+
+#TEXT#
+For fun, try saying ODYSSEUS elsewhere.
+#FINISH#
+#TOPIC#
+0
+The Round Room Area
+#TOPIC#
+101
+How do I get the platinum bar?
+#HINT#
+102
+
+#TEXT#
+For ZORK I releases (revisions) 1 through 14, the only solution to this problem 
+begins at 7. For ZORK I releases 15 on, there are two solutions -- the preferred 
+solution begins at 2, the alternate at 7.
+#FINISH#
+#HINT#
+102
+
+#TEXT#
+What is causing the loud roar?
+#FINISH#
+#HINT#
+102
+
+#TEXT#
+Is there a way to control the flow of water?
+#FINISH#
+#HINT#
+102
+
+#TEXT#
+Solve the puzzle of the dam.
+#FINISH#
+#HINT#
+102
+
+#TEXT#
+Does opening or closing the dam gates affect anything downstream?
+#FINISH#
+#HINT#
+102
+
+#TEXT#
+Open the dam gates. Wait until the reservoir is empty, then close the gates. Take 
+advantage of the silence in the Loud Room while the reservoir refills.
+#FINISH#
+#HINT#
+102
+
+#TEXT#
+This solution to the Loud Room requires no object or information from elsewhere in 
+the game.
+#FINISH#
+#HINT#
+102
+
+#TEXT#
+The solution has something to do with the room's acoustics.
+#FINISH#
+#HINT#
+102
+
+#TEXT#
+What happens whenever you say something? >something?< >>something?<<
+#FINISH#
+#HINT#
+102
+
+#TEXT#
+Type ECHO.
+#FINISH#
+#TOPIC#
+101
+How do I kill the rock?
+#HINT#
+113
+
+#TEXT#
+How silly! 
+#FINISH#
+#HINT#
+113
+
+#TEXT#
+The term "living rock" is metaphorical, and should not be taken literally.
+#FINISH#
+#TOPIC#
+101
+Is there anything special about the mirror?
+#HINT#
+116
+
+#TEXT#
+Breaking it is not a good idea.
+#FINISH#
+#HINT#
+116
+
+#TEXT#
+Looking into it can be fun.
+#FINISH#
+#HINT#
+116
+
+#TEXT#
+Did you ever try touching or rubbing it? 
+#FINISH#
+#HINT#
+116
+
+#TEXT#
+There are two Mirror Rooms. Touching the mirror in one transports you to the 
+other.
+#FINISH#
+#TOPIC#
+101
+How do I enter Hades?
+#HINT#
+121
+
+#TEXT#
+You must exorcise the evil spirits.
+#FINISH#
+#HINT#
+121
+
+#TEXT#
+For a hint, turn the page in the black book.
+#FINISH#
+#HINT#
+121
+
+#TEXT#
+It requires the bell, book and candles.
+#FINISH#
+#HINT#
+121
+
+#TEXT#
+Ring the bell, light the candles, and read the black book.
+#FINISH#
+#HINT#
+121
+
+#TEXT#
+The order in which you perform the ceremony is very important. Also, you must be 
+holding the candles when you light them. Speed is of the essence, too -- don't 
+waste any more time than is necessary between steps.
+#FINISH#
+#TOPIC#
+101
+Can I get anywhere from the Dome Room?
+#HINT#
+127
+
+#TEXT#
+Yes. It is likely that you have seen the necessary equipment.
+#FINISH#
+#HINT#
+127
+
+#TEXT#
+It is found in the Attic.
+#FINISH#
+#HINT#
+127
+
+#TEXT#
+Tie the rope to the railing.
+#FINISH#
+#TOPIC#
+101
+Can I go up from the Torch Room?
+#HINT#
+131
+
+#TEXT#
+No. 
+#FINISH#
+#TOPIC#
+101
+How do I get out of the Temple area?
+#HINT#
+133
+
+#TEXT#
+You'll never reach the rope.
+#FINISH#
+#HINT#
+133
+
+#TEXT#
+You can leave from the altar end by going down, but "you haven't a prayer of 
+getting the coffin down that hole."
+#FINISH#
+#HINT#
+133
+
+#TEXT#
+Or solve the puzzle of the granite walls.
+#FINISH#
+#HINT#
+133
+
+#TEXT#
+The altar has magical powers. What is usually done at altars?
+#FINISH#
+#HINT#
+133
+
+#TEXT#
+Try praying. 
+#FINISH#
+#TOPIC#
+0
+The Dam Area
+#TOPIC#
+139
+How do I blow up the dam?
+#HINT#
+140
+
+#TEXT#
+What a concept!
+#FINISH#
+#HINT#
+140
+
+#TEXT#
+This space intentionally left blank.
+#FINISH#
+#TOPIC#
+139
+How is the control panel operated?
+#HINT#
+143
+
+#TEXT#
+You can turn the bolt.
+#FINISH#
+#HINT#
+143
+
+#TEXT#
+You need the wrench.
+#FINISH#
+#HINT#
+143
+
+#TEXT#
+You must activate the panel. (Green bubble lights up.)
+#FINISH#
+#TOPIC#
+139
+What is the green bubble for?
+#HINT#
+147
+
+#TEXT#
+It indicates that the control panel is activated. Use the buttons in the Maintenance 
+Room.
+#FINISH#
+#TOPIC#
+139
+What do I do with the object which looks like a tube of toothpaste?
+#HINT#
+149
+
+#TEXT#
+Read the tube.
+#FINISH#
+#HINT#
+149
+
+#TEXT#
+Brushing your teeth with it is not sensible.
+#FINISH#
+#HINT#
+149
+
+#TEXT#
+It doesn't oil the bolt well.
+#FINISH#
+#HINT#
+149
+
+#TEXT#
+Gooey gunk like this is good for patching leaks in water pipes or boats.
+#FINISH#
+#TOPIC#
+139
+What is the screwdriver for?
+#HINT#
+154
+
+#TEXT#
+You'll know when the time comes.
+#FINISH#
+#TOPIC#
+139
+What do the buttons in the Maintenance Room do?
+#HINT#
+156
+
+#TEXT#
+Try them all. You should be able to find out.
+#FINISH#
+#HINT#
+156
+
+#TEXT#
+The blue button causes a water pipe to burst.
+#FINISH#
+#HINT#
+156
+
+#TEXT#
+The red button turns the lights on and off.
+#FINISH#
+#HINT#
+156
+
+#TEXT#
+The yellow button activates the control panel at the dam. (The green bubble is 
+now glowing.)
+#FINISH#
+#HINT#
+156
+
+#TEXT#
+The brown bubble [sic] deactivates the control panel.
+#FINISH#
+#TOPIC#
+139
+Can I stop the leak?
+#HINT#
+162
+
+#TEXT#
+Yes, but not with your finger.
+#FINISH#
+#HINT#
+162
+
+#TEXT#
+Isn't there some sort of glop you could apply?
+#FINISH#
+#HINT#
+162
+
+#TEXT#
+Use the gunk in the tube.
+#FINISH#
+#TOPIC#
+139
+What is the pile of plastic good for?
+#HINT#
+166
+
+#TEXT#
+What is the valve for?
+#FINISH#
+#HINT#
+166
+
+#TEXT#
+Did you try blowing into it?
+#FINISH#
+#HINT#
+166
+
+#TEXT#
+You need the air pump, which is north of the Reservoir.
+#FINISH#
+#HINT#
+166
+
+#TEXT#
+Solve the dam problem, or figure out the mirror.
+#FINISH#
+#TOPIC#
+0
+Old Man River
+#TOPIC#
+171
+Can the river be crossed?
+#HINT#
+172
+
+#TEXT#
+Not without a boat.
+#FINISH#
+#TOPIC#
+171
+What will placate the River God?
+#HINT#
+174
+
+#TEXT#
+What have you tried to throw into the river?
+#FINISH#
+#HINT#
+174
+
+#TEXT#
+There is no River God. Anything thrown in is lost forever.
+#FINISH#
+#TOPIC#
+171
+How do I get back from across the river?
+#HINT#
+177
+
+#TEXT#
+If you launch the boat from Sandy Beach, you can cross the river to the west to 
+White Cliffs South.
+#FINISH#
+#HINT#
+177
+
+#TEXT#
+It is also possible to cross the rainbow.
+#FINISH#
+#TOPIC#
+171
+How do I control the boat?
+#HINT#
+180
+
+#TEXT#
+Read the label.
+#FINISH#
+#HINT#
+180
+
+#TEXT#
+You can say BOARD (or GET IN), DISEMBARK (or GET OUT), LAUNCH, and 
+LAND (or a direction towards a landing area). You can also let the current carry 
+you.
+#FINISH#
+#TOPIC#
+171
+How do I carry a pointy object onto the boat?
+#HINT#
+183
+
+#TEXT#
+Pointy objects can puncture a plastic boat. You should not carry them on. Put 
+them in the boat before boarding or put them into a container, such as the brown 
+sack, first.
+#FINISH#
+#TOPIC#
+171
+How do I go over the falls?
+#HINT#
+185
+
+#TEXT#
+Just stay in the boat and wait.
+#FINISH#
+#HINT#
+185
+
+#TEXT#
+Well, what did you expect?
+#FINISH#
+#HINT#
+185
+
+#TEXT#
+"I see no intelligence here."
+#FINISH#
+#HINT#
+185
+
+#TEXT#
+By the way, have you ever taken a close look at the word ARAGAIN?
+#FINISH#
+#TOPIC#
+171
+What is the significance of the rainbow?
+#HINT#
+190
+
+#TEXT#
+You can cross it and get the pot of gold.
+#FINISH#
+#HINT#
+190
+
+#TEXT#
+You do not click your heels together three times while saying "There's no place 
+like home."
+#FINISH#
+#HINT#
+190
+
+#TEXT#
+The description of one of the treasures, and the result of manipulating it properly 
+were meant to be subtle hints.
+#FINISH#
+#HINT#
+190
+
+#TEXT#
+Raise or wave the sceptre while standing at the end of the rainbow.
+#FINISH#
+#TOPIC#
+171
+How do I get through the crack in the Damp Cave?
+#HINT#
+195
+
+#TEXT#
+"It's too narrow for most insects."
+#FINISH#
+#HINT#
+195
+
+#TEXT#
+You don't.
+#FINISH#
+#TOPIC#
+171
+How do I turn myself into an insect?
+#HINT#
+198
+
+#TEXT#
+Build a cocoon?
+#FINISH#
+#HINT#
+198
+
+#TEXT#
+Not bloody likely.
+#FINISH#
+#TOPIC#
+0
+The Coal Mine Area
+#TOPIC#
+201
+What do I do about the bat?
+#HINT#
+202
+
+#TEXT#
+It's a vampire bat.
+#FINISH#
+#HINT#
+202
+
+#TEXT#
+Have you never watched an old horror movie?
+#FINISH#
+#HINT#
+202
+
+#TEXT#
+Use the garlic.
+#FINISH#
+#TOPIC#
+201
+How do I get beyond the Smelly Room?
+#HINT#
+206
+
+#TEXT#
+If your lantern battery is dead, forget it.
+#FINISH#
+#TOPIC#
+201
+How do I find my way through the coal mine?
+#HINT#
+208
+
+#TEXT#
+I would think you were an expert maze-mapper by now.
+#FINISH#
+#TOPIC#
+201
+Is the basket on the chain useful?
+#HINT#
+210
+
+#TEXT#
+Anything that complex in ZORK I is useful.
+#FINISH#
+#TOPIC#
+201
+How do I get through the narrow passage from the Timber Room?
+#HINT#
+212
+
+#TEXT#
+"You cannot fit through this passage with that load."
+#FINISH#
+#HINT#
+212
+
+#TEXT#
+Did you try dropping everything?
+#FINISH#
+#TOPIC#
+201
+What source of light can I bring into the Drafty Room?
+#HINT#
+215
+
+#TEXT#
+Matches.
+#FINISH#
+#HINT#
+215
+
+#TEXT#
+(Well, no one said they would work in a draft.) You can't carry a light source in. 
+There is another way.
+#FINISH#
+#HINT#
+215
+
+#TEXT#
+Why might the room be drafty?
+#FINISH#
+#HINT#
+215
+
+#TEXT#
+Did you ever wonder where the shaft with the basket led?
+#FINISH#
+#HINT#
+215
+
+#TEXT#
+Objects, including light sources, can be placed in the basket. The basket can be 
+lowered and raised.
+#FINISH#
+#TOPIC#
+201
+What is the timber for?
+#HINT#
+221
+
+#TEXT#
+It makes the room more interesting and the adventurer more confused.
+#FINISH#
+#TOPIC#
+201
+How do I use the machine?
+#HINT#
+223
+
+#TEXT#
+The switch description should remind you of something.
+#FINISH#
+#HINT#
+223
+
+#TEXT#
+Try putting something inside and turning the machine on with the screwdriver. 
+Have a dictionary handy.
+#FINISH#
+#HINT#
+223
+
+#TEXT#
+You can make a diamond from coal.
+#FINISH#
+#TOPIC#
+201
+What is meant by the "Granite Wall" in the Slide Room?
+#HINT#
+227
+
+#TEXT#
+Evidently the ancient Zorkers did not have strong truth-in-advertising laws. Take 
+nothing for granite.
+#FINISH#
+#TOPIC#
+201
+Is the coal good for anything?
+#HINT#
+229
+
+#TEXT#
+It is a source of carbon.
+#FINISH#
+#HINT#
+229
+
+#TEXT#
+One of the most valuable gems is made of carbon.
+#FINISH#
+#HINT#
+229
+
+#TEXT#
+Diamonds are pure carbon in crystalline form. They are created under tremendous 
+heat and pressure.
+#FINISH#
+#TOPIC#
+201
+Is the gas of any use?
+#HINT#
+233
+
+#TEXT#
+It's great for blowing up dim-witted adventurers who wander into a coal mine with 
+an open flame.
+#FINISH#
+#TOPIC#
+0
+The Land Beyond the Chasm
+#TOPIC#
+235
+How do I cross the chasm?
+#HINT#
+236
+
+#TEXT#
+There's no bridge.
+#FINISH#
+#TOPIC#
+235
+How do I build a bridge?
+#HINT#
+238
+
+#TEXT#
+An interesting idea...
+#FINISH#
+#HINT#
+238
+
+#TEXT#
+The timber might be useful.
+#FINISH#
+#HINT#
+238
+
+#TEXT#
+But then again, maybe not.
+#FINISH#
+#HINT#
+238
+
+#TEXT#
+A valiant attempt, but this is getting you nowhere.
+#FINISH#
+#TOPIC#
+235
+Why doesn't the magic word "plugh" work in the land beyond the chasm?
+#HINT#
+243
+
+#TEXT#
+"A hollow voice says Fool."
+#FINISH#
+#HINT#
+243
+
+#TEXT#
+Should nonsense words work anywhere in ZORK I?
+#FINISH#
+#HINT#
+243
+
+#TEXT#
+Remember the warning in the introduction. Do not let the presence or absence of 
+questions, or the lengths of the answers, influence your game.
+#FINISH#
+#TOPIC#
+235
+After the meteor strike activates the long-dormant volcano and destroys the bridge, how do I get back across the chasm?
+#HINT#
+247
+
+#TEXT#
+Whew! (That might actually be an interesting addition to the game.) 
+#FINISH#
+#TOPIC#
+0
+General Questions
+#TOPIC#
+249
+Why does the sword glow?
+#HINT#
+250
+
+#TEXT#
+Elvish swords are magical, and glow with a blue light when dangers (particularly 
+dangerous beings) are near.
+#FINISH#
+#TOPIC#
+249
+What do I do about the Thief?
+#HINT#
+252
+
+#TEXT#
+Discretion is the better part of valor.
+#FINISH#
+#HINT#
+252
+
+#TEXT#
+You can almost always avoid a confrontation by walking away. Although you may 
+be robbed, at least you won't be killed.
+#FINISH#
+#TOPIC#
+249
+How many points are there in the game?
+#HINT#
+255
+
+#TEXT#
+350. Any time you say QUIT, RESTART, or SCORE, this is pointed out.
+#FINISH#
+#TOPIC#
+249
+How do I get out of the dungeons?
+#HINT#
+257
+
+#TEXT#
+There are six exits.
+#FINISH#
+#HINT#
+257
+
+#TEXT#
+The chimney will allow you to carry one object at a time in addition to your lamp.
+#FINISH#
+#HINT#
+257
+
+#TEXT#
+Once you find an exit other than the chimney, the trapdoor will not close behind 
+you.
+#FINISH#
+#HINT#
+257
+
+#TEXT#
+Probably the easiest exit (conceptually) is by way of the grating. You will probably 
+come across the other three exits while solving some of the harder problems, but it 
+is not necessary to find more than one to complete the game.
+#FINISH#
+#TOPIC#
+249
+What is the significance of all the engravings?
+#HINT#
+262
+
+#TEXT#
+The knowledgeable critic, I. Q. Roundhead, wrote a ten-volume study of the 
+engravings of the ancient Zorkers. To make a long story short, he concluded that 
+the Zorkers were very strange people.
+#FINISH#
+#TOPIC#
+249
+How do I kill the Thief?
+#HINT#
+264
+
+#TEXT#
+The Thief is a cunning and dangerous opponent, skilled in the martial arts. Novice 
+Zorkers would do well to avoid him.
+#FINISH#
+#HINT#
+264
+
+#TEXT#
+It is possible to distract him for one move by giving him something of value.
+#FINISH#
+#HINT#
+264
+
+#TEXT#
+The nasty knife is a marginally more effective weapon to use against him.
+#FINISH#
+#HINT#
+264
+
+#TEXT#
+As you gain in points, you become a better match.
+#FINISH#
+#TOPIC#
+249
+How can I recharge my lamp?
+#HINT#
+269
+
+#TEXT#
+What makes you think you can?
+#FINISH#
+#HINT#
+269
+
+#TEXT#
+It is always best to conserve resources. You can prolong its life by turning it off 
+whenever you can and using alternate light sources.
+#FINISH#
+#TOPIC#
+249
+What happens when you die in ZORK I?
+#HINT#
+272
+
+#TEXT#
+You may appear in the forest with your belongings scattered (valuables below 
+ground, nonvaluables above).
+#FINISH#
+#HINT#
+272
+
+#TEXT#
+You may wander as a spirit until you find a way to resurrect yourself.
+#FINISH#
+#HINT#
+272
+
+#TEXT#
+ZORK I is as fair as baseball. Three strikes and you're out.
+#FINISH#
+#HINT#
+272
+
+#TEXT#
+You become a spirit if you have visited a certain location before death.
+#FINISH#
+#HINT#
+272
+
+#TEXT#
+The location is the altar in the South Temple.
+#FINISH#
+#HINT#
+272
+
+#TEXT#
+Try praying at the altar.
+#FINISH#
+#TOPIC#
+249
+Who is "the Other Occupant?"
+#HINT#
+279
+
+#TEXT#
+"He of the large bag."
+#FINISH#
+#HINT#
+279
+
+#TEXT#
+The Thief, of course.
+#FINISH#
+#TOPIC#
+249
+How do I go over the falls without killing myself?
+#HINT#
+282
+
+#TEXT#
+Why not ask, "How do I cut off my head without killing myself?"
+#FINISH#
+#TOPIC#
+249
+Where is HELLO SAILOR useful?
+#HINT#
+284
+
+#TEXT#
+Are you sure you want to know?
+#FINISH#
+#HINT#
+284
+
+#TEXT#
+Absolutely certain?
+#FINISH#
+#HINT#
+284
+
+#TEXT#
+To quote the black book, "Oh ye who go about saying unto each: 'Hello Sailor': 
+Dost thou know the magnitude of thy sin before the gods? ... Surely thou shalt 
+repent of thy cunning."
+#FINISH#
+#HINT#
+284
+
+#TEXT#
+Nowhere. (You were warned.)
+#FINISH#
+#TOPIC#
+249
+Why do things move and disappear in the dungeon?
+#HINT#
+289
+
+#TEXT#
+The Thief is constantly moving about.
+#FINISH#
+#HINT#
+289
+
+#TEXT#
+There is a high probability that he will take valuable objects (except the gold 
+coffin) which you have seen. There is a much lower probability that he will take a 
+nonvaluable object (again, only if you have seen it), and he may later decide to 
+drop it.
+#FINISH#
+#TOPIC#
+249
+Where are the treasures the Thief took from me?
+#HINT#
+292
+
+#TEXT#
+As he wanders about stealing things, he puts them in his bag. Whenever he stops 
+in his Treasure Room, he drops off the valuables he has collected.
+#FINISH#
+#HINT#
+292
+
+#TEXT#
+You can get the contents of the bag by defeating him in a fight.
+#FINISH#
+#HINT#
+292
+
+#TEXT#
+The Treasure Room is guarded by the Cyclops.
+#FINISH#
+#TOPIC#
+249
+What do I do with the stiletto?
+#HINT#
+296
+
+#TEXT#
+Congratulations! Getting the stiletto is rare. If you keep it away from the Thief, he 
+won't attack you.
+#FINISH#
+#HINT#
+296
+
+#TEXT#
+It is a weapon, nothing more.
+#FINISH#
+#TOPIC#
+249
+Who is the lean and hungry gentleman?
+#HINT#
+299
+
+#TEXT#
+The Thief.
+#FINISH#
+#TOPIC#
+249
+Where can I use the shovel?
+#HINT#
+301
+
+#TEXT#
+It will dig only into very soft soil.
+#FINISH#
+#HINT#
+301
+
+#TEXT#
+Try it in the sand.
+#FINISH#
+#HINT#
+301
+
+#TEXT#
+The sand in the Sandy Cove [sic] is most promising.
+#FINISH#
+#TOPIC#
+249
+Is there any significance to all the granite walls?
+#HINT#
+305
+
+#TEXT#
+There are only two true granite walls.
+#FINISH#
+#HINT#
+305
+
+#TEXT#
+While next to a real granite wall, you can transport yourself to the location of the 
+other by saying the name of the room.
+#FINISH#
+#HINT#
+305
+
+#TEXT#
+The two granite walls are in the Temple and the Treasure Room.
+#FINISH#
+#TOPIC#
+249
+Which object is best for casting images? 
+#HINT#
+309
+
+#TEXT#
+What are you talking about?
+#FINISH#
+#HINT#
+309
+
+#TEXT#
+This space intentionally left blank.
+#FINISH#
+#TOPIC#
+0
+How Points are Scored
+#TOPIC#
+312
+Progress Points
+#HINT#
+313
+
+#TEXT#
+You get 10 points for getting into the house, 25 for getting into the Cellar, 5 for 
+getting past the Troll, 13 for getting to the Drafty Room, and 25 for getting to the 
+Treasure Room. These points plus all the treasure points make 350. When you 
+have all 350 points, the twentieth treasure will appear in the case -- a map which 
+leads (indirectly) to 400 more points (ZORK II).
+#FINISH#
+#TOPIC#
+312
+Treasures: Their Values and Locations
+#HINT#
+315
+
+#TEXT#
+Legend: Treasure, Value (touch), Value (case), Where
+#FINISH#
+#HINT#
+315
+
+#TEXT#
+Jewel-encrusted egg, 5, 5, Nest in the tree
+#FINISH#
+#HINT#
+315
+
+#TEXT#
+Clockwork canary, 6, 4, In the egg
+#FINISH#
+#HINT#
+315
+
+#TEXT#
+Beautiful painting, 4, 6, Gallery
+#FINISH#
+#HINT#
+315
+
+#TEXT#
+Platinum bar, 10, 5, Loud room
+#FINISH#
+#HINT#
+315
+
+#TEXT#
+Ivory torch, 14, 6, Torch room
+#FINISH#
+#HINT#
+315
+
+#TEXT#
+Gold coffin, 10, 15, Egypt room
+#FINISH#
+#HINT#
+315
+
+#TEXT#
+Egyptian sceptre, 4, 6, In the coffin
+#FINISH#
+#HINT#
+315
+
+#TEXT#
+Trunk of jewels, 15, 5, Reservoir
+#FINISH#
+#HINT#
+315
+
+#TEXT#
+Crystal trident, 4, 11, Altlantis room
+#FINISH#
+#HINT#
+315
+
+#TEXT#
+Jade figurine, 5, 5, Bat room
+#FINISH#
+#HINT#
+315
+
+#TEXT#
+Sapphire bracelet, 5, 5, Gas room
+#FINISH#
+#HINT#
+315
+
+#TEXT#
+Huge diamond, 10, 10, You create it
+#FINISH#
+#HINT#
+315
+
+#TEXT#
+Bag of coins, 10, 5, In the maze
+#FINISH#
+#HINT#
+315
+
+#TEXT#
+Crystal skull, 10, 10, Land of the living dead
+#FINISH#
+#HINT#
+315
+
+#TEXT#
+Jeweled scarab, 5, 5, Buried in the sandy cave
+#FINISH#
+#HINT#
+315
+
+#TEXT#
+Large emerald, 5, 10, In the buoy
+#FINISH#
+#HINT#
+315
+
+#TEXT#
+Silver chalice, 10, 5, Treasure room
+#FINISH#
+#HINT#
+315
+
+#TEXT#
+Pot of gold, 10, 10, End of rainbow
+#FINISH#
+#HINT#
+315
+
+#TEXT#
+Brass bauble, 1, 1, Songbird has it
+#FINISH#
+#TOPIC#
+0
+For Your Amusement (after you've finished)
+#TOPIC#
+336
+Have you ever...
+#HINT#
+337
+
+#TEXT#
+opened the grating from beneath while the leaves were still on it?
+#FINISH#
+#HINT#
+337
+
+#TEXT#
+tried swearing at ZORK I?
+#FINISH#
+#HINT#
+337
+
+#TEXT#
+waved the sceptre while standing on the rainbow?
+#FINISH#
+#HINT#
+337
+
+#TEXT#
+tried anything nasty with the bodies in Hades?
+#FINISH#
+#HINT#
+337
+
+#TEXT#
+burned the black book?
+#FINISH#
+#HINT#
+337
+
+#TEXT#
+damaged the painting?
+#FINISH#
+#HINT#
+337
+
+#TEXT#
+lit the candles with the torch?
+#FINISH#
+#HINT#
+337
+
+#TEXT#
+read the matchbook?
+#FINISH#
+#HINT#
+337
+
+#TEXT#
+tried to take yourself (or the Thief, Troll, or Cyclops)?
+#FINISH#
+#HINT#
+337
+
+#TEXT#
+tried cutting things with the knife or sword? 
+#FINISH#
+#HINT#
+337
+
+#TEXT#
+poured water on something burning?
+#FINISH#
+#HINT#
+337
+
+#TEXT#
+said WAIT or SCORE while dead (as a spirit)?
+#FINISH#
+#TOPIC#
+336
+Words you may not have tried:
+#HINT#
+350
+
+#TEXT#
+HELLO (to Troll, Thief, Cyclops)
+#FINISH#
+#HINT#
+350
+
+#TEXT#
+ZORK
+#FINISH#
+#HINT#
+350
+
+#TEXT#
+OIL (lubricate)
+#FINISH#
+#HINT#
+350
+
+#TEXT#
+XYZZY
+#FINISH#
+#HINT#
+350
+
+#TEXT#
+WALK AROUND (in forest, outside house, or inside house)
+#FINISH#
+#HINT#
+350
+
+#TEXT#
+PLUGH
+#FINISH#
+#HINT#
+350
+
+#TEXT#
+FIND (especially with house, hands, teeth, me)
+#FINISH#
+#HINT#
+350
+
+#TEXT#
+CHOMP
+#FINISH#
+#HINT#
+350
+
+#TEXT#
+COUNT (candles, leaves, matches)
+#FINISH#
+#HINT#
+350
+
+#TEXT#
+WIN
+#FINISH#
+#HINT#
+350
+
+#TEXT#
+MUMBLE (or SIGH)
+#FINISH#
+#HINT#
+350
+
+#TEXT#
+LISTEN (especially to the Troll, Thief, or Cyclops)
+#FINISH#
+#HINT#
+350
+
+#TEXT#
+REPENT
+#FINISH#
+#HINT#
+350
+
+#TEXT#
+WHAT IS (grue, zorkmid, ...)
+#FINISH#
+#HINT#
+350
+
+#TEXT#
+YELL (or SCREAM)
+#FINISH#
+#HINT#
+350
+
+#TEXT#
+SMELL
+#FINISH#

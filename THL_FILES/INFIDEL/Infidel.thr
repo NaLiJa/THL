@@ -1,0 +1,1996 @@
+100
+Infidel InvisiClues(tm)
+Times New Roman
+16776960
+30
+0000
+Converted to THL 1996 by Stefan Meier
+#NOTICE<#
+Copyright by Infocom, Inc. Provided for non-commercial use only, with the sole intent of making information available that would otherwise be lost.
+#>NOTICE#
+#TOPIC#
+0
+Sample Question
+#TOPIC#
+1
+Can I trust Hassan, the used camel dealer?
+#HINT#
+2
+
+#TEXT#
+Try to EXAMINE the camel that he recommends
+#FINISH#
+#HINT#
+2
+
+#TEXT#
+Ask one of the other customers about Hassan.
+#FINISH#
+#HINT#
+2
+
+#TEXT#
+I'd trust him about as far as I could throw a pyramid.
+#FINISH#
+#TOPIC#
+0
+Camping Out
+#TOPIC#
+6
+How do I open the trunk?
+#HINT#
+7
+
+#TEXT#
+You must remove the lock first.
+#FINISH#
+#HINT#
+7
+
+#TEXT#
+Try finding a key.
+#FINISH#
+#HINT#
+7
+
+#TEXT#
+Unfortunately, your ex-workers took the key with them.
+#FINISH#
+#HINT#
+7
+
+#TEXT#
+Fortunately, the lock isn't terribly sturdy.
+#FINISH#
+#HINT#
+7
+
+#TEXT#
+Try breaking the lock
+#FINISH#
+#HINT#
+7
+
+#TEXT#
+The pick axe, shovel, or blackened rock are heavy enough to do the job.
+#FINISH#
+#TOPIC#
+6
+Where can I find food?
+#HINT#
+14
+
+#TEXT#
+You could try sending out for pizza.
+#FINISH#
+#HINT#
+14
+
+#TEXT#
+You could try eating the crocodiles (even as they return the favor).
+#FINISH#
+#HINT#
+14
+
+#TEXT#
+You'll find some food in the trunk.
+#FINISH#
+#TOPIC#
+6
+Where can I find water?
+#HINT#
+18
+
+#TEXT#
+The Nile River.
+#FINISH#
+#HINT#
+18
+
+#TEXT#
+You can fill the canteen.
+#FINISH#
+#HINT#
+18
+
+#TEXT#
+The canteen is in the knapsack.
+#FINISH#
+#TOPIC#
+6
+How can I get the airplane to land?
+#HINT#
+22
+
+#TEXT#
+Fire the signal flares.
+#FINISH#
+#HINT#
+22
+
+#TEXT#
+Didn't you leave them in the Supply Tent?
+#FINISH#
+#HINT#
+22
+
+#TEXT#
+Unfortunately, the workers took them when they abandoned you.
+#FINISH#
+#HINT#
+22
+
+#TEXT#
+There are no flares anywhere in the game.
+#FINISH#
+#HINT#
+22
+
+#TEXT#
+Really.
+#FINISH#
+#TOPIC#
+6
+What good is the sleeping bag?
+#HINT#
+28
+
+#TEXT#
+The sleeping bag is useful when you get tired.
+#FINISH#
+#HINT#
+28
+
+#TEXT#
+It gets cold in the desert at night.
+#FINISH#
+#HINT#
+28
+
+#TEXT#
+The lining of the sleeping bag is edible.
+#FINISH#
+#HINT#
+28
+
+#TEXT#
+What sleeping bag? 
+#FINISH#
+#TOPIC#
+6
+What's the black box in the wooden crate?
+#HINT#
+33
+
+#TEXT#
+Have you pushed the button?
+#FINISH#
+#HINT#
+33
+
+#TEXT#
+It's a delicate piece of electronics.
+#FINISH#
+#HINT#
+33
+
+#TEXT#
+It can tell you exact latitude and longitude.
+#FINISH#
+#HINT#
+33
+
+#TEXT#
+If it's making funny noises when you push the button, that means you've broken it.
+#FINISH#
+#HINT#
+33
+
+#TEXT#
+Unfortunately, you have no way to fix it.
+#FINISH#
+#HINT#
+33
+
+#TEXT#
+Don't break it.
+#FINISH#
+#TOPIC#
+6
+How do I use the cigarette pack?
+#HINT#
+40
+
+#TEXT#
+You can try signalling the airplane with it.
+#FINISH#
+#HINT#
+40
+
+#TEXT#
+You can try filling it with sand.
+#FINISH#
+#HINT#
+40
+
+#TEXT#
+You can try burning it. 
+#FINISH#
+#HINT#
+40
+
+#TEXT#
+You can try giving it to the mummy.
+#FINISH#
+#HINT#
+40
+
+#TEXT#
+You can assume it has no use.
+#FINISH#
+#TOPIC#
+6
+Where will I find the pyramid?
+#HINT#
+46
+
+#TEXT#
+Have you tried looking under the cot?
+#FINISH#
+#HINT#
+46
+
+#TEXT#
+The navigation box you sent for might help.
+#FINISH#
+#HINT#
+46
+
+#TEXT#
+The navigation box is in the packing crate that parachutes down
+#FINISH#
+#HINT#
+46
+
+#TEXT#
+The map from the game package also might help.
+#FINISH#
+#HINT#
+46
+
+#TEXT#
+When the box shows the same coordinates as the _X_ on the map, dig with the 
+shovel.
+#FINISH#
+#HINT#
+46
+
+#TEXT#
+The proper coordinates are 24 degrees, 11 minutes, 3 seconds N and 32 degrees, 
+12 minutes, 43 seconds E.
+#FINISH#
+#HINT#
+46
+
+#TEXT#
+If you still can't find it, go to the Fire Pit and then go SE, E, and E once more. You 
+are now on the spot.
+#FINISH#
+#HINT#
+46
+
+#TEXT#
+You'll have to dig five times.
+#FINISH#
+#TOPIC#
+6
+Okay. I've found the pyramid. How do I get in?
+#HINT#
+55
+
+#TEXT#
+Have you tried examining the opening? 
+#FINISH#
+#HINT#
+55
+
+#TEXT#
+Have you tried putting something in the opening?
+#FINISH#
+#HINT#
+55
+
+#TEXT#
+Have you translated the hieroglyphs? If you have, you will notice that they contain 
+only half of a message.
+#FINISH#
+#HINT#
+55
+
+#TEXT#
+Have you found the stone cube? 
+#FINISH#
+#HINT#
+55
+
+#TEXT#
+Have you opened the map?
+#FINISH#
+#HINT#
+55
+
+#TEXT#
+Have you translated the hieroglyphs on the stone cube? 
+#FINISH#
+#HINT#
+55
+
+#TEXT#
+Have you tried to COMPARE THE STONE CUBE TO THE OPENING?
+#FINISH#
+#HINT#
+55
+
+#TEXT#
+Have you PUT THE STONE CUBE IN THE OPENING?
+#FINISH#
+#TOPIC#
+0
+The Chamber of Ra
+#TOPIC#
+64
+What's in the jar?
+#HINT#
+65
+
+#TEXT#
+You can use the liquid inside the jar with another object in the Chamber of Ra.
+#FINISH#
+#HINT#
+65
+
+#TEXT#
+It's oil for the torch.
+#FINISH#
+#HINT#
+65
+
+#TEXT#
+POUR THE OIL ON THE TORCH.
+#FINISH#
+#TOPIC#
+64
+What's the significance of the altar?
+#HINT#
+69
+
+#TEXT#
+The Egyptians originally placed it in the pyramid as a place to pray.
+#FINISH#
+#HINT#
+69
+
+#TEXT#
+You can climb on and off it.
+#FINISH#
+#HINT#
+69
+
+#TEXT#
+It is a very sturdy thing to tie a rope to.
+#FINISH#
+#TOPIC#
+64
+Is there any way to get down the steep staircase?
+#HINT#
+73
+
+#TEXT#
+Yes.
+#FINISH#
+#HINT#
+73
+
+#TEXT#
+You can even do it without killing yourself in the process.
+#FINISH#
+#HINT#
+73
+
+#TEXT#
+Use the rope. 
+#FINISH#
+#HINT#
+73
+
+#TEXT#
+TIE THE ROPE TO THE ALTAR. THROW THE ROPE DOWN THE STEEP 
+STAIRCASE. CLIMB DOWN THE ROPE.
+#FINISH#
+#TOPIC#
+0
+Around the Circular Room
+#TOPIC#
+78
+How do I keep the statue from breaking?
+#HINT#
+79
+
+#TEXT#
+If you don't bother the statue, it won't break.
+#FINISH#
+#HINT#
+79
+
+#TEXT#
+Unfortunately, if you don't break the statue, you won't be able to solve the 
+problems in this area.
+#FINISH#
+#TOPIC#
+78
+How do I get past the stone doors?
+#HINT#
+82
+
+#TEXT#
+Did you notice what happens to the opposite stone door when you enter a 
+hallway? 
+#FINISH#
+#HINT#
+82
+
+#TEXT#
+You can get a stone door to remain open by leaving enough weight in the 
+opposite hallway.
+#FINISH#
+#HINT#
+82
+
+#TEXT#
+The broken statue and the head together will provide enough weight to 
+counterbalance the doors.
+#FINISH#
+#HINT#
+82
+
+#TEXT#
+To move the statue, push it in a direction (e.g. PUSH STATUE SW).
+#FINISH#
+#TOPIC#
+78
+What can I do with the panels in the goddesses' rooms?
+#HINT#
+87
+
+#TEXT#
+You can try examining them.
+#FINISH#
+#HINT#
+87
+
+#TEXT#
+The only thing you can do with the panels is read the hieroglyphs on them.
+#FINISH#
+#TOPIC#
+78
+How do I get to the Netherworld?
+#HINT#
+90
+
+#TEXT#
+You might get there by dying.
+#FINISH#
+#HINT#
+90
+
+#TEXT#
+There is no place called the Netherworld in Infidel. Remember the introduction to 
+this book -- do not use the presence or absence of a question as an indication of 
+what is important, and don't assume that long answers are associated with 
+important questions.
+#FINISH#
+#TOPIC#
+78
+How do I get to the Netherlands?
+#HINT#
+93
+
+#TEXT#
+Call a travel agent.
+#FINISH#
+#TOPIC#
+78
+How can I use the opal cluster as a light source?
+#HINT#
+95
+
+#TEXT#
+It is "glistening with the light of a thousand fires."
+#FINISH#
+#HINT#
+95
+
+#TEXT#
+Try carrying it somewhere without the torch.
+#FINISH#
+#HINT#
+95
+
+#TEXT#
+Unfortunately, the glistening is all reflected light.
+#FINISH#
+#HINT#
+95
+
+#TEXT#
+You can't use the opal cluster as a light source.
+#FINISH#
+#TOPIC#
+0
+The Barge and Temple Area
+#TOPIC#
+100
+How do I get the barge back to the Nile?
+#HINT#
+101
+
+#TEXT#
+The plank is a good lever.
+#FINISH#
+#HINT#
+101
+
+#TEXT#
+The jar is a good fulcrum.
+#FINISH#
+#HINT#
+101
+
+#TEXT#
+Did you put the rope through the pulley?
+#FINISH#
+#HINT#
+101
+
+#TEXT#
+Forget it. The barge won't fit through the doorway.
+#FINISH#
+#TOPIC#
+100
+Can I take the beam?
+#HINT#
+106
+
+#TEXT#
+It certainly is big.
+#FINISH#
+#HINT#
+106
+
+#TEXT#
+"It seems to be securely wedged in the masthole." 
+#FINISH#
+#HINT#
+106
+
+#TEXT#
+It seems to be wedged below deck, too.
+#FINISH#
+#HINT#
+106
+
+#TEXT#
+Have you looked in the slot below deck?
+#FINISH#
+#HINT#
+106
+
+#TEXT#
+Once you take the shim, you can lift the beam.
+#FINISH#
+#HINT#
+106
+
+#TEXT#
+Of course, you'll need both hands free. 
+#FINISH#
+#HINT#
+106
+
+#TEXT#
+Dropping the torch in a wooden barge is a bad idea.
+#FINISH#
+#HINT#
+106
+
+#TEXT#
+There's a place to put the torch without dropping it on the deck.
+#FINISH#
+#HINT#
+106
+
+#TEXT#
+PUT THE TORCH IN THE KNOTHOLE.
+#FINISH#
+#HINT#
+106
+
+#TEXT#
+Now, if you're not carrying anything else, you can lift the beam.
+#FINISH#
+#HINT#
+106
+
+#TEXT#
+Then you can go up on deck and take it. 
+#FINISH#
+#TOPIC#
+100
+How can I get the large painting from the temple?
+#HINT#
+118
+
+#TEXT#
+You can't. It adds atmosphere to the room.
+#FINISH#
+#TOPIC#
+100
+Whose skeleton do I come across in the Inner Chamber?
+#HINT#
+120
+
+#TEXT#
+Miss Ellingsworth? 
+#FINISH#
+#HINT#
+120
+
+#TEXT#
+An early Infocom game tester?
+#FINISH#
+#HINT#
+120
+
+#TEXT#
+An overzealous Zorker?
+#FINISH#
+#HINT#
+120
+
+#TEXT#
+Trusty Sergeant Duffy? 
+#FINISH#
+#HINT#
+120
+
+#TEXT#
+One of the original pyramid builders who tried to hide? 
+#FINISH#
+#HINT#
+120
+
+#TEXT#
+None of the above? 
+#FINISH#
+#TOPIC#
+100
+What can I do with the jeweled ring?
+#HINT#
+127
+
+#TEXT#
+You are overwhelmed by its beauty.
+#FINISH#
+#HINT#
+127
+
+#TEXT#
+It probably fits you perfectly.
+#FINISH#
+#HINT#
+127
+
+#TEXT#
+Examine it.
+#FINISH#
+#HINT#
+127
+
+#TEXT#
+If you did try it on, I hope you did a SAVE first.
+#FINISH#
+#HINT#
+127
+
+#TEXT#
+It seems to have been left as a trap for careless treasure hunters.
+#FINISH#
+#TOPIC#
+100
+Where is the bronze chalice?
+#HINT#
+133
+
+#TEXT#
+Have you offered a libation to Ra?
+#FINISH#
+#HINT#
+133
+
+#TEXT#
+Have you followed the mummy? 
+#FINISH#
+#HINT#
+133
+
+#TEXT#
+Have you found the tire pump?
+#FINISH#
+#HINT#
+133
+
+#TEXT#
+Have you begun to suspect that there is no bronze chalice?
+#FINISH#
+#TOPIC#
+0
+The Cube Region
+#TOPIC#
+138
+I've matched the wall colors on five sides of the cube, but the sixth is giving me a headache. What should I do?
+#HINT#
+139
+
+#TEXT#
+Get a paintbrush and a can of paint.
+#FINISH#
+#HINT#
+139
+
+#TEXT#
+Paint the sixth side of the cube so all of its minicubes are the same color.
+#FINISH#
+#HINT#
+139
+
+#TEXT#
+Take a hammer, put your cube on the sidewalk, and get even!
+#FINISH#
+#TOPIC#
+138
+There seems to be a room missing. What should I do?
+#HINT#
+143
+
+#TEXT#
+Start by reading the hieroglyphs in the center cube room.
+#FINISH#
+#HINT#
+143
+
+#TEXT#
+Examine the panel on the wall in the south edge of the area.
+#FINISH#
+#HINT#
+143
+
+#TEXT#
+Read the scroll you found in the Fore Cabin of the barge.
+#FINISH#
+#HINT#
+143
+
+#TEXT#
+Take the first, third, and fifth bricks out of the panel.
+#FINISH#
+#TOPIC#
+138
+What's the significance of the panel?
+#HINT#
+148
+
+#TEXT#
+There's a clue in the barge area.
+#FINISH#
+#HINT#
+148
+
+#TEXT#
+Read the scroll from the Fore Cabin.
+#FINISH#
+#HINT#
+148
+
+#TEXT#
+TAKE THE FIRST BRICK, THE THIRD BRICK, AND THE FIFTH BRICK. Lo and 
+behold, a new passageway shall appear!
+#FINISH#
+#TOPIC#
+138
+What should I do when the mummy appears?
+#HINT#
+152
+
+#TEXT#
+Above all, try to keep your cool. Mummies hate sweaty people and will attack 
+them without thought.
+#FINISH#
+#HINT#
+152
+
+#TEXT#
+Say HELLO MUMMY.
+#FINISH#
+#HINT#
+152
+
+#TEXT#
+BURN THE TANNIS LEAVES.
+#FINISH#
+#HINT#
+152
+
+#TEXT#
+Have your eyes checked. No mummy appears in this game.
+#FINISH#
+#HINT#
+152
+
+#TEXT#
+(Nor do any tannis leaves.
+#FINISH#
+#TOPIC#
+138
+What significance is the sixteen-step staircase?
+#HINT#
+158
+
+#TEXT#
+It conforms to the strict Egyptian pyramid building codes
+#FINISH#
+#HINT#
+158
+
+#TEXT#
+It connects Top of Staircase and Bottom of Stairs. 
+#FINISH#
+#TOPIC#
+138
+What do I do at the bottom of the stairs?
+#HINT#
+161
+
+#TEXT#
+Read the hieroglyphs.
+#FINISH#
+#HINT#
+161
+
+#TEXT#
+Try going through the plaster.
+#FINISH#
+#HINT#
+161
+
+#TEXT#
+Try removing the plaster with the axe.
+#FINISH#
+#TOPIC#
+138
+What's going on in the western end of the Narrow Passageway?
+#HINT#
+165
+
+#TEXT#
+Read the hieroglyphs.
+#FINISH#
+#HINT#
+165
+
+#TEXT#
+Try going through the plaster.
+#FINISH#
+#HINT#
+165
+
+#TEXT#
+Try removing the plaster with the axe.
+#FINISH#
+#HINT#
+165
+
+#TEXT#
+Oops! Hope you did a SAVE first!
+#FINISH#
+#HINT#
+165
+
+#TEXT#
+Examine the niches.
+#FINISH#
+#HINT#
+165
+
+#TEXT#
+Put the beam in the niches.
+#FINISH#
+#HINT#
+165
+
+#TEXT#
+Stand on the beam.
+#FINISH#
+#HINT#
+165
+
+#TEXT#
+Now try removing the plaster with the axe.
+#FINISH#
+#TOPIC#
+138
+How can I keep the floor from disappearing?
+#HINT#
+174
+
+#TEXT#
+You can't.
+#FINISH#
+#HINT#
+174
+
+#TEXT#
+But you may be able to find a way to avoid disappearing with the floor. 
+#FINISH#
+#HINT#
+174
+
+#TEXT#
+Find some way of standing on something above the floor.
+#FINISH#
+#HINT#
+174
+
+#TEXT#
+Put the beam in the niches. 
+#FINISH#
+#HINT#
+174
+
+#TEXT#
+Stand on the beam.
+#FINISH#
+#TOPIC#
+138
+How can the rats help me?
+#HINT#
+180
+
+#TEXT#
+If you meet the rats, the only help they can provide is to be quick about their work.
+#FINISH#
+#TOPIC#
+0
+The Antechamber Area
+#TOPIC#
+182
+How do I get through the inset doorway in the south Antechamber?
+#HINT#
+183
+
+#TEXT#
+Open the door.
+#FINISH#
+#HINT#
+183
+
+#TEXT#
+Oops...Hope you did a SAVE first.
+#FINISH#
+#HINT#
+183
+
+#TEXT#
+Read the hieroglyphs.
+#FINISH#
+#HINT#
+183
+
+#TEXT#
+Go back to the middle Antechamber and TAKE THE BEAM.
+#FINISH#
+#HINT#
+183
+
+#TEXT#
+WEDGE THE BEAM BETWEEN THE ROCKS.
+#FINISH#
+#HINT#
+183
+
+#TEXT#
+Now open the door.
+#FINISH#
+#HINT#
+183
+
+#TEXT#
+Take care: once you take the beam out from between the rocks, the inset 
+doorway will be lost forever.
+#FINISH#
+#TOPIC#
+182
+What's the significance of the stone slab in the Annex?
+#HINT#
+191
+
+#TEXT#
+It's not a bad Egyptian imitation of a pool table. 
+#FINISH#
+#HINT#
+191
+
+#TEXT#
+You do want to put something in the holes, though.
+#FINISH#
+#HINT#
+191
+
+#TEXT#
+Try the clusters.
+#FINISH#
+#HINT#
+191
+
+#TEXT#
+Remember the arrangement of the goddesses' rooms around the Circular Room? 
+#FINISH#
+#HINT#
+191
+
+#TEXT#
+You'll notice that there's no center hole for the golden cluster.
+#FINISH#
+#HINT#
+191
+
+#TEXT#
+Once the clusters are in the correct holes, you can LIFT THE SLAB.
+#FINISH#
+#HINT#
+191
+
+#TEXT#
+PUT THE DIAMOND CLUSTER IN THE FIRST HOLE. PUT THE RUBY 
+CLUSTER IN THE SECOND HOLE. PUT THE EMERALD CLUSTER IN THE 
+THIRD HOLE. PUT THE OPAL CLUSTER IN THE FOURTH HOLE.
+#FINISH#
+#TOPIC#
+182
+What is the spatula used for?
+#HINT#
+199
+
+#TEXT#
+Although the book is not a cook book, the spatula is related to the book.
+#FINISH#
+#HINT#
+199
+
+#TEXT#
+Have you tried to OPEN THE BOOK?
+#FINISH#
+#HINT#
+199
+
+#TEXT#
+The spatula may succeed where your less-than-delicate touch has failed.
+#FINISH#
+#HINT#
+199
+
+#TEXT#
+Have you tried to OPEN THE BOOK WITH THE SPATULA?
+#FINISH#
+#TOPIC#
+182
+How do I get through the doorway in the north Antechamber?
+#HINT#
+204
+
+#TEXT#
+Read the hieroglyphs.
+#FINISH#
+#HINT#
+204
+
+#TEXT#
+You'll need something sturdy to keep the roof from caving in.
+#FINISH#
+#HINT#
+204
+
+#TEXT#
+WEDGE THE BEAM UNDER THE LINTEL.
+#FINISH#
+#HINT#
+204
+
+#TEXT#
+Now, BREAK THE SEALS WITH THE AXE.
+#FINISH#
+#HINT#
+204
+
+#TEXT#
+Now, OPEN THE DOOR.
+#FINISH#
+#HINT#
+204
+
+#TEXT#
+Take care: once you remove the beam from the doorway, it will become 
+impossible to get back through the doorway.
+#FINISH#
+#TOPIC#
+182
+Can I take the scarab?
+#HINT#
+211
+
+#TEXT#
+Yes.
+#FINISH#
+#HINT#
+211
+
+#TEXT#
+Although you may think you've seen a similar situation in the movies, there is no 
+way to replace the scarab with something of equal weight.
+#FINISH#
+#HINT#
+211
+
+#TEXT#
+Weight _is_ important here, however.
+#FINISH#
+#HINT#
+211
+
+#TEXT#
+Remember the hieroglyphs from the Inner Chamber?
+#FINISH#
+#HINT#
+211
+
+#TEXT#
+You'll have to find a way to balance the two side discs so that the middle disc is 
+even with the table.
+#FINISH#
+#HINT#
+211
+
+#TEXT#
+Use the chalices.
+#FINISH#
+#HINT#
+211
+
+#TEXT#
+Since the silver chalice is lighter than the gold one, fill it with water.
+#FINISH#
+#TOPIC#
+182
+Can I open the sarcophagus?
+#HINT#
+219
+
+#TEXT#
+Yes.
+#FINISH#
+#HINT#
+219
+
+#TEXT#
+Have you read the writing in the ancient book? 
+#FINISH#
+#HINT#
+219
+
+#TEXT#
+Have you read the hieroglyphs in the goddesses' rooms?
+#FINISH#
+#HINT#
+219
+
+#TEXT#
+The proper objects need to be in the recesses on the sarcophagus. 
+#FINISH#
+#HINT#
+219
+
+#TEXT#
+Put the ancient book in the large recess.
+#FINISH#
+#HINT#
+219
+
+#TEXT#
+Put the scarab in the smaller recess.
+#FINISH#
+#HINT#
+219
+
+#TEXT#
+Now the statues are free to be turned. 
+#FINISH#
+#HINT#
+219
+
+#TEXT#
+You can find the proper order in the symbols in the goddesses' rooms.
+#FINISH#
+#HINT#
+219
+
+#TEXT#
+TURN NEITH. TURN SELKIS. TURN ISIS. TURN NEPHTHYS.
+#FINISH#
+#HINT#
+219
+
+#TEXT#
+OPEN THE SARCOPHAGUS.
+#FINISH#
+#TOPIC#
+182
+What do I do when Craige shows up?
+#HINT#
+230
+
+#TEXT#
+Ask him for a cheeseburger with onions.
+#FINISH#
+#TOPIC#
+0
+Hieroglyphic Dictionary
+#HINT#
+232
+
+#TEXT#
+This dictionary is included for those players who feel that the translations of one or 
+two symbols would be helpful. It is one interpretation of what the hieroglyphs 
+mean; others may be equally valid. (Then again, they may not.) 
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+*->       remove
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+#         the
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+ ->        through
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+ <...      return
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+!   !
+!---!     large area
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+!  !
+!--!      small area
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+<+>       rutabaga
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+!!!       plaster
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+::        and
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+...>      go/travel
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+ .-        west
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+ <-*       place/put
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+ )(        mummy
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+ /!\       mast
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+ .
+ -         on/over
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+  (=  =)    niches
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+ -
+ .         under/beneath
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+...       then
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+(*)       appear
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+!=!
+! !       lintel
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+ \/        until
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+ (.)       between
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+  -
+ !  !
+  -        doorway/door
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+ (         open
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+ ))        turn
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+/         to
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+@=        tennis racket
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+  .
+/         northeast
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+ .
+  \        northwest
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+ /
+.         southwest
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+\
+   .        southeast
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+ =!=       offering
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+*         Ra
+#FINISH#
+#HINT#
+232
+
+#TEXT#
++/+       injury
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+ =
+ *         night
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+ - -
+  =        winds
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+:         a
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+ ;         with
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+ *         dawn
+ =
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+ -.        east
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+ >...      from
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+!         south
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+ ---       papyrus
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+  !-!
+  ! !       room
+  !-!
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+ <.>       one
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+<:>       two
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+<:.>      three
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+ <::>      four
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+<::.>     five
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+ <:::>     six
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+<:::.>    seven
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+<::::>    eight
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+ **        new
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+ -)        will
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+ <::::.>   nine
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+-!-       balance
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+!*        gold
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+ *!        silver
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+>*>       scarab
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+(@)       first
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+(@@)      second
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+(@@@)     third
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+(@@@@)    fourth
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+(+)       clothing
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+ #.        this
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+-         lies/rests
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+!-!
+! !       entrance
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+ !@!       Queen/she/her
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+(())      all
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+//\\      treasures
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+=
+=         book
+#FINISH#
+#HINT#
+232
+
+#TEXT#
+ --->>     pathway
+#FINISH#
+#TOPIC#
+0
+How Points are Scored
+#HINT#
+306
+
+#TEXT#
+Legend: Object, Location, Value
+#FINISH#
+#HINT#
+306
+
+#TEXT#
+Diamooond cluster, Room of Nephthys, 5
+#FINISH#
+#HINT#
+306
+
+#TEXT#
+Emerald cluster, Room of Isis, 5
+#FINISH#
+#HINT#
+306
+
+#TEXT#
+Opal cluster, Room of Neith, 5
+#FINISH#
+#HINT#
+306
+
+#TEXT#
+Ruby cluster, Room of Selkis, 5
+#FINISH#
+#HINT#
+306
+
+#TEXT#
+Beam, Barge, 15
+#FINISH#
+#HINT#
+306
+
+#TEXT#
+Golden chalice, Golden Alcove, 15
+#FINISH#
+#HINT#
+306
+
+#TEXT#
+Sliver chalice, Silver Alcove, 15
+#FINISH#
+#HINT#
+306
+
+#TEXT#
+Ancient book, In slab in Annex, 10
+#FINISH#
+#HINT#
+306
+
+#TEXT#
+Scarab, Treasury, 10
+#FINISH#
+#HINT#
+306
+
+#TEXT#
+Other points are awarded for:
+#FINISH#
+#HINT#
+306
+
+#TEXT#
+breaking the lock on the trunk (5)
+#FINISH#
+#HINT#
+306
+
+#TEXT#
+finding the pyramid while digging (25)
+#FINISH#
+#HINT#
+306
+
+#TEXT#
+putting the stone cube in the opening (20)
+#FINISH#
+#HINT#
+306
+
+#TEXT#
+entering the Circular Room (30)
+#FINISH#
+#HINT#
+306
+
+#TEXT#
+entering the Room of Isis (25)
+#FINISH#
+#HINT#
+306
+
+#TEXT#
+entering the Room of Neith (25)
+#FINISH#
+#HINT#
+306
+
+#TEXT#
+entering the Room of Nephthys (25)
+#FINISH#
+#HINT#
+306
+
+#TEXT#
+entering the Room of Selkis (25)
+#FINISH#
+#HINT#
+306
+
+#TEXT#
+taking the right bricks out of the panel in the Cube (25)
+#FINISH#
+#HINT#
+306
+
+#TEXT#
+breaking the plaster at Bottom of Stairs (10)
+#FINISH#
+#HINT#
+306
+
+#TEXT#
+breaking the plaster at the west end of the Narrow Passageway (25)
+#FINISH#
+#HINT#
+306
+
+#TEXT#
+opening the sealed door in the north Antechamber (40)
+#FINISH#
+#HINT#
+306
+
+#TEXT#
+opening the sarcophagus (35)
+#FINISH#
+#TOPIC#
+0
+For Your Amusement
+#TOPIC#
+331
+Have you tried...
+#HINT#
+332
+
+#TEXT#
+reading the matchbook? 
+#FINISH#
+#HINT#
+332
+
+#TEXT#
+reading the inside of the matchbook?
+#FINISH#
+#HINT#
+332
+
+#TEXT#
+reading the coupon?
+#FINISH#
+#HINT#
+332
+
+#TEXT#
+filling out the coupon? 
+#FINISH#
+#HINT#
+332
+
+#TEXT#
+sending the coupon? 
+#FINISH#
+#HINT#
+332
+
+#TEXT#
+swimming?
+#FINISH#
+#HINT#
+332
+
+#TEXT#
+wandering endlessly through the desert?
+#FINISH#
+#HINT#
+332
+
+#TEXT#
+folding the cot?
+#FINISH#
+#HINT#
+332
+
+#TEXT#
+sleeping on the cot outside your tent? 
+#FINISH#
+#HINT#
+332
+
+#TEXT#
+waving at the plane? 
+#FINISH#
+#HINT#
+332
+
+#TEXT#
+walking the plank?
+#FINISH#
+#HINT#
+332
+
+#TEXT#
+dropping objects into the bottomless pit? 
+#FINISH#
+#HINT#
+332
+
+#TEXT#
+trying to do any of the following to yourself: EAT, DRINK, KILL, FIND, TAKE, 
+EXAMINE, RUB, PLAY, GET ON, CLEAN, CLOSE, LEAVE, DROP, FOLLOW, 
+SEARCH, SMELL, MAKE, SEARCH, WEAR?
+#FINISH#
+#HINT#
+332
+
+#TEXT#
+drinking repeatedly from the Nile?
+#FINISH#
+#HINT#
+332
+
+#TEXT#
+sitting on the crate?
+#FINISH#
+#HINT#
+332
+
+#TEXT#
+attacking the crate with the pick axe? 
+#FINISH#
+#HINT#
+332
+
+#TEXT#
+praying? 
+#FINISH#
+#HINT#
+332
+
+#TEXT#
+filling the canteen with sand, emptying it, filling it with water, and taking a drink? 
+#FINISH#

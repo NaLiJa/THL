@@ -1,0 +1,1702 @@
+110
+LANDS OF LORE: THE THRONE OF CHAOS Walkthrough
+Arial
+0
+16
+1000
+This walkthrough is copyright � 1995 by Diana Griffiths.
+#NOTICE<#
+All rights reserved. Not to be distributed without permission. The maps were created by Patricia H. Special thanks must go to CIS Gamer Clif Smiley who tested the accuracy and usability of this walkthrough. Converted to THL 1997 by Stefan Meier from lol.html (http://www.gamesdomain.co.uk )
+#>NOTICE#
+#INFO#
+0
+Introduction
+#TEXT#
+This walkthrough gives explicit instructions on playing LANDS OF LORE (LOL) to 
+a successful conclusion. It does, however, assume you have read the Game 
+Manual and Lands of Lore Book and are familiar with the various methods of 
+controlling your characters' actions. You also have to be able to refer to the maps 
+referenced by this walkthrough.
+#FINISH#
+#LINKS#
+0
+#TOPIC#
+0
+Maps
+#LINKS#
+0
+#INFO#
+2
+About the maps
+#TEXT#
+Throughout the walkthrough, my directions depend on your being able to 
+reference certain maps. The maps were created by Patricia H. (CompuServe ID: 
+71700,2130.) and are contained in her hints file LANDMAP.ZIP, in the CRPG 
+Library (9) of the CompuServe Gamers Forum. I have also made them available 
+here. I assume you are able to display the maps using an application such as Paint 
+Shop Pro, while you are playing LOL via MS-Windows task switching. 
+Alternatively, you may make hard copies of the maps, by printing at about 200% of 
+scale. Patricia does not guarantee the maps are 100% complete. (I found only very 
+minor omissions and errors.) Most maps have several numbers on them. I refer to 
+these numbers throughout the walkthrough to guide you through each zone.
+#FINISH#
+#LINKS#
+0
+#TOPIC#
+2
+NORTHLANDS & SOUTHLANDS
+#LINKS#
+0
+#PIC#
+4
+f:\work\THL_FILES\lol\lol1.gif
+1
+Gladstone Keep
+0,0,296,407
+#LINKS#
+0
+#PIC#
+4
+f:\work\THL_FILES\lol\lol2.gif
+1
+Northland Forest
+0,0,317,428
+#LINKS#
+0
+#PIC#
+4
+f:\work\THL_FILES\lol\lol3.gif
+1
+Thug큦 Hideout
+0,0,220,327
+#LINKS#
+0
+#PIC#
+4
+f:\work\THL_FILES\lol\lol4.gif
+1
+Southlands Forest
+0,0,371,381
+#LINKS#
+0
+#PIC#
+4
+f:\work\THL_FILES\lol\lol5.gif
+1
+Roland큦 Manor
+0,0,226,327
+#LINKS#
+0
+#TOPIC#
+2
+DRARACLE'S CAVES
+#LINKS#
+0
+#PIC#
+10
+f:\work\THL_FILES\lol\lol6.gif
+1
+Level 1
+0,0,453,390
+#LINKS#
+0
+#PIC#
+10
+f:\work\THL_FILES\lol\lol8.gif
+1
+Level 2 - Sapphire Path
+0,0,640,400
+#LINKS#
+0
+#PIC#
+10
+f:\work\THL_FILES\lol\lol7.gif
+1
+Level 2 - Emerald Path
+0,0,640,480
+#LINKS#
+0
+#PIC#
+10
+f:\work\THL_FILES\lol\lol9.gif
+1
+Level 3 - Sapphire Path
+0,0,417,385
+#LINKS#
+0
+#PIC#
+10
+f:\work\THL_FILES\lol\lol10.gif
+1
+Level 3 - Emerald Path
+0,0,433,436
+#LINKS#
+0
+#PIC#
+10
+f:\work\THL_FILES\lol\lol11.gif
+1
+Level 4
+0,0,317,364
+#LINKS#
+0
+#PIC#
+2
+f:\work\THL_FILES\lol\lol12.gif
+1
+OPINWOOD FOREST
+0,0,495,464
+#LINKS#
+0
+#PIC#
+2
+f:\work\THL_FILES\lol\lol13.gif
+1
+GORKHA SWAMP
+0,0,497,464
+#LINKS#
+0
+#TOPIC#
+2
+URBISH MINE
+#LINKS#
+0
+#PIC#
+19
+f:\work\THL_FILES\lol\lol14.gif
+1
+Office Level
+0,0,491,380
+#LINKS#
+0
+#PIC#
+19
+f:\work\THL_FILES\lol\lol15.gif
+1
+Level 1
+0,0,471,371
+#LINKS#
+0
+#PIC#
+19
+f:\work\THL_FILES\lol\lol16.gif
+1
+Level 2
+0,0,496,390
+#LINKS#
+0
+#PIC#
+19
+f:\work\THL_FILES\lol\lol17.gif
+1
+Level 3
+0,0,477,479
+#LINKS#
+0
+#PIC#
+19
+f:\work\THL_FILES\lol\lol18.gif
+1
+Level 4
+0,0,387,400
+#LINKS#
+0
+#PIC#
+2
+f:\work\THL_FILES\lol\lol19.gif
+1
+UPPER OPINWOOD FOREST
+0,0,499,388
+#LINKS#
+0
+#PIC#
+2
+f:\work\THL_FILES\lol\lol20.gif
+1
+YVEL WOODS
+0,0,492,394
+#LINKS#
+0
+#PIC#
+2
+f:\work\THL_FILES\lol\lol21.gif
+1
+YVEL CITY
+0,0,469,400
+#LINKS#
+0
+#TOPIC#
+2
+WHITE TOWER
+#LINKS#
+0
+#PIC#
+28
+f:\work\THL_FILES\lol\lol22.gif
+1
+Level 1
+0,0,448,390
+#LINKS#
+0
+#PIC#
+28
+f:\work\THL_FILES\lol\lol23.gif
+1
+Level 2
+0,0,457,395
+#LINKS#
+0
+#PIC#
+28
+f:\work\THL_FILES\lol\lol24.gif
+1
+Level 3
+0,0,440,396
+#LINKS#
+0
+#PIC#
+28
+f:\work\THL_FILES\lol\lol25.gif
+1
+Basement
+0,0,293,336
+#LINKS#
+0
+#TOPIC#
+2
+CATWALK CAVES
+#LINKS#
+0
+#PIC#
+33
+f:\work\THL_FILES\lol\lol26.gif
+1
+Level 1
+0,0,640,400
+#LINKS#
+0
+#PIC#
+33
+f:\work\THL_FILES\lol\lol27.gif
+1
+Level 2
+0,0,315,186
+#LINKS#
+0
+#TOPIC#
+2
+CASTLE CIMMERIA
+#LINKS#
+0
+#PIC#
+36
+f:\work\THL_FILES\lol\lol28.gif
+1
+Dungeon
+0,0,486,397
+#LINKS#
+0
+#PIC#
+36
+f:\work\THL_FILES\lol\lol29.gif
+1
+Level 1
+0,0,456,400
+#LINKS#
+0
+#PIC#
+36
+f:\work\THL_FILES\lol\lol30.gif
+1
+Level 2
+0,0,466,400
+#LINKS#
+0
+#PIC#
+36
+f:\work\THL_FILES\lol\lol31.gif
+1
+Level 3
+0,0,537,400
+#LINKS#
+0
+#INFO#
+0
+General
+#TEXT#
+In the early stages of the walkthrough I will be more explicit than later on. There 
+are many items to pick up . . . far too many to mention . . . so I only point out the 
+very important items. Many doors and niches are opened by operating obvious 
+buttons or switches. Later on, I assume the player has the hang of this and I do not 
+tell you how to open the straightforward doors. 
+
+Similarly, as the game progresses you will become familiar with the different zones 
+and the important locations within them. So I only give you general directions on 
+traveling from one location to another across different zones.
+#FINISH#
+#LINKS#
+0
+#TOPIC#
+0
+Suggestions
+#LINKS#
+0
+#HINT#
+42
+
+#TEXT#
+Start off each new zone by exploring without trying to 
+solve the puzzles, but killing all the monsters you 
+come across. You should then have most, if not all, of 
+the zone mapped (by the automap feature) and most, if 
+not all, of the monsters eliminated. This will show you 
+where all the switches and buttons are that you may not 
+have noticed and you will have a much easier time 
+solving the puzzles, without distractions.
+#FINISH#
+#LINKS#
+0
+#HINT#
+42
+
+#TEXT#
+When you come across acid spitting creatures, remove 
+your armor or it may be destroyed. You can recover, 
+your armor will not!
+#FINISH#
+#LINKS#
+0
+#HINT#
+42
+
+#TEXT#
+Try customizing use of your three main characters to be 
+each expert in a particular skill; make one an expert 
+fighter, one an expert mage and one an expert rogue. 
+But make sure they are all reasonable fighters and 
+magicians. I found Bacatta made the best rogue, while 
+Paulson is a good fighter. This means your main 
+character should be strong in magic. This may make 
+Michael seem a poor choice, but it just means that 
+selecting Michael will make your party more dependent 
+on fighting ability and much less on magic.
+#FINISH#
+#LINKS#
+0
+#HINT#
+42
+
+#TEXT#
+When a character is poisoned let his health drop to 
+nothing. Then use the heal spell on him and he will no 
+longer be poisoned.
+#FINISH#
+#LINKS#
+0
+#HINT#
+42
+
+#TEXT#
+A weapon's effectiveness depends on the creature you 
+are fighting, so try out different weapons.
+#FINISH#
+#LINKS#
+0
+#HINT#
+42
+
+#TEXT#
+Use the freeze spell on the rock monsters.
+#FINISH#
+#LINKS#
+0
+#HINT#
+42
+
+#TEXT#
+Poison gas areas can not be avoided, but you can 
+minimize the effects by running through them.
+#FINISH#
+#LINKS#
+0
+#HINT#
+42
+
+#TEXT#
+Don't despair when you get to those really nasty places 
+where the monsters may defeat you far too easily. Save 
+often and you will gradually progress through White 
+Tower Level 3 and Cimmeria Castle Dungeon.
+#FINISH#
+#LINKS#
+0
+#INFO#
+0
+Opening scenes
+#TEXT#
+A messenger races on horseback toward Gladstone Keep. The portcullis rises to 
+let the messenger enter. The messenger hands a scroll to Geron, who is talking 
+with King Richard. Scotia has uncovered the temple in the Urbish Mines, where 
+the nether mask is located. Scotia must be destroyed. 
+
+Scotia's creature finds the nether mask and delivers it to his mistress. She destroys 
+him and gloats over the pretty package. She now has the ability to take on other 
+forms. 
+
+King Richard summons his champion . . . you! You may pick one of four guises: 
+Kieran, Ak'shel, Michael or Conrad. This walkthrough will work with any of these 
+characters.
+#FINISH#
+#LINKS#
+0
+#TOPIC#
+0
+NORTHLANDS & SOUTHLANDS
+#LINKS#
+0
+#TOPIC#
+52
+GLADSTONE KEEP
+#LINKS#
+0
+#HINT#
+53
+
+#TEXT#
+Go to the Throne Room (4). Take note of your 
+instructions.
+#FINISH#
+#LINKS#
+1
+Gladstone Keep Map
+5
+#HINT#
+53
+
+#TEXT#
+ Go to Geron's Office (2) to get the King's Writ.
+#FINISH#
+#LINKS#
+1
+Gladstone Keep Map
+5
+#HINT#
+53
+
+#TEXT#
+Go to the King's Library (3) opening the lock with the 
+key.
+#FINISH#
+#LINKS#
+1
+Gladstone Keep Map
+5
+#HINT#
+53
+
+#TEXT#
+Check the books. One of these books is the Magic Atlas 
+(or Automap). Don't leave before you have access to the 
+Automap.
+#FINISH#
+#LINKS#
+0
+#HINT#
+53
+
+#TEXT#
+Go to Victor's Arms (5).
+#FINISH#
+#LINKS#
+1
+Gladstone Keep Map
+5
+#HINT#
+53
+
+#TEXT#
+Buy the mace, selling the dagger if you wish. Leave via 
+(1) for the Northlands Forest.
+#FINISH#
+#LINKS#
+1
+Gladstone Keep Map
+5
+#TOPIC#
+52
+NORTHLANDS FOREST
+#LINKS#
+0
+#HINT#
+60
+
+#TEXT#
+Get some experience killing monsters before going too 
+much further. You will also find many useful weapons 
+and other items in the woods, so pick them up.
+#FINISH#
+#LINKS#
+0
+#HINT#
+60
+
+#TEXT#
+Go to the Thugs' Hideout (5).
+#FINISH#
+#LINKS#
+1
+Northland큦 Forest Map
+6
+#HINT#
+60
+
+#TEXT#
+Attack the thugs. When you have killed them enter the 
+cave.
+#FINISH#
+#LINKS#
+0
+#TOPIC#
+52
+THUGS' HIDEOUT
+#LINKS#
+0
+#HINT#
+64
+
+#TEXT#
+Open the wall using the lever.
+#FINISH#
+#LINKS#
+0
+#HINT#
+64
+
+#TEXT#
+Pick up the lantern at (2). 
+#FINISH#
+#LINKS#
+1
+Thug큦 Hideout Map
+7
+#HINT#
+64
+
+#TEXT#
+Press the button at (3) and take the thugs' key.
+#FINISH#
+#LINKS#
+1
+Thug큦 Hideout Map
+7
+#HINT#
+64
+
+#TEXT#
+At (4) take the rock off the east pressure plate and 
+put it with another rock on the west pressure plate to 
+open the wall.
+#FINISH#
+#LINKS#
+1
+Thug큦 Hideout Map
+7
+#HINT#
+64
+
+#TEXT#
+Walk to the end of the hidden passage, placing another 
+rock on the pressure plate, and press all three buttons 
+(north, south and west) to open the wall.
+#FINISH#
+#LINKS#
+1
+Thug큦 Hideout Map
+7
+#HINT#
+64
+
+#TEXT#
+Open the chest at (5) with the thugs' key.
+#FINISH#
+#LINKS#
+0
+#HINT#
+64
+
+#TEXT#
+Take the lock picks, bezel cup, salve and coins.
+#FINISH#
+#LINKS#
+0
+#HINT#
+64
+
+#TEXT#
+Return to the cave entrance at (1).
+#FINISH#
+#LINKS#
+1
+Thug큦 Hideout Map
+7
+#TOPIC#
+52
+NORTHLANDS FOREST
+#LINKS#
+0
+#HINT#
+73
+
+#TEXT#
+Return to Gladstone Keep.
+#FINISH#
+#LINKS#
+0
+#TOPIC#
+52
+GLADSTONE KEEP
+#LINKS#
+0
+#HINT#
+75
+
+#TEXT#
+Go to Victor's Arms (5) and sell some of the arms you 
+have picked up. You should keep, or trade for, at least 
+the best three items of every different piece of 
+equipment as you will have up to three different 
+characters in your party at anytime. Leave the keep via 
+(1).
+#FINISH#
+#LINKS#
+1
+Gladstone Keep Map
+5
+#TOPIC#
+52
+NORTHLANDS FOREST
+#LINKS#
+0
+#HINT#
+77
+
+#TEXT#
+Go to the Marina at (4).
+#FINISH#
+#LINKS#
+1
+Northland큦 Forest Map
+6
+#HINT#
+77
+
+#TEXT#
+Hand over the King's Writ and you will travel to the 
+Southlands Forest.
+#FINISH#
+#LINKS#
+0
+#TOPIC#
+52
+SOUTHLANDS FOREST
+#LINKS#
+0
+#HINT#
+80
+
+#TEXT#
+Go to the Grey Eagle Inn at (2).
+#FINISH#
+#LINKS#
+1
+Southland큦 Forest Map
+8
+#HINT#
+80
+
+#TEXT#
+Check out the back room and the guest will give you the 
+Compass.
+#FINISH#
+#LINKS#
+0
+#HINT#
+80
+
+#TEXT#
+Then talk to the man with blond hair at the bar. When 
+you leave, Timothy will join your party. Equip him from 
+your inventory.
+#FINISH#
+#LINKS#
+0
+#HINT#
+80
+
+#TEXT#
+Visit Buck's Skins at (3) to buy the boots.
+#FINISH#
+#LINKS#
+1
+Southland큦 Forest Map
+8
+#HINT#
+80
+
+#TEXT#
+Then go to Roland's Manor at (4).
+#FINISH#
+#LINKS#
+1
+Southland큦 Forest Map
+8
+#TOPIC#
+52
+ROLAND'S MANOR
+#LINKS#
+0
+#HINT#
+86
+
+#TEXT#
+Go to the Fireplace at (3). Take and read the burnt 
+scroll.
+#FINISH#
+#LINKS#
+1
+Roland큦 Manor Map
+9
+#HINT#
+86
+
+#TEXT#
+Go to the hidden niche at (4) and take the oil flasks 
+and aloe.
+#FINISH#
+#LINKS#
+0
+#HINT#
+86
+
+#TEXT#
+Go to (2). Save before tackling the ogre. The best 
+method to use here is to bluff and hope he falls for it 
+and leaves. Otherwise attack!
+#FINISH#
+#LINKS#
+1
+Roland큦 Manor Map
+9
+#HINT#
+86
+
+#TEXT#
+Open the wall to reveal Sir Roland.
+#FINISH#
+#LINKS#
+0
+#HINT#
+86
+
+#TEXT#
+Unlock his chest with the key and take the coins and 
+saber. Now you have enough money, return to Buck's 
+Skins at (3) and buy the bow and shield.
+#FINISH#
+#LINKS#
+1
+Roland큦 Manor Map
+9
+#HINT#
+86
+
+#TEXT#
+Return to the forest at (1).
+#FINISH#
+#LINKS#
+1
+Roland큦 Manor Map
+9
+#TOPIC#
+52
+SOUTHLANDS FOREST
+#LINKS#
+0
+#HINT#
+93
+
+#TEXT#
+Return to the Marina at (1) 
+#FINISH#
+#LINKS#
+1
+Southland큦 Forest Map
+8
+#TOPIC#
+52
+NORTHLANDS FOREST
+#LINKS#
+0
+#HINT#
+95
+
+#TEXT#
+Go to Gladstone Keep at (1)
+#FINISH#
+#LINKS#
+1
+Northland큦 Forest Map
+6
+#TOPIC#
+52
+GLADSTONE KEEP
+#LINKS#
+0
+#HINT#
+97
+
+#TEXT#
+Place all of Timothy's equipment in the inventory.
+#FINISH#
+#LINKS#
+0
+#HINT#
+97
+
+#TEXT#
+Return to the Throne Room at (4). Witness the 
+Scotia/Richard/Dawn scene.
+#FINISH#
+#LINKS#
+1
+Gladstone Keep Map
+5
+#HINT#
+97
+
+#TEXT#
+Notice the fallen cup. Notice Scotia's threat to Dawn. 
+Then note the configuration of the protective magical 
+shield surrounding Richard.
+#FINISH#
+#LINKS#
+0
+#HINT#
+97
+
+#TEXT#
+ Talk to the red haired man Paulson and he will tell 
+you that he is going to the Urbish Mines. Dawn will 
+give you a Spell book and Baccata will join your party 
+in place of Timothy. Equip Baccata.
+#FINISH#
+#LINKS#
+0
+#HINT#
+97
+
+#TEXT#
+Visit Victor's Arms at (5) if you have equipment to 
+sell.
+#FINISH#
+#LINKS#
+1
+Gladstone Keep Map
+5
+#HINT#
+97
+
+#TEXT#
+ Leave the Keep via (1).
+#FINISH#
+#LINKS#
+1
+Gladstone Keep Map
+5
+#TOPIC#
+52
+NORTHLANDS FOREST
+#LINKS#
+0
+#HINT#
+104
+
+#TEXT#
+It is a good idea to have two spare daggers with you 
+before you enter the Draracle's Cave at (2)
+#FINISH#
+#LINKS#
+1
+Northland큦 Forest Map
+6
+#TOPIC#
+0
+DRARACLE'S CAVE
+#LINKS#
+0
+#TOPIC#
+106
+LEVEL 1
+#LINKS#
+0
+#HINT#
+107
+
+#TEXT#
+The gold switch will open a wall. Go to the three 
+buttons at (2).
+#FINISH#
+#LINKS#
+1
+Level 1 Map
+11
+#HINT#
+107
+
+#TEXT#
+Press each of them and some of the pits will close.
+#FINISH#
+#LINKS#
+0
+#HINT#
+107
+
+#TEXT#
+Go to (3), walking on quickly past the pressure plate 
+that opens the door, and placing a weight (rock) on the 
+pressure plate to disarm the trap.
+#FINISH#
+#LINKS#
+1
+Level 1 Map
+11
+#HINT#
+107
+
+#TEXT#
+At (5) notice the broken wall. Return past the trap and 
+open the door by weighting down the pressure plate.
+#FINISH#
+#LINKS#
+1
+Level 1 Map
+11
+#HINT#
+107
+
+#TEXT#
+Defeat the monsters, enter their hideout and take what 
+you need. Return to the pits and jump down.
+#FINISH#
+#LINKS#
+0
+#TOPIC#
+106
+LEVEL 2
+#LINKS#
+0
+#HINT#
+113
+
+#TEXT#
+After your fall, take the sledgehammer from the eastern 
+corner.
+#FINISH#
+#LINKS#
+0
+#HINT#
+113
+
+#TEXT#
+Open the wall with the button on the north wall.
+#FINISH#
+#LINKS#
+0
+#HINT#
+113
+
+#TEXT#
+Go down to the pod room at (2). Rescue Lora from the 
+rightmost pod and equip her.
+#FINISH#
+#LINKS#
+1
+Level 2 Map
+13
+#HINT#
+113
+
+#TEXT#
+Open the way out by pressing the button on the east 
+wall. Go up to level 1 via the trap door.
+#FINISH#
+#LINKS#
+0
+#TOPIC#
+106
+LEVEL 1
+#LINKS#
+0
+#HINT#
+118
+
+#TEXT#
+Go back to the broken wall at (5) and break it down 
+using the sledgehammer.
+#FINISH#
+#LINKS#
+1
+Level 2 Map
+13
+#HINT#
+118
+
+#TEXT#
+Then break down the wall at (6). By now you should have 
+killed the ratman carrying the emerald eye in the (7) 
+area. If not, seek him out and take the emerald.
+#FINISH#
+#LINKS#
+1
+Level 2 Map
+13
+#HINT#
+118
+
+#TEXT#
+When you reach the dead end, operate the switch to open 
+the wall. This will reveal a pit.
+#FINISH#
+#LINKS#
+0
+#HINT#
+118
+
+#TEXT#
+Jump into the pit.
+#FINISH#
+#LINKS#
+0
+#TOPIC#
+106
+LEVEL 2
+#LINKS#
+0
+#HINT#
+123
+
+#TEXT#
+Go to the chest at (3) and unlock it with the lock 
+picks. Here you will find the sapphire eye.
+#FINISH#
+#LINKS#
+1
+Level 2 Map
+13
+#HINT#
+123
+
+#TEXT#
+Open the door by pushing the button to the left of the 
+door at (4).
+#FINISH#
+#LINKS#
+1
+Level 2 Map
+13
+#HINT#
+123
+
+#TEXT#
+Insert the emerald eye in the eastern dragon eye 
+socket.
+#FINISH#
+#LINKS#
+0
+#HINT#
+123
+
+#TEXT#
+Insert the sapphire eye in the northern dragon eye 
+socket.
+#FINISH#
+#LINKS#
+0
+#INFO#
+106
+Choose one of the paths...
+#TEXT#
+You make take one of two paths at this point. To progress with the game you need 
+only play through one of the paths. You may skip either the Emerald Path or the 
+Sapphire Path, or return to the dragon eyes intersection after taking one path so 
+you can take the other.
+#FINISH#
+#LINKS#
+0
+#TOPIC#
+106
+SAPPHIRE PATH
+#LINKS#
+0
+#HINT#
+129
+
+#TEXT#
+Go north from the dragons eyes intersection.
+#FINISH#
+#LINKS#
+0
+#HINT#
+129
+
+#TEXT#
+Open the chest at (5) with the lock picks.
+#FINISH#
+#LINKS#
+1
+Level 2 Map Sapphire Path
+12
+#HINT#
+129
+
+#TEXT#
+Go to the chest at (6) passing through the secret wall, 
+and open it with the lock picks. In particular, here 
+you will find a freeze spell scroll and a silver 
+goblet.
+#FINISH#
+#LINKS#
+1
+Level 2 Map Sapphire Path
+12
+#HINT#
+129
+
+#TEXT#
+(7) is a fireball trap . . .
+#FINISH#
+#LINKS#
+1
+Level 2 Map Sapphire Path
+12
+#HINT#
+129
+
+#TEXT#
+don't operate the switch. Shoot or throw something at 
+the button at (8) to close the pit and take the worn 
+key from the niche.
+#FINISH#
+#LINKS#
+1
+Level 2 Map Sapphire Path
+12
+#HINT#
+129
+
+#TEXT#
+Take the stairs down to level 3.
+#FINISH#
+#LINKS#
+0
+#TOPIC#
+129
+LEVEL 3
+#LINKS#
+0
+#HINT#
+136
+
+#TEXT#
+The keyhole at (1) opens with the worn key.
+#FINISH#
+#LINKS#
+1
+Level 3 Map Sapphire Path
+14
+#HINT#
+136
+
+#TEXT#
+There is another freeze spell scroll in the secret 
+niche at (3) but it is useless if you have already have 
+one. Return to (1) and walk over the pit at (4) (it is 
+an illusion) and onto the chest at (6).
+#FINISH#
+#LINKS#
+1
+Level 3 Map Sapphire Path
+14
+#HINT#
+136
+
+#TEXT#
+Pick up the iron key at (5), then operate the switch 
+that opens the wall. ( I didn't find a use for the iron 
+key, so you can discard it.)
+#FINISH#
+#LINKS#
+1
+Level 3 Map Sapphire Path
+14
+#HINT#
+136
+
+#TEXT#
+Go through the secret wall to the axe at (7).
+#FINISH#
+#LINKS#
+1
+Level 3 Map Sapphire Path
+14
+#HINT#
+136
+
+#TEXT#
+Return through the secret wall and to the saber at (8).
+#FINISH#
+#LINKS#
+1
+Level 3 Map Sapphire Path
+14
+#TOPIC#
+106
+EMERALD PATH
+#LINKS#
+0
+#HINT#
+142
+
+#TEXT#
+Go east from the dragons eyes intersection.
+#FINISH#
+#LINKS#
+0
+#HINT#
+142
+
+#TEXT#
+Go to the niche at (5) via the secret wall.
+#FINISH#
+#LINKS#
+1
+Level 2 Map Emerald Path
+13
+#HINT#
+142
+
+#TEXT#
+Go to the pit at (7).
+#FINISH#
+#LINKS#
+1
+Level 2 Map Emerald Path
+13
+#HINT#
+142
+
+#TEXT#
+Throw or shoot something at the button across the pit 
+and the pit will close. You can now take the coins and 
+dagger near the stairs.
+#FINISH#
+#LINKS#
+0
+#HINT#
+142
+
+#TEXT#
+Go to the niche and button at (8).
+#FINISH#
+#LINKS#
+1
+Level 2 Map Emerald Path
+13
+#HINT#
+142
+
+#TEXT#
+ The note reads "Dagger in . . . Dagger out.". First 
+put a dagger in the niche, then press the button.
+#FINISH#
+#LINKS#
+0
+#HINT#
+142
+
+#TEXT#
+Operate the gold horns and then push the button.
+#FINISH#
+#LINKS#
+0
+#HINT#
+142
+
+#TEXT#
+ Pick the lock with the lock picks, then push the 
+button.
+#FINISH#
+#LINKS#
+0
+#HINT#
+142
+
+#TEXT#
+Put another dagger in the niche, then push the button 
+and the wall opens.
+#FINISH#
+#LINKS#
+0
+#HINT#
+142
+
+#TEXT#
+Walk through the opening and smash the chest with the 
+sledgehammer. You will find, a helm, a freeze spell 
+scroll and a jeweled dagger.
+#FINISH#
+#LINKS#
+0
+#HINT#
+142
+
+#TEXT#
+Return to the pit at (7) and go down the stairs to 
+level 3.
+#FINISH#
+#LINKS#
+1
+Level 2 Map Emerald Path
+13
+#TOPIC#
+142
+LEVEL 3
+#LINKS#
+0
+#HINT#
+154
+
+#TEXT#
+Go to the hidden niche and button at (1).
+#FINISH#
+#LINKS#
+1
+Level 3 Map Emerald Path
+15
+#HINT#
+154
+
+#TEXT#
+Get the iron key at (2). (I didn't find a use for this 
+key so you may discard it.)
+#FINISH#
+#LINKS#
+1
+Level 3 Map Emerald Path
+15
+#HINT#
+154
+
+#TEXT#
+Go to the pit at (3).
+#FINISH#
+#LINKS#
+1
+Level 3 Map Emerald Path
+15
+#HINT#
+154
+
+#TEXT#
+It is an illusion. Open the chest with the lock picks.
+#FINISH#
+#LINKS#
+0
+#TOPIC#
+106
+EMERALD AND SAPPHIRE PATHS JOIN
+#LINKS#
+0
+#HINT#
+159
+
+#TEXT#
+Go to the chest at (5, EMERALD PATH map), open with the 
+lock picks or the iron key from SAPPHIRE PATH (5).In 
+particular, take the red key.
+#FINISH#
+#LINKS#
+2
+Level 3 Map Sapphire Path
+14
+Level 3 Map Emerald Path
+15
+#HINT#
+159
+
+#TEXT#
+Open the red lock at (9, SAPPHIRE PATH map) with the 
+red key.
+#FINISH#
+#LINKS#
+1
+Level 3 Map Sapphire Path
+14
+#HINT#
+159
+
+#TEXT#
+Go down the stairs to level 4.
+#FINISH#
+#LINKS#
+0
+#TOPIC#
+106
+LEVEL 4
+#LINKS#
+0
+#HINT#
+163
+
+#TEXT#
+Go to the chest at (4) and open it with the lock picks.
+#FINISH#
+#LINKS#
+1
+Level 4 Map
+16
+#HINT#
+163
+
+#TEXT#
+Then walk toward (1).
+#FINISH#
+#LINKS#
+1
+Level 4 Map
+16
+#HINT#
+163
+
+#TEXT#
+Place weights on the pressure plates to turn off the 
+fireball traps. When you get to the dead end, operate 
+the crooked brick to open the wall.
+#FINISH#
+#LINKS#
+0
+#HINT#
+163
+
+#TEXT#
+Go to (1) and open the chest with the lock picks. In 
+particular, take the bezel ring and wear it.
+#FINISH#
+#LINKS#
+1
+Level 4 Map
+16
+#HINT#
+163
+
+#TEXT#
+The switch at (3) sort of controls the fireball traps. 
+I couldn't stop them, so kept having to heal my party 
+after each zap!
+#FINISH#
+#LINKS#
+1
+Level 4 Map
+16
+#HINT#
+163
+
+#TEXT#
+Collect the things in the niche at (7).
+#FINISH#
+#LINKS#
+1
+Level 4 Map
+16
+#HINT#
+163
+
+#TEXT#
+Then take the stairs up to level 3.
+#FINISH#
+#LINKS#
+0
+#TOPIC#
+106
+LEVEL 3
+#LINKS#
+0
+#HINT#
+171
+
+#TEXT#
+Place Lora's equipment in the inventory. Pick up the 
+silver goblet or the jeweled dagger before entering the 
+cave.
+#FINISH#
+#LINKS#
+0
+#HINT#
+171
+
+#TEXT#
+Walk into the alcove on the left and place the 
+"trinket" in the golden chest. The Draracle will give 
+you a riddle scroll which lists the ingredients for the 
+elixir which will cure King Richard. He also tells you 
+that the elixir must be mixed in a tower. Lora stays 
+with the Draracle. 
+
+When you exit the Draracle's Lair you end up on level 
+2.
+#FINISH#
+#LINKS#
+0
+#TOPIC#
+106
+LEVEL 2
+#LINKS#
+0
+#HINT#
+174
+
+#TEXT#
+Walk on up to level 1.
+#FINISH#
+#LINKS#
+0
+#TOPIC#
+106
+LEVEL 1
+#LINKS#
+0
+#HINT#
+176
+
+#TEXT#
+Walk on, operating the switch to open the wall.
+#FINISH#
+#LINKS#
+0
+#HINT#
+176
+
+#TEXT#
+Return to the exit to Northlands Forest.
+#FINISH#
+#LINKS#
+0
+#TOPIC#
+106
+NORTHLANDS FOREST
+#LINKS#
+0
+#HINT#
+179
+
+#TEXT#
+On the way to Gladstone Keep you will encounter 
+Timothy. Gladstone Keep has fallen. You must make your 
+way across Lake Dread to the Opinwood.
+#FINISH#
+#LINKS#
+0
+#HINT#
+179
+
+#TEXT#
+Head for Lake Dread at (3). Victor tells you that Dawn 
+has crossed Lake Dread and you are able to go across by 
+the same boat.
+#FINISH#
+#LINKS#
+1
+Northland큦 Forest Map
+6
+#TOPIC#
+0
+OPINWOOD FOREST
+#LINKS#
+0
+#HINT#
+182
+
+#TEXT#
+Find the Gorkha Swamp entrance at (1), then go and open 
+the chest at (2) with the lock picks.
+#FINISH#
+#LINKS#
+1
+Opinwood Forest Map
+17
+#HINT#
+182
+
+#TEXT#
+Then making your way through the secret walls find the 
+entrance at (6) for the Urbish Mines.
+#FINISH#
+#LINKS#
+1
+Opinwood Forest Map
+17
+#HINT#
+182
+
+#TEXT#
+Go to (7) and pick up the long sword and at (8) get the 
+green skull out of the gnarled tree.
+#FINISH#
+#LINKS#
+1
+Opinwood Forest Map
+17
+#HINT#
+182
+
+#TEXT#
+Visit the beggar at (3) and give him some money. This 
+act of charity will pay off later!
+#FINISH#
+#LINKS#
+1
+Opinwood Forest Map
+17
+#HINT#
+182
+
+#TEXT#
+Open the chest at (9) with the lock picks. Here you 
+will find the lightning spell scroll.
+#FINISH#
+#LINKS#
+1
+Opinwood Forest Map
+17
+#HINT#
+182
+
+#TEXT#
+Finally visit the wagon at (4) but you won't be able 
+prove to Droek that you are comrades of Dawn yet.
+#FINISH#
+#LINKS#
+1
+Opinwood Forest Map
+17
+#HINT#
+182
+
+#TEXT#
+Return to the Gorkha Swamp entrance at (1) and enter 
+the swamp.
+#FINISH#
+#LINKS#
+1
+Opinwood Forest Map
+17

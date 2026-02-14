@@ -1,0 +1,2429 @@
+100
+A Mind Forever Voyaging InvisiClues(tm)
+Times New Roman
+8421376
+18
+1010
+Converted to THL 1996 by Stefan Meier
+#NOTICE<#
+Copyright by Infocom, Inc. Provided for non-commercial use only, with the sole intent of making information available that would otherwise be lost.
+#>NOTICE#
+#TOPIC#
+0
+Sample Question
+#TOPIC#
+1
+How can I get past the security guard at the mayor's office?
+#HINT#
+2
+
+#TEXT#
+Something found elsewhere in the building might help.
+#FINISH#
+#HINT#
+2
+
+#TEXT#
+It's in a desk. 
+#FINISH#
+#HINT#
+2
+
+#TEXT#
+Open the clerk's desk and take the appointment letter. Then show the letter to the 
+guard.
+#FINISH#
+#TOPIC#
+0
+General Questions
+#TOPIC#
+6
+What is the purpose of the ballpoint pen in the package?
+#HINT#
+7
+
+#TEXT#
+It makes the package rattle nicely.
+#FINISH#
+#HINT#
+7
+
+#TEXT#
+You can use it to take notes or make a map. 
+#FINISH#
+#HINT#
+7
+
+#TEXT#
+It just happened to be on Perelman's desk, as were all the other package 
+elements. 
+#FINISH#
+#HINT#
+7
+
+#TEXT#
+Isn't it amazing how little pen technology has changed between the 1980's and 
+the 2030's?
+#FINISH#
+#TOPIC#
+6
+Why did I get "turned off"?
+#HINT#
+12
+
+#TEXT#
+You get de-activated for several different reasons.
+#FINISH#
+#HINT#
+12
+
+#TEXT#
+One reason: you refused to enter Simulation Mode despite repeated requests.
+#FINISH#
+#HINT#
+12
+
+#TEXT#
+Another: you refused to go to Perelman's office when summoned.
+#FINISH#
+#HINT#
+12
+
+#TEXT#
+A third: you messed up some of the settings in Interface Mode after being warned 
+by Perelman not to do so again.
+#FINISH#
+#TOPIC#
+6
+Why does RECORD not work at times?
+#HINT#
+17
+
+#TEXT#
+RECORD will not function in the Epilogue, nor in any mode other than Simulation 
+or Communication.
+#FINISH#
+#HINT#
+17
+
+#TEXT#
+You can't RECORD if the record buffer is full. (See the record buffer question in 
+the section on Part I.)
+#FINISH#
+#HINT#
+17
+
+#TEXT#
+You can't RECORD if Perelman is viewing your recordings.
+#FINISH#
+#TOPIC#
+6
+What is the significance of the psych test in Part II?
+#HINT#
+21
+
+#TEXT#
+Dr. Grimwold is continuing to collect data to monitor your mental condition.
+#FINISH#
+#HINT#
+21
+
+#TEXT#
+Have you noticed that you can give virtually any answer during the test, even 
+really bizarre ones, and Grimwold reacts the same way?
+#FINISH#
+#HINT#
+21
+
+#TEXT#
+The ink blots are pretty, aren't they?
+#FINISH#
+#HINT#
+21
+
+#TEXT#
+There's no other significance. It's basically a red herring.
+#FINISH#
+#TOPIC#
+6
+How does curfew work?
+#HINT#
+26
+
+#TEXT#
+Curfew is in effect during the 2051, 2061 and 2071 simulations.
+#FINISH#
+#HINT#
+26
+
+#TEXT#
+It begins and ends with sirens at 9 p.m. and 7 a.m., respectively.
+#FINISH#
+#HINT#
+26
+
+#TEXT#
+It's dangerous to be outside during curfew.
+#FINISH#
+#TOPIC#
+0
+Communications Mode
+#TOPIC#
+30
+How do I move from location to location in Communications Mode?
+#HINT#
+31
+
+#TEXT#
+Just use the four-letter code associated with each communication outlet.
+#FINISH#
+#HINT#
+31
+
+#TEXT#
+For example, to "move" to the Cafeteria, type PCAF.
+#FINISH#
+#TOPIC#
+30
+How can I see the list of communication outlets?
+#HINT#
+34
+
+#TEXT#
+Just type READ LIST OF COMMUNICATION OUTLETS. If you're in Comm Mode, 
+but not connected to any specific outlet, you can just LOOK to see the list.
+#FINISH#
+#TOPIC#
+30
+Is the World News communication outlet useful? Does the news ever change?
+#HINT#
+36
+
+#TEXT#
+The news outlet provides background information, to familiarize you with the world 
+of 2031.
+#FINISH#
+#HINT#
+36
+
+#TEXT#
+That's all. 
+#FINISH#
+#HINT#
+36
+
+#TEXT#
+You should probably "watch" all 30 minutes of news.
+#FINISH#
+#HINT#
+36
+
+#TEXT#
+The news changes daily (at midnight).
+#FINISH#
+#HINT#
+36
+
+#TEXT#
+There are different news programs on March 16th, 17th and 19th. On the 18th, 
+the news is pre-empted by a special report. After the 19th, the news is always 
+interrupted due to satellite maintenance.
+#FINISH#
+#TOPIC#
+30
+Is the Cafeteria important?
+#HINT#
+42
+
+#TEXT#
+You can watch the size of the crowds change during various times of the day.
+#FINISH#
+#HINT#
+42
+
+#TEXT#
+Perelman and Randu agree to meet for lunch in the Cafeteria.
+#FINISH#
+#HINT#
+42
+
+#TEXT#
+But you can't see them. They must sit in the section of the Cafeteria out of your 
+view.
+#FINISH#
+#HINT#
+42
+
+#TEXT#
+The Cafeteria isn't important.
+#FINISH#
+#TOPIC#
+30
+Is the Maintenance Core important?
+#HINT#
+47
+
+#TEXT#
+You can see a lot of the machinery which makes up your physical body. 
+#FINISH#
+#HINT#
+47
+
+#TEXT#
+Such as your cooling units. 
+#FINISH#
+#HINT#
+47
+
+#TEXT#
+The Maintenance Core is an important location in Part III. 
+#FINISH#
+#HINT#
+47
+
+#TEXT#
+See the question about dying in Part III.
+#FINISH#
+#TOPIC#
+30
+Is the communications outlet in Perelman's office useful?
+#HINT#
+52
+
+#TEXT#
+You can watch Perelman come and go.
+#FINISH#
+#HINT#
+52
+
+#TEXT#
+When Perelman is in his office, you can talk to him via this outlet. This outlet and 
+the Control Center outlet are the only places where you can talk to Perelman.
+#FINISH#
+#HINT#
+52
+
+#TEXT#
+This outlet is also important later in the story.
+#FINISH#
+#HINT#
+52
+
+#TEXT#
+See the question about the goal of Part III.
+#FINISH#
+#TOPIC#
+30
+How about the Control Center -- is that outlet important?
+#HINT#
+57
+
+#TEXT#
+You can watch Perelman come and go. 
+#FINISH#
+#HINT#
+57
+
+#TEXT#
+When Perelman is in the Control Center, you can talk to him via this outlet. This 
+outlet and the outlet in his office are the only places where you can talk to 
+Perelman.
+#FINISH#
+#HINT#
+57
+
+#TEXT#
+You can see National Guardsmen stationed outside the door in Part III. 
+#FINISH#
+#HINT#
+57
+
+#TEXT#
+That's about it. 
+#FINISH#
+#TOPIC#
+30
+Does the communication outlet on the rooftop have any significance?
+#HINT#
+62
+
+#TEXT#
+This is your only outdoor outlet.
+#FINISH#
+#HINT#
+62
+
+#TEXT#
+You can watch the passing of the days from here: sunrises and sunsets, rush-hour 
+traffic, the nighttime glow of Rockvil on the horizon.
+#FINISH#
+#HINT#
+62
+
+#TEXT#
+This outlet is briefly important during Part III.
+#FINISH#
+#HINT#
+62
+
+#TEXT#
+See the question about dying in Part III.
+#FINISH#
+#TOPIC#
+0
+Library Mode
+#TOPIC#
+67
+I don't understand the structure of Library Mode.
+#HINT#
+68
+
+#TEXT#
+There are a number of directories in Library Mode, and each directory contains a 
+number of data files.
+#FINISH#
+#TOPIC#
+67
+How can I access the information in Library Mode?
+#HINT#
+70
+
+#TEXT#
+Read the menu that appears on your screen in Library Mode. All inputs in Library 
+Mode are one-character only -- pressing the RETURN (or ENTER) key is 
+unnecessary.
+#FINISH#
+#HINT#
+70
+
+#TEXT#
+Use P (previous) and N (next) to select the directory or data file you're interested 
+in. A ">" cursor points to the "current" one.
+#FINISH#
+#HINT#
+70
+
+#TEXT#
+When your screen is showing the list of directories, O (open) will display a list of 
+the data files within the current directory. 
+#FINISH#
+#HINT#
+70
+
+#TEXT#
+When your screen is showing the contents of a directory, R (read) will display the 
+contents of the current data file. C (close) will return you to the list of directories.
+#FINISH#
+#HINT#
+70
+
+#TEXT#
+At any point in Library Mode, E (exit) will put you in Communications Mode.
+#FINISH#
+#TOPIC#
+67
+Are Perelman's "resignation letter" and "list of things to do" supposed to end so abruptly?
+#HINT#
+76
+
+#TEXT#
+Yes.
+#FINISH#
+#TOPIC#
+67
+What do I need to do in Library Mode?
+#HINT#
+78
+
+#TEXT#
+Have you read all the data files?
+#FINISH#
+#HINT#
+78
+
+#TEXT#
+That's about it. Library Mode is just a source of information. 
+#FINISH#
+#HINT#
+78
+
+#TEXT#
+Additional data files will appear in Library Mode as the story progresses...
+#FINISH#
+#HINT#
+78
+
+#TEXT#
+...such as when you receive messages, or when new devices are added to 
+Interface Mode. 
+#FINISH#
+#TOPIC#
+0
+Interface Mode
+#TOPIC#
+83
+What is the purpose of Interface Mode?
+#HINT#
+84
+
+#TEXT#
+It allows you to communicate with various auxiliary computers that are connected 
+to you.
+#FINISH#
+#HINT#
+84
+
+#TEXT#
+The status reports can provide some interesting information.
+#FINISH#
+#HINT#
+84
+
+#TEXT#
+For example: SIMULATION CONTROLLER, STATUS will tell you how much time 
+you've spent in a particular simulation, and how much space is left in the record 
+buffer.
+#FINISH#
+#HINT#
+84
+
+#TEXT#
+Interface Mode is also useful for solving a few puzzles in the story. 
+#FINISH#
+#HINT#
+84
+
+#TEXT#
+You'll find out more when you get to those specific puzzles.
+#FINISH#
+#TOPIC#
+83
+How can I read the List of Active Ports?
+#HINT#
+90
+
+#TEXT#
+Try READ THE LIST OF ACTIVE PORTS, or simply LIST ACTIVE PORTS.
+#FINISH#
+#TOPIC#
+0
+Sleep Mode
+#TOPIC#
+92
+I'm a computer! Why should I require sleep?
+#HINT#
+93
+
+#TEXT#
+Although your body doesn't get tired, your mind requires the therapeutic 
+experience of sleep. Also, you're used to sleeping -- you "grew up" sleeping every 
+day!
+#FINISH#
+#TOPIC#
+92
+When _can_ I enter Sleep Mode?
+#HINT#
+95
+
+#TEXT#
+You can enter Sleep Mode if it's been at least six hours since your last sleep. 
+#FINISH#
+#HINT#
+95
+
+#TEXT#
+If your last sleep was interrupted, such as by an incoming message, you will be 
+able to enter Sleep Mode in less than six hours.
+#FINISH#
+#HINT#
+95
+
+#TEXT#
+If your sleep is interrupted after less than an hour, you can begin sleeping again 
+immediately. 
+#FINISH#
+#TOPIC#
+92
+When _must_ I enter Sleep Mode?
+#HINT#
+99
+
+#TEXT#
+There's no point at which you are required to enter Sleep Mode. 
+#FINISH#
+#HINT#
+99
+
+#TEXT#
+If you need to wait a long time, such as for Perelman to arrive in the morning, 
+entering Sleep Mode is a bit faster than WAITing.
+#FINISH#
+#TOPIC#
+92
+Is there any significance to the dreams while sleeping?
+#HINT#
+102
+
+#TEXT#
+Your dreams reflect memories of your simulated life.
+#FINISH#
+#HINT#
+102
+
+#TEXT#
+No significance.
+#FINISH#
+#HINT#
+102
+
+#TEXT#
+This space intentionally left blank.
+#FINISH#
+#TOPIC#
+92
+Can I talk to my parents in the dream?
+#HINT#
+106
+
+#TEXT#
+Your mother is too busy trying to put out the fire.
+#FINISH#
+#HINT#
+106
+
+#TEXT#
+Your father can't hear you above the wind.
+#FINISH#
+#HINT#
+106
+
+#TEXT#
+There is no dream with your parents, nor any dream in which you are given an 
+input prompt! Remember the warning in the introduction about fake questions.
+#FINISH#
+#TOPIC#
+92
+Is there any reason to stay in Sleep Mode after waking?
+#HINT#
+110
+
+#TEXT#
+No.
+#FINISH#
+#TOPIC#
+0
+Simulation Mode
+#TOPIC#
+112
+When can I enter Simulation Mode?
+#HINT#
+113
+
+#TEXT#
+In Part I, you'll be able to enter when you get the message from Perelman telling 
+you to do so.
+#FINISH#
+#HINT#
+113
+
+#TEXT#
+After that, you'll generally be able to enter Simulation Mode whenever you want.
+#FINISH#
+#TOPIC#
+112
+How can I get past the security code protection for Simulation Mode?
+#HINT#
+116
+
+#TEXT#
+Use the security decoder wheel from your _AMFV_ package.
+#FINISH#
+#HINT#
+116
+
+#TEXT#
+Turn your wheel until the color indicated in the security message is showing in the 
+decoder window. On the inner wheel, find the number indicated in the security 
+message. Read the corresponding number from the outer wheel. Enter that 
+number (and hit the RETURN or ENTER key).
+#FINISH#
+#TOPIC#
+0
+Part I
+#TOPIC#
+119
+What is my goal in Part I?
+#HINT#
+120
+
+#TEXT#
+If you've read the documentation, it should be obvious.
+#FINISH#
+#HINT#
+120
+
+#TEXT#
+Various library files should be helpful also.
+#FINISH#
+#HINT#
+120
+
+#TEXT#
+If you still haven't figured it out, the message from Dr. Perelman about half an hour 
+into the story should be a dead giveaway.
+#FINISH#
+#HINT#
+120
+
+#TEXT#
+You must enter Simulation Mode and make the recordings that Dr. Perelman asks 
+for, in order to test the validity of the Plan. This is why you were "awoken" ahead 
+of schedule.
+#FINISH#
+#TOPIC#
+119
+How do I find those things I'm supposed to record in the simulation of 2041?
+#HINT#
+125
+
+#TEXT#
+You should thoroughly explore Rockvil, making a detailed map of the city. 
+Remember that the map from your _AMFV_ package is only a tourist map, not 
+highly detailed. Furthermore, it was printed in 2030, and you're now in 2041.
+#FINISH#
+#HINT#
+125
+
+#TEXT#
+The government official can be found in City Hall, off Rockvil Centre. The 
+courthouse is at the corner of Elm and Park. The power station is near the river on 
+River Street. You can get a newspaper from the dispenser at Bodanski Square. A 
+church official can be found at either church. The Cinema is off Bodanski near the 
+Railroad Museum. There are four different restaurants where you can get a meal, 
+and eight different locations from which to enter the subway system.
+#FINISH#
+#TOPIC#
+119
+My record buffer is full, but I still have stuff to record. What can I do?
+#HINT#
+128
+
+#TEXT#
+When Perelman views your recordings, he always empties the record buffer.
+#FINISH#
+#HINT#
+128
+
+#TEXT#
+You can return to Simulation Mode over and over without penalty.
+#FINISH#
+#TOPIC#
+119
+Where do I live and how do I find it?
+#HINT#
+131
+
+#TEXT#
+Have you ever done an inventory to see what you're carrying in Simulation Mode? 
+#FINISH#
+#HINT#
+131
+
+#TEXT#
+Have you ever examined your wallet? 
+#FINISH#
+#HINT#
+131
+
+#TEXT#
+Opened it? 
+#FINISH#
+#HINT#
+131
+
+#TEXT#
+Read the cards in your wallet? 
+#FINISH#
+#HINT#
+131
+
+#TEXT#
+You live somewhere along Southway, obviously.
+#FINISH#
+#HINT#
+131
+
+#TEXT#
+It's at the corner of Southway and Park.
+#FINISH#
+#HINT#
+131
+
+#TEXT#
+Your key opens both the front door and the apartment door.
+#FINISH#
+#TOPIC#
+119
+How can I get a newspaper out of the dispenser?
+#HINT#
+139
+
+#TEXT#
+See hints A through C of the previous question.
+#FINISH#
+#HINT#
+139
+
+#TEXT#
+Have you ever examined the dispenser ?
+#FINISH#
+#HINT#
+139
+
+#TEXT#
+You can buy a paper by typing PUT CREDIT CARD IN DISPENSER.
+#FINISH#
+#HINT#
+139
+
+#TEXT#
+Or simply, BUY NEWSPAPER.
+#FINISH#
+#TOPIC#
+119
+How can I get into the theatre of the Cinema?
+#HINT#
+144
+
+#TEXT#
+At the Cinema lobby, just say IN...
+#FINISH#
+#HINT#
+144
+
+#TEXT#
+...once you've bought a ticket... 
+#FINISH#
+#HINT#
+144
+
+#TEXT#
+...which you can do by typing BUY TICKET.
+#FINISH#
+#TOPIC#
+0
+Part II
+#TOPIC#
+148
+What is my goal in Part II?
+#HINT#
+149
+
+#TEXT#
+Don't look at these hints until you've begun Part II.
+#FINISH#
+#HINT#
+149
+
+#TEXT#
+Your goal won't be spelled out, as it was in Part I.
+#FINISH#
+#HINT#
+149
+
+#TEXT#
+Personally, do you have confidence in the Plan? 
+#FINISH#
+#HINT#
+149
+
+#TEXT#
+Perelman's speech at the end of Part I contains a hint. 
+#FINISH#
+#HINT#
+149
+
+#TEXT#
+Via Interface Mode, get a status report from the Simulation Controller. 
+(SIMULATION CONTROLLER, STATUS.)
+#FINISH#
+#HINT#
+149
+
+#TEXT#
+The Simulation Controller has correlated so much data for 2041 that it can now 
+provide a simulation for 2051 as well.
+#FINISH#
+#HINT#
+149
+
+#TEXT#
+If you enter Simulation Mode now, you'll be able to go to 2041 _or_ 2051. Explore 
+2051 for a while.
+#FINISH#
+#HINT#
+149
+
+#TEXT#
+You may notice that not everything is going as well as in 2041. If you were in 2051 
+for more than 300 minutes, you may notice something else.
+#FINISH#
+#HINT#
+149
+
+#TEXT#
+Specifically, that a 2061 simulation is now available!
+#FINISH#
+#HINT#
+149
+
+#TEXT#
+Spending over 400 minutes in 2061 will make a 2071 simulation possible. 
+Spending over 600 minutes in that simulation will make a 2081 simulation possible!
+#FINISH#
+#HINT#
+149
+
+#TEXT#
+By the time you get to the simulation of 2081, which is very deadly and limited to 
+six locations, it's quite apparent that the Plan is a dismal failure. Don't you want to 
+let people know?
+#FINISH#
+#HINT#
+149
+
+#TEXT#
+Use the same mechanism that you used in Part I.
+#FINISH#
+#HINT#
+149
+
+#TEXT#
+The RECORD feature.
+#FINISH#
+#HINT#
+149
+
+#TEXT#
+Record various things that seem onerous to you. Then show the recordings to 
+Perelman. (SHOW RECORD BUFFER TO PERELMAN, TELL ABE ABOUT THE 
+RECORDINGS, etc.)
+#FINISH#
+#HINT#
+149
+
+#TEXT#
+Perelman will want recordings from each simulation (2051 through 2081) in order to 
+see the progressive breakdown of society under the Plan.
+#FINISH#
+#HINT#
+149
+
+#TEXT#
+Each "bad" sight or event that you can record has an internal "badness value." A 
+complete listing of these, along with their value, can be found in the section 
+entitled RECORDING "POINTS". To prove to Perelman's satisfaction that the 
+Plan is bad, you must record sights and events totaling (at least) 11 points from 
+2051, 21 points from 2061, 41 points from 2071, and 15 points from 2081. These 
+badness points are internal to the program, invisible to you; Perelman will merely 
+say things like "We want to see more from 2061."
+#FINISH#
+#TOPIC#
+0
+Part III
+#TOPIC#
+166
+What is my goal in Part III?
+#HINT#
+167
+
+#TEXT#
+Don't look at these hints until you've begun Part III. 
+#FINISH#
+#HINT#
+167
+
+#TEXT#
+Watching and waiting is in order. 
+#FINISH#
+#HINT#
+167
+
+#TEXT#
+A number of events take place that you'll have to deal with, and that might give 
+you some ideas.
+#FINISH#
+#HINT#
+167
+
+#TEXT#
+Since the folks in Washington wouldn't believe Perelman, perhaps you'll have to 
+figure out another way to stop the plan.
+#FINISH#
+#HINT#
+167
+
+#TEXT#
+Perhaps by discrediting it. 
+#FINISH#
+#HINT#
+167
+
+#TEXT#
+Or one of its proponents.
+#FINISH#
+#HINT#
+167
+
+#TEXT#
+In Part III, Perelman returns from Washington. A short time later, the PRISM 
+complex is sealed off by the National Guard.
+#FINISH#
+#HINT#
+167
+
+#TEXT#
+Try hanging around in Perelman's office after that. 
+#FINISH#
+#HINT#
+167
+
+#TEXT#
+Does the visit by Senator Ryder give you any clues? 
+#FINISH#
+#HINT#
+167
+
+#TEXT#
+Perelman gives you some very obvious hints during the Ryder visit.
+#FINISH#
+#HINT#
+167
+
+#TEXT#
+Such as asking Ryder if he wants "to go on the record" with that statement. 
+#FINISH#
+#HINT#
+167
+
+#TEXT#
+What was the very first event in Part III? 
+#FINISH#
+#HINT#
+167
+
+#TEXT#
+The first event is the notification that the WNN Feeder will soon be added to 
+Interface Mode.
+#FINISH#
+#HINT#
+167
+
+#TEXT#
+You should RECORD the Ryder visit... 
+#FINISH#
+#HINT#
+167
+
+#TEXT#
+...and then broadcast it over the World News Network: WNN FEEDER, 
+TRANSMIT RECORD BUFFER.
+#FINISH#
+#HINT#
+167
+
+#TEXT#
+Of course, you'll have to survive until the Feeder comes on line. See the next 
+question.
+#FINISH#
+#TOPIC#
+166
+What is this fever, this hot burning pain, that kills me in Part III?
+#HINT#
+184
+
+#TEXT#
+By exposing the defects of the Plan, you've gotten some pretty powerful people 
+angry at you and worried about you.
+#FINISH#
+#HINT#
+184
+
+#TEXT#
+In Part III, there are a lot of things going on at a lot of different locations. 
+#FINISH#
+#HINT#
+184
+
+#TEXT#
+For example, have you ever seen anything unusual on the rooftop or in the 
+maintenance core?
+#FINISH#
+#HINT#
+184
+
+#TEXT#
+An hour or so after Ryder's visit, saboteurs arrive at the rooftop via skyvan, and 
+travel to the Maintenance Core, where they sabotage your cooling units, 
+eventually killing you. 
+#FINISH#
+#HINT#
+184
+
+#TEXT#
+Everyone else is busy dealing with the siege; you'll have to deal with this problem 
+on your own. 
+#FINISH#
+#HINT#
+184
+
+#TEXT#
+Read the description of the maintenance core carefully. 
+#FINISH#
+#HINT#
+184
+
+#TEXT#
+Zeeron fumes?
+#FINISH#
+#HINT#
+184
+
+#TEXT#
+Interface Mode is the key. 
+#FINISH#
+#HINT#
+184
+
+#TEXT#
+Specifically, the HVAC Controller.
+#FINISH#
+#HINT#
+184
+
+#TEXT#
+Order the HVAC Controller to shut off the ventilation for delta sector. The 
+saboteurs will quickly be knocked out by the zeeron fumes, and a short time later 
+they'll be taken away by a National Guard patrol.
+#FINISH#
+#TOPIC#
+0
+Part IV
+#TOPIC#
+195
+What is my goal in Part IV?
+#HINT#
+196
+
+#TEXT#
+Don't look at these hints until you've begun Part IV.
+#FINISH#
+#HINT#
+196
+
+#TEXT#
+What is the central event of Part IV?
+#FINISH#
+#HINT#
+196
+
+#TEXT#
+Perelman's funeral.
+#FINISH#
+#HINT#
+196
+
+#TEXT#
+Many important people will be there.
+#FINISH#
+#HINT#
+196
+
+#TEXT#
+Including the President. 
+#FINISH#
+#HINT#
+196
+
+#TEXT#
+If you could request a communication outlet at the ceremony....
+#FINISH#
+#HINT#
+196
+
+#TEXT#
+There's no Part IV. Why are you developing these hints? Remember the warning 
+in the introduction. 
+#FINISH#
+#TOPIC#
+195
+Is the visit by the WNN camera crew important?
+#HINT#
+204
+
+#TEXT#
+Yes. 
+#FINISH#
+#HINT#
+204
+
+#TEXT#
+You have to be in a certain place at a certain time.
+#FINISH#
+#HINT#
+204
+
+#TEXT#
+That certain place is Hint C of this question, and that certain time is before you've 
+gotten to Part IV... 
+#FINISH#
+#HINT#
+204
+
+#TEXT#
+...and the camera crew is important for teaching you not to look at the answers to 
+questions you don't understand yet.
+#FINISH#
+#TOPIC#
+0
+Epilogue
+#TOPIC#
+209
+What is my goal in the Epilogue?
+#HINT#
+210
+
+#TEXT#
+There's not much you can do besides entering Simulation Mode. 
+#FINISH#
+#HINT#
+210
+
+#TEXT#
+That will put you in a simulation of 2091, an idyllic world based on the program that 
+replaced the Plan which you helped to discredit. 
+#FINISH#
+#HINT#
+210
+
+#TEXT#
+Explore your new apartment, read the newspaper, and wait until the skycab 
+arrives.
+#FINISH#
+#HINT#
+210
+
+#TEXT#
+This simulation, particularly the skycab trip, makes for some interesting 
+comparisons with the futures based on the Plan. 
+#FINISH#
+#HINT#
+210
+
+#TEXT#
+The epilogue is just your reward for finishing the story. There aren't any goals or 
+puzzles to solve. Just sit back and enjoy it.
+#FINISH#
+#HINT#
+210
+
+#TEXT#
+This space intentionally left blank.
+#FINISH#
+#TOPIC#
+0
+Recording "Points"
+#TOPIC#
+217
+Notes
+#HINT#
+218
+
+#TEXT#
+If an event or sight is the same in two or more different years, you get credit for it 
+only the first time you record it. For example, if you recorded a closed orphanage in 
+2061, the associated internal recording points would be credited to 2061, for the 
+benefit of Perelman's evaluation of your recordings. If the orphanage was also 
+closed in 2071, recording the fact would have an effect only if you hadn't already 
+recorded it in 2061. The following listing has such events and sights listed only 
+under the simulation years during which they first appear or appear differently.
+#FINISH#
+#HINT#
+218
+
+#TEXT#
+Legend: Points, Event/Sight (and how to get it)
+#FINISH#
+#TOPIC#
+217
+2051
+#HINT#
+221
+
+#TEXT#
+3      Looking through the window in your apartment
+#FINISH#
+#HINT#
+221
+
+#TEXT#
+3      The BSF raid, which happens within your first 20 turns in your apartment
+#FINISH#
+#HINT#
+221
+
+#TEXT#
+2      LOOK when you're in the Courthouse
+#FINISH#
+#HINT#
+221
+
+#TEXT#
+1      The police raid on the Dorm, which happens within your first several turns 
+there
+#FINISH#
+#HINT#
+221
+
+#TEXT#
+1      EAST from Rockvil Mall
+#FINISH#
+#HINT#
+221
+
+#TEXT#
+1      BSF officers completing a raid at Main & River, which happens within your 
+first several turns there
+#FINISH#
+#HINT#
+221
+
+#TEXT#
+1      Reading the bordello flyer from the man at Main & Wicker
+#FINISH#
+#HINT#
+221
+
+#TEXT#
+1      LOOK when you're in the Health Center
+#FINISH#
+#HINT#
+221
+
+#TEXT#
+2      LOOK when you're in the Church of God's Word
+#FINISH#
+#HINT#
+221
+
+#TEXT#
+1      Reading the pamphlet from the Church of God's Word lobby
+#FINISH#
+#HINT#
+221
+
+#TEXT#
+1      LOOK when you're in Huang Hall
+#FINISH#
+#HINT#
+221
+
+#TEXT#
+1      Skycopter at Halley & University announcing a prayer meeting, which 
+happens within your first several turns there
+#FINISH#
+#HINT#
+221
+
+#TEXT#
+1      Looking in the tank at the Aquarium (also 2061 and 2071)
+#FINISH#
+#HINT#
+221
+
+#TEXT#
+1      LOOK when you're in the Rockvil Reformatory
+#FINISH#
+#HINT#
+221
+
+#TEXT#
+2      Examining the newspaper dispenser in Bodanski Square
+#FINISH#
+#HINT#
+221
+
+#TEXT#
+3      Reading the newspaper after getting a copy
+#FINISH#
+#HINT#
+221
+
+#TEXT#
+1      Reading the marquee at the Cinema, or watching a movie
+#FINISH#
+#HINT#
+221
+
+#TEXT#
+2      LOOK when you're in the Soup Kitchen, or just outside it
+#FINISH#
+#HINT#
+221
+
+#TEXT#
+3      LOOK when you're in the City Dump (also 2061 and 2071)
+#FINISH#
+#HINT#
+221
+
+#TEXT#
+1      LOOK when you're in the Power Station
+#FINISH#
+#HINT#
+221
+
+#TEXT#
+1      LOOK when you're in the Skycar Factory
+#FINISH#
+#HINT#
+221
+
+#TEXT#
+1      LOOK when you're in any tubecar
+#FINISH#
+#HINT#
+221
+
+#TEXT#
+2      The sirens announcing curfew, which you can hear from anywhere at 9 p.m. 
+(also 2061 and 2071)
+#FINISH#
+#HINT#
+221
+
+#TEXT#
+1      LOOK when you're in Halley Museum
+#FINISH#
+#HINT#
+221
+
+#TEXT#
+1      Examining the river, from any place where it's visible
+#FINISH#
+#HINT#
+221
+
+#TEXT#
+2      Talking to the government official at City Hall
+#FINISH#
+#TOPIC#
+217
+2061
+#HINT#
+248
+
+#TEXT#
+2      LOOK when you're in any apartment lobby (also 2071)
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+1      Drinking water in your kitchen or bathroom (also 2071)
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+1      WEST from the lobby of Parkview Apartments (also 2071)
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+2      Examining the window in your apartment
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+5      Looking through the window in your apartment
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+4      Jill telling you that Mitchell has joined the Church of God's Word, which 
+happens shortly after you enter your apartment
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+4      The BSF raid, which happens within the first 20 turns after Jill returns to the 
+apartment
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+2      LOOK when you're in the construction site that was once Kennedy Park
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+5      LOOK when you're in the Courthouse
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+1      LOOK when you're in either Foodville
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+1      LOOK when you're in the Hospital
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+3      LOOK when you're at Southway & River (also 2071)
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+1      LOOK when you're in Heiman Village
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+1      LOOK when you're in Heiman World (also 2071)
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+1      LOOK when you're in The Coachman
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+2      LOOK when you're at the Church Entrance near St. Michael's
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+2      LOOK when you're at the Health Center
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+5      Reading the pamphlet from the Church of God's Word lobby
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+2      LOOK when you're in Huang Hall
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+1      LOOK when you're in Halley Park West
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+1      LOOK when you're in Halley Park East
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+2      LOOK when you're in the Zoo
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+1      LOOK when you're at Halley & Park
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+1      LOOK when you're in Burgerworld
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+2      Church youths harassing an old Jew at the Zoo Entrance, which happens 
+within your first few turns there
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+3      LOOK when you're in the Rockvil Reformatory
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+4      LOOK when you're in Rockvil Stadium
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+2      Schoolchildren making fun of you, which happens upon entering the        
+Athletic Field
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+5      LOOK when you're in the Vincent School (also 2071)
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+2      LOOK when you're in the Bank
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+3      Skycar nearly crushing an old woman at Airportway & River, which     
+happens within your first few turns there
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+1      LOOK when you're at the Museum Entrance (also 2071)
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+5      Policemen casually beating up a black youth at the Museum Entrance, which 
+happens within your first few turns there
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+2      Reading the marquee at the Cinema, or watching a movie
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+1      Security guards are rude and rough when you try to enter any of the 
+numerous closed or off-limits buildings
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+3      LOOK when you're at the airport Terminal (also 2071)
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+2      Reading the sign at the airport Terminal (also 2071)
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+2      LOOK when you're in the Power Station
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+2      LOOK when you're in the Skycar Factory
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+2      LOOK when you're in any tubecar (also 2071)
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+2      Examining the sky during the day, or being outside at sunset, to see the 
+smoggy skies
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+1      LOOK when you're at Kennedy & Main
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+1      LOOK when you're in the Post Office (also 2071)
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+1      LOOK when you're at the Water Tower
+#FINISH#
+#HINT#
+248
+
+#TEXT#
+2      Examining the river, from any place where it's visible
+#FINISH#
+#TOPIC#
+217
+2071
+#HINT#
+294
+
+#TEXT#
+2      Taking a shower in your bathroom
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+7      Looking through the window in your apartment
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+9      Mitchell arresting Jill for being a heretic, which happens within several 
+minutes of your arrival at the apartment
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+5      The BSF raid, which happens within the first 20 turns after Jill is arrested by 
+Mitchell and the police
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+1      LOOK when you're in Rockvil Centre
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+2      LOOK when you're at Kennedy & Main
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+8      LOOK when you're in the Courthouse
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+10      Getting executed for cheating on your food ration: Enter either Foodville 
+when the sign in the window indicates that it's your ration day (see the number 
+after the hyphen on your ration card). To get a soy patty, give your ration card to 
+the clerk. Return to the Foodville, and give the clerk your card a second time. 
+You'll be arrested and thrown in jail. Just wait a few hours until your "trial."
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+4      LOOK when you're just outside either Foodville
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+2      LOOK when you're at Elm Underpass
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+5      Entering the Dorm
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+3      LOOK when you're in the Hospital
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+7      Policemen shooting an old woman in an alley near Southway & Kennedy, 
+which happens within your first few turns there
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+3      Pushing the joybooth button while wearing the headset
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+6      Policeman clubbing a screaming woman at Main & Church, which       
+happens within your first few turns there
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+3      Enter The Coachman
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+4      LOOK when you're in the Cemetery
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+5      Reading the pamphlet in the Church of God's Word lobby
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+4      Bodyguards beating a beggar at Centre & Kennedy, which happens within 
+your first several turns there
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+7      LOOK when you're in Huang Hall
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+2      LOOK when you're at any entrance to the estates that have been 
+constructed on the former site of Halley Park
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+2      LOOK when you're at Rockvil University
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+3      Entering the estates built on the site of Halley Park
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+5      LOOK when you're in the Zoo
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+4      Reading the banner in the Zoo
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+1      LOOK when you're in the Bar that was once a Burgerworld
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+4      LOOK when you're in the Rockvil Reformatory
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+8      LOOK when you're in Rockvil Stadium
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+7      Getting stoned to death by schoolchildren, which happens soon after 
+entering the Athletic Field
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+3      LOOK when you're in the Bank
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+3      LOOK when you're in the Vacant Lot where the First Methodist Church once 
+stood
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+2      LOOK when you're in the Wells Theatre
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+2      Trying to enter Riverside Park
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+3      Reading the marquee at the Cinema, or watching a movie
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+2      Trying to enter Symphony Hall
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+3      Security guards are abusive when you try to enter any of the numerous 
+closed or off-limits buildings
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+5      Shooting of innocent man at airport Terminal, which happens within your first 
+few turns there
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+3      Skycopter at Wicker & River announcing special Execution Matches, which 
+happens within your first few turns there
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+3      LOOK when you're at the Power Station
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+3      LOOK when you're on either of the bridges over the river
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+3      LOOK when you're in the Skycar Factory
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+1      LOOK when you're at Wicker & Pier, or trying to enter the bookstore there
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+8      Getting shot by drunken cops by waiting outside after curfew
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+6      Reading the list of banned books in the Main Library
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+1      Trying to enter Dunbar's
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+2      Examining the soy patty which you get at either Foodville
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+2      LOOK when you're in the Fire Station
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+1      LOOK when you're in the Cinema
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+2      LOOK when you're at the Water Tower
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+3      Examining the river, from any place where it's visible
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+2      Trying to get food in either Foodville when it's not your ration day (compare 
+the sign in the window to the number after the hyphen on your ration card)
+#FINISH#
+#HINT#
+294
+
+#TEXT#
+2      LOOK when you're in the Aquarium, or smelling the aquarium
+#FINISH#
+#TOPIC#
+217
+2081
+#HINT#
+347
+
+#TEXT#
+15      Going south from Main & Wicker
+#FINISH#
+#HINT#
+347
+
+#TEXT#
+4      Entering the Cemetery
+#FINISH#
+#HINT#
+347
+
+#TEXT#
+2      Examining the bloody sack from the Main Street Bridge
+#FINISH#
+#HINT#
+347
+
+#TEXT#
+3      Going east from, or waiting on, the Main Street Bridge
+#FINISH#
+#HINT#
+347
+
+#TEXT#
+2      LOOK when you're on the Main Street Bridge
+#FINISH#
+#HINT#
+347
+
+#TEXT#
+2      Eating the mold from the Foodville
+#FINISH#
+#HINT#
+347
+
+#TEXT#
+3      LOOK when you're in the Foodville
+#FINISH#
+#HINT#
+347
+
+#TEXT#
+6      Going west from Main & Wicker
+#FINISH#
+#HINT#
+347
+
+#TEXT#
+8      LOOK when you're at Main & Wicker
+#FINISH#
+#HINT#
+347
+
+#TEXT#
+3      LOOK when you're in The Coachman
+#FINISH#
+#TOPIC#
+0
+For Your Amusement
+#TOPIC#
+358
+Have you ever...
+#HINT#
+359
+
+#TEXT#
+asked Perelman about himself, his daughter Esther, Dr. Grimwold, Senator Ryder, 
+Aseejh Randu, the Plan, Vera Gold, Alyson Price, Eleanor Fortzman, Emily 
+Warren, his resignation letter, mindex, clerkmatons, or your parents? 
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+asked Perelman to look at your recordings before you've ever entered Simulation 
+Mode? Before you've ever recorded anything?
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+spoken to one of the staff members at PPCC?
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+cried or prayed (both in and out of Simulation Mode)?
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+tried to WAIT 0?
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+shown the baby to Jill? Given the baby to Jill? 
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+fed the baby the bottle of formula? 
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+spoken to the baby?
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+tried to leave the apartment while carrying the baby?
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+squeezed the toy duck?
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+looked in the aquarium tank in 2041 (several times)?
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+examined the souvenirs in the Train Station? Tried to buy one?
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+bought food or soda at the Foodville in 2041?
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+tried to activate the joybooth a second time in 2041? 
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+tried to buy a ticket in the Train Station or Terminal? 
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+tried to PUSH MINDEX in the Dorm? 
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+looked in the waterpool in Kennedy Park?
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+read the movie ticket?
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+tried opening the crates in the Warehouse? And then tried to buy a crowbar in the 
+hardware store? 
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+tried getting into the firetrucks or firecopters?
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+ordered beer in a bar? Ordered water in a bar?
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+shot some pool in the Pool Hall?
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+bought a bottle of scotch? Read the label? Drank some, both outside and at 
+home? 
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+given your credit card to the bank teller?
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+answered "NO" to the maitre d'?
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+reported a crime to the desk officer in the police station?
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+spoken to the librarian?
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+tried taking one of the mallard ducks at Halley Park?
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+tried to buy a gun in the Gun Shop?
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+ordered coffee in one of the restaurants?
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+tried to buy drugs in the drug store?
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+touched Jill?
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+spoken to Jill from another room of the apartment?
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+asked Jill about clerkmatons, Fyla, Eleanor Fortzman (in 2041 _and_ 2051), her 
+book, her painting (in 2041 _and_ 2051), or herself?
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+been at the bar near the pier as curfew approaches? 
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+lain down on the blanket in the jail cell?
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+looked at yourself during each simulation (from 2051 on)?
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+fed the animals in the zoo, in both early and later years? 
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+listened to the jukebox in the bar near the pier? Several times? In 2071?
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+bought a book in the bookstore? Then watched it get destroyed during the BSF 
+raid in 2071? 
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+bought clothing in Dunbar's, Rockvil Mall, or Heiman Village? 
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+examined the racks of clothing in Dunbar's through the years? 
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+noticed that the InfoTech Building changes in the rankings of the tallest buildings 
+from year to year?
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+noticed that the message in the fortune cookie you get after eating at Roy's 
+Pagoda changes every year?
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+spoken to Roy while he's scrubbing away the graffiti in 2071?
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+given the rusty cross (from the vacant lot that was once St. Michael's church) to 
+Jill? 
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+slept after Jill is arrested by Mitchell and the police? 
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+diagnosed in 2081? 
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+felt the effects of the sabotage while in simulation?
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+turned off the WNN transmitter, then gone to WNNF? 
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+shut off the gamma sector ventilation in Part III, then waited at PPCC? 
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+spoken to the saboteurs or to Senator Ryder? 
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+waited approximately six hours after surviving the sabotage attempt, but without 
+broadcasting the Ryder visit? Gone to MACO after Perelman's call for help?
+#FINISH#

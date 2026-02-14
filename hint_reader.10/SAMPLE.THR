@@ -1,0 +1,60 @@
+100
+Sample
+Times New Roman
+32768
+22
+0000
+Written 1996 by Stefan Meier
+#NOTICE<#
+This file demonstrates the features of THL
+#>NOTICE#
+#TOPIC#
+0
+What´s the meaning of life ?
+#HINT#
+1
+
+#TEXT#
+Read a book !
+#FINISH#
+#HINT#
+1
+
+#TEXT#
+Read a famous book !
+#FINISH#
+#HINT#
+1
+
+#TEXT#
+Ask Deep Thought.
+#FINISH#
+#HINT#
+1
+
+#TEXT#
+42
+#FINISH#
+#TOPIC#
+0
+Another topic...
+#HINT#
+6
+
+#TEXT#
+Do you really need a hint ?
+#FINISH#
+#PIC#
+6
+G:\WORK\TEXTE\Startrek.jpg
+3
+A Startrek poster
+0,0,387,480
+The Enterprise
+210,175,357,274
+The Title
+6,347,203,426
+#MM#
+6
+That sounds good !
+C:\UTILITY\PROAUDIO\MIDI\Nutcrack.mid

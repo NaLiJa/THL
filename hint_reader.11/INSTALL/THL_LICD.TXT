@@ -1,0 +1,73 @@
+The Hint Library - Lizenzvertrag
+
+Bitte lesen Sie diesen Lizenzvertrag komplett bevor Sie dieses Programm
+benutzen. Wenn Sie mit den Bedingungen dieses Vertrages nicht einverstanden
+sind, dürfen Sie das Programm nicht benutzen und müssen alle Kopien davon
+löschen.
+Dieses urheberrechtllich geschützte Programm wird als "Freeware" vertrieben. 
+Sie dürfen das Programm unentgeldlich benutzen und an andere weitergeben.
+Alle Rechte an diesem Programm gehören Stefan Meier und werden durch das
+Urheberechtsgesetz der Bundesrepublik Deutschland und internationale
+Abkommen geschützt. Daher muß das Programm wie anderes geschütztes Material
+behandelt werden (z.B. Bücher und Tonträger).
+
+Dieses Programm darf nicht vermietet werden. Außerdem ist es nicht erlaubt,
+das Programmpaket zu verändern, zu übersetzen, zu dissassemblieren oder zu
+decompilieren.
+Wenn Sie eine der Bedingungen dieses Vertrages verletzen, erlischt automatisch
+Ihr Nutzungsrecht für dieses Programm und Sie müssen alle Kopien löschen.
+
+Das Programm und die Dokumentation werden so zur Verfügung gestellt, "wie
+sie sind", d.h. der Autor, Stefan Meier, trägt in keinem Falle die Haftung
+für Schäden, die aus der direkten oder indirekten Nutzung des Programms
+entstehen, auch dann nicht, wenn der Autor auf mögliche Schäden durch die
+Nutzung des Programmes hingewiesen worden ist. 
+
+Wenn Sie beabsichtigen, mit dem Programm THL-Dateien zu erstellen und zu ver-
+breiten. sollten Sie mir mitteilen, welches Projekt sie vorhaben und zuerst
+bei mir anfragen, ob jemand anders gerade an einem THL-File zu dem jeweiligen
+Thema schreibt. Obwohl das Programm unentgeldlich benutzt werden darf, ist es
+unter KEINEN UMSTÄNDEN ERLAUBT, für "eigene" THL-Files in irgendeiner Form
+Gebühren zu verlangen. Wenn Sie Ihre THL-Dateien zur Verfügung stellen wollen,
+müssen Sie mir eine Kopie zukommen lassen. Der einfachste Weg ist, die Datei
+an der unten angegebenen FTP-Adresse abzulegen. 
+
+Die Verbreitung über Warenhäuser bedarf einer besonderen schriftlichen
+Genehmigung.
+Ebenso bedarf es bei der Verbreitung über "Magazin-CDs" oder "Magazin-
+Disketten" einer besonderen schriftlichen Genehmigung.
+Kein Händler darf mehr als 12 DM (oder den entsprechenden Betrag in anderen
+Währungen, z.B. $8 US) für die Verbreitung dieses Programms verlangen.
+
+Alle THL-Dateien eines Händlers müssen auf eine möglichst kleine Menge
+Disketten verteilt werden. Die Verteilung mittels einer unnatürlich großen
+Menge Disketten ist VERBOTEN.
+Für solche Disketten, auf denen THL-Dateien vertrieben werden, dürfen unter
+keinen Umständen mehr als 12 DM (oder der entsprechende Betrag in anderen
+Währungen, z.B. $8 US) verlangt werden.
+Diese Bedingungen gelten sowohl für die Verbreitung dieses Programms, als
+auch für alle THL-Dateien, die von anderen Autoren erstellt werden.
+
+Die Genehmigung zur Verteilung des Programms kann schriftlich widerrufen
+werden. Spätestens 30 tage nach dem Ausstellungsdatum des Widerrufs, muß
+der Händler mit der Verteilung des Programms aufhören.
+Das Widerrufen der Vertriebsgenehmigung entbindet den Händler nicht von
+den anderen Pflichten, die sich aus diesem Vertrag ergeben.
+
+
+Mein besonderer Dank gilt Detlef Meister für sein Freeware-Projekt MPICVIEW.
+Dieses Programms nutzt Teile dieses Projektes zum Anzeigen von JPEG,TARGA und
+PCX-Dateien.
+Sie erreichen Detlef Meister unter;
+http://w3.rz.fhtw-berlin.de/~meister/index.html
+Meister@rz.fhtw-berlin.de
+ 
+
+Stefan Meier, Erfstr. 65, D-52249 Eschweiler, Germany
+AOL:
+SMeier7777
+E-Mail:
+SMeier7777@aol.com
+Stefan.Meier@post.rwth-aachen.de
+
+http://members.aol.com/thlhome/index.htm

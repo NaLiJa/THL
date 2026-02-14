@@ -1,0 +1,62 @@
+110
+Sample file for THL 1.1
+MS Sans Serif
+255
+18
+1000
+Written 1997 by Stefan Meier
+#NOTICE<#
+This file demonstrates the features of THL
+#>NOTICE#
+#TOPIC#
+0
+This is a topic
+#LINKS#
+0
+#HINT#
+1
+
+#TEXT#
+The topic contains a hint.
+#FINISH#
+#LINKS#
+1
+Watch it !
+3
+#PIC#
+1
+E:\work\c&hworld.gif
+1
+This is a Calvin & Hobbes picture
+0,0,328,420
+#LINKS#
+0
+#MM#
+1
+This sounds great !
+C:\UTILITY\PROAUDIO\MIDI\Nutcrack.mid
+#LINKS#
+0
+#INFO#
+1
+This is the new information type !
+#TEXT#
+Hey! Do not read this !
+#FINISH#
+#LINKS#
+1
+Need some music ?
+4
+#TOPIC#
+0
+This is another topic
+#LINKS#
+0
+#HINT#
+6
+
+#TEXT#
+Oh Oh, you´re cheating
+#FINISH#
+#LINKS#
+0

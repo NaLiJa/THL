@@ -1,0 +1,251 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// German (Germany) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_DEU)
+#ifdef _WIN32
+LANGUAGE LANG_GERMAN, SUBLANG_GERMAN
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    100                     "&Datei"
+    101                     "&Editor"
+    102                     "&Sprache"
+    103                     "&Hilfe"
+    104                     "&Öffnen..."
+    105                     "Eine bestehende Datei öffnen"
+    106                     "&Beenden"
+    107                     "Diese Anwendung beenden"
+    108                     "&Neue Hinweisdatei erzeugen"
+    109                     "Hinweisdatei &editieren"
+    110                     "Sprache &wählen"
+    111                     "&Inhalt"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    112                     "&Suchen..."
+    113                     "&Hilfe benutzen"
+    114                     "In&fo..."
+    115                     "Sprach&einstellung speichern"
+    116                     "Öffnen (über &Titel) ..."
+    117                     "Diese Version ist nur gültig bis zum 31.10.96."
+    118                     "Datei öffnen und Hinweise lesen"
+    119                     "Neue Datei im Editor erstellen"
+    120                     "Existierende Datei im Editor öffnen"
+    121                     "Inhaltsverzeichnis der Hilfedatei anzeigen"
+    122                     "Programminformation anzeigen"
+    123                     "Programm beenden"
+    124                     "Dateien öffnen (ausführliche Auswahlliste) und Hinweise lesen"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    50                      "Warnung"
+    51                      "Fehler"
+    52                      "Information"
+    53                      "Bestätigen"
+    60                      "Ja"
+    61                      "Nein"
+    62                      "Ok"
+    63                      "Abbruch"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    64                      "Abbruch"
+    65                      "Wiederh."
+    66                      "Ignorieren"
+    67                      "Alle"
+    68                      "Hilfe"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    150                     "Datei öffnen"
+    151                     "Abbruch"
+    152                     "Ok"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    200                     "Typ: Multimedia-Eintrag"
+    201                     "Abbruch"
+    202                     "Durchsuchen"
+    203                     "Beschreibung"
+    204                     "Datei"
+    205                     "Die Felder Beschreibung und Datei müssen ausgefüllt sein!"
+    206                     "Ok"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    250                     "Beschreibung"
+    251                     "Koordinaten"
+    252                     "Typ: Bild"
+    253                     "Datei:"
+    254                     "Bereichs-Editor:"
+    255                     "Durchsuchen"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    256                     "Abbruch"
+    257                     "In der Bereichsliste ist ein Fehler!"
+    258                     "Die angegebene Datei existiert nicht!"
+    259                     "Sollen diese Koordinaten hinzugefügt werden ?"
+    260                     "Kein Platz mehr in der Liste !"
+    261                     "Soll die Bereichsliste gelöscht werden ?"
+    262                     "Ok"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    300                     "Hinweise lesen"
+    301                     "Ende"
+    302                     "<< zurück >>"
+    303                     "Hinweis"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    304                     "Diese Datei wurde mit einer neueren Programmversion erstellt!"
+    305                     "Fehler in der Datei !"
+    306                     "Sie haben nicht alle vorherigen Hinweise gelesen!\nWollen Sie wirklich direkt diesen Hinweis lesen?\nMöglicherweise wird dadurch Ihr Spielspaß beeinträchtigt."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    350                     "Bild"
+    351                     "Schließen"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    400                     "Hinweis"
+    401                     "Hinweis zeigen"
+    402                     "Schließen"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    450                     "Multimedia-Datei"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    500                     "Hinweisdateien-Editor"
+    501                     "Einträge hinzufügen"
+    502                     "Einträge bearbeiten"
+    503                     "Titel:"
+    504                     "Autor:"
+    505                     "Zusatz:"
+    506                     "Schrift"
+    507                     "Neues Thema/Frage"
+    508                     "Neuer Hinweis"
+    509                     "Neuer Bildeintrag"
+    510                     "Neue Mediendatei"
+    511                     "Editieren"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    512                     "Löschen"
+    513                     "Speichern"
+    514                     "Übersetzen"
+    515                     "Schließen"
+    516                     "Hoch"
+    517                     "Runter"
+    518                     "Ein Hinweis ist die unterste Ebene !"
+    519                     "Die Felder Titel und Autor müssen ausgefüllt sein!"
+    520                     "Soll das Element wirklich gelöscht werden ?"
+    521                     "Das Hauptverzeichnis kann nicht gelöscht werden !"
+    522                     "Diese Datei wurde mit einer neueren Programmversion erstellt!"
+    523                     "Token erwartet: "
+    524                     "Unerwartetes Token. Fehler in der Datei."
+    525                     "Datei wurde nicht gefunden"
+    526                     "Diese Datei wurde nicht gefunden."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    600                     "Typ: Hinweis"
+    601                     "Abbruch"
+    602                     "OK"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    650                     "Typ: Thema"
+    651                     "Abbruch"
+    652                     "OK"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    700                     "Sprache"
+    701                     "Ok"
+    702                     "Abbruch"
+END
+
+#endif    // German (Germany) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

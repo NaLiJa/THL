@@ -1,0 +1,38 @@
+The Hint Library 1.1
+--------------------
+
+Walkthroughs often provide more information than you need to solve
+the problem you´re stuck in.
+The Hint Library just gives you the help you need to solve the special
+problem.
+
+THL files consist of hints on several problems you encounter during
+a game. The are ordered by topics and provide either slight help or
+detailed answers. So it´s up to you how much help you get.
+The THL file format supports text, images (BMP,JPG,TGA,PCX,...), and
+multimedia files (WAV,MID,AVI,MOV,...).
+
+The software contains a reader for getting hints from existing THL files
+and an editor for creating new THL files.
+
+The Hint Library is distributed as FREEWARE. You may use the software without
+charge and distribute to others.
+
+Now release 1.1 is available with many new features e.g. links between
+topics or hints.
+
+The Hint Library is running on Windows NT/95. There are german and
+english releases available so far.
+
+Where can I download The Hint Library ?
+
+http://members.aol.com/thlhome/index.htm (WWW) oder
+
+ftp://members.aol.com/tinyyeti/thl1.d  ( german )
+ftp://members.aol.com/nicetton/thl1.gb ( english ) 
+
+Enjoy THE HINT LIBRARY !
+
+Stefan Meier
+
+( SMeier7777@aol.com oder Stefan.Meier.post.rwth-aachen.de )

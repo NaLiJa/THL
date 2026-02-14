@@ -1,0 +1,37 @@
+The Hint Library 1.1
+--------------------
+
+Komplettlösungen zu Spielen verraten oft mehr als man wissen möchte.
+The Hint Library gibt dem Spieler/der Spielerin nur soviel Hilfe wie
+er/sie braucht. 
+THL-Dateien bestehen aus thematisch gegliederten Hinweisen zu den
+verschiedenen Problemstellen eines Spieles - entweder ganz gezielt oder
+mit ansteigender Genauigkeit. So hat man es selbst in der Hand, wieviel
+man lesen möchte.Das THL-Format unterstützt dabei Text, Bilder (BMP,
+JPG,TGA,PCX,...) und Multimediadateien (WAV,MID,AVI,MOV,... ).
+
+Das Programm enthält einen "Reader" mit dem THL-Dateien gelesen werden
+können und einen Editor, mit dem jede(r) selbst Hinweissammlungen für
+andere Spieler/innen anlegen kann.
+
+The Hint Library ist FREEWARE und kann somit von jedem unentgeldlich
+genutzt und weitergegeben werden.
+
+Ab sofort ist die Version 1.1 erhältlich, die zahlreiche Neuerungen
+enthält, z.B. Verknüpfungen zwischen Themen oder Hinweisen.
+
+The Hint Library läuft auf Windows 95/NT und ist z.Zt. in einer
+deutschen und einer englischen Version verfügbar.
+
+The Hint Library gibt es hier:
+
+http://members.aol.com/thlhome/index.htm (WWW) oder
+
+ftp://members.aol.com/tinyyeti/thl1.d  ( deut. )
+ftp://members.aol.com/nicetton/thl1.gb ( engl. ) 
+
+Viel Spaß mit THE HINT LIBRARY !
+
+Stefan Meier
+
+( SMeier7777@aol.com oder Stefan.Meier.post.rwth-aachen.de )

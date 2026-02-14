@@ -1,0 +1,33 @@
+Changes 1.00 > 1.10
+======================================================================
+
+Bugs removed
+----------------------------------------------------------------------
+General:
+* Spelling errors 
+* Load errors on pictures caused malefunctions
+
+Reader:
+* The hint line of the reader window was not set correctly
+
+Editor:
+* Sometimes button states in the editor window are not set correctly
+* After moving down an entry in the editor the entry was not selected
+
+New
+----------------------------------------------------------------------
+General:
+* New information type for non-hint-information
+* Restructured file format for more flexibility
+* Links between the entries can be definied
+
+Reader:
+* Multiple line support
+* Added support for links
+
+Editor:
+* New editor design
+* Moving editor entries
+* Enhanced Save/Compile - Menu
+* Save file check on editor close
+

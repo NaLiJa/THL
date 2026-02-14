@@ -1,0 +1,1712 @@
+100
+Plundered Hearts InvisiClues(tm)
+Terminal
+0
+14
+0010
+Converted to THL 1996 by Stefan Meier
+#NOTICE<#
+Copyright by Infocom, Inc. Provided for non-commercial use only, with the sole intent of making information available that would otherwise be lost.
+#>NOTICE#
+#TOPIC#
+0
+Sample Question
+#TOPIC#
+1
+There's a bird nearby with a jewel in its beak. How can I get it?
+#HINT#
+2
+
+#TEXT#
+You can't catch the bird, but you can make it drop the jewel.
+#FINISH#
+#HINT#
+2
+
+#TEXT#
+What do birds like to eat?
+#FINISH#
+#HINT#
+2
+
+#TEXT#
+TAKE THE WORM FROM THE FISHERMAN. If you then DROP THE WORM, 
+the bird will drop the jewel.
+#FINISH#
+#TOPIC#
+0
+The Ship
+#TOPIC#
+6
+Good Gracious! What is this extremely improper scene at the very beginning?
+#HINT#
+7
+
+#TEXT#
+You are asleep, dreaming this when the pirates attack.
+#FINISH#
+#HINT#
+7
+
+#TEXT#
+It's a preview of things to come.
+#FINISH#
+#HINT#
+7
+
+#TEXT#
+It's a sample of the writing style of _Plundered Hearts_.
+#FINISH#
+#HINT#
+7
+
+#TEXT#
+Romance novels always have teasers of this sort.
+#FINISH#
+#TOPIC#
+6
+Pirates are attacking _Lafond Deux_! What can I do?
+#HINT#
+12
+
+#TEXT#
+You don't need to do anything, actually, though you may like to whack an 
+occasional pirate over the head with something. Heroines always get rescued from 
+ticklish situations like this one. Well, almost always.
+#FINISH#
+#TOPIC#
+6
+I'm stuck in the Captain's Quarters! How can I escape?
+#HINT#
+14
+
+#TEXT#
+There are two ways to escape, actually. One to the fore and one abaft.
+#FINISH#
+#HINT#
+14
+
+#TEXT#
+Have you looked behind the curtain?
+#FINISH#
+#HINT#
+14
+
+#TEXT#
+The cupboard isn't quite blocking the doorway.
+#FINISH#
+#HINT#
+14
+
+#TEXT#
+To go to the fore, type WALK FORWARD. If Captain Jamison is present, he won't 
+let you go, of course.
+#FINISH#
+#HINT#
+14
+
+#TEXT#
+To go aft, see the next question ("How do I get on deck?").
+#FINISH#
+#TOPIC#
+6
+How do I get on deck?
+#HINT#
+20
+
+#TEXT#
+The hatch is closed tight and the door is barred, so you'll have to find some other 
+way.
+#FINISH#
+#HINT#
+20
+
+#TEXT#
+You need to climb the rope ladder that appears when Jamison leaves the ship.
+#FINISH#
+#HINT#
+20
+
+#TEXT#
+The window won't open, but there's another way to "open" it.
+#FINISH#
+#HINT#
+20
+
+#TEXT#
+THROW THE COFFER AT THE WINDOW.
+#FINISH#
+#HINT#
+20
+
+#TEXT#
+Having broken the window, you can't reach the ladder without getting on the 
+ledge first. SIT ON THE LEDGE.
+#FINISH#
+#HINT#
+20
+
+#TEXT#
+All you need do is TAKE THE LADDER. Then you'll have to climb it quickly. You 
+can't hang onto slimy hemp forever.
+#FINISH#
+#HINT#
+20
+
+#TEXT#
+With practice, climbing this ladder becomes much easier. In fact, after you've 
+done it once, a simple CLIMB UP and CLIMB DOWN will suffice.
+#FINISH#
+#TOPIC#
+6
+I can't climb the ladder! My skirts get in the way!
+#HINT#
+28
+
+#TEXT#
+Climb on to the ledge again, remove your dress and start the process over. This is 
+no time for modesty. 
+#FINISH#
+#TOPIC#
+6
+Immodest I must be to get on deck, but I cannot, so undressed, preserve my virtue from Jamison's lusty crew. How may I move around?
+#HINT#
+30
+
+#TEXT#
+Is there some way to disguise your gender?
+#FINISH#
+#HINT#
+30
+
+#TEXT#
+Have you thoroughly examined the sleeping cupboard in the landing?
+#FINISH#
+#HINT#
+30
+
+#TEXT#
+Opened it? Climbed into it? Examined the pile of clothes in it?
+#FINISH#
+#HINT#
+30
+
+#TEXT#
+If you wear the shirt and breeches as a disguise, the pirates won't bother you.
+#FINISH#
+#TOPIC#
+6
+How can I prevent the ship from blowing up?
+#HINT#
+35
+
+#TEXT#
+You need to get on deck first.
+#FINISH#
+#HINT#
+35
+
+#TEXT#
+Did you notice, in the hold, the fuse burning towards the kegs of gunpowder, 
+behind the fence? 
+#FINISH#
+#HINT#
+35
+
+#TEXT#
+Since you can't get through the fence yourself, you have to discover some way of 
+putting the fuse out from a distance.
+#FINISH#
+#HINT#
+35
+
+#TEXT#
+The gap above the fence will help.
+#FINISH#
+#HINT#
+35
+
+#TEXT#
+You can throw things over the fence on to the burning end of the fuse.
+#FINISH#
+#HINT#
+35
+
+#TEXT#
+They just slide off, you say, leaving the fuse undoused? What best fights fire?
+#FINISH#
+#HINT#
+35
+
+#TEXT#
+Water! But since you can't move the water barrel from the deck, you'll have to rip 
+off some other solution.
+#FINISH#
+#HINT#
+35
+
+#TEXT#
+Getting ragged thinking about this?
+#FINISH#
+#HINT#
+35
+
+#TEXT#
+RIP THE FROCK to make a rag. Then SOAK THE RAG IN THE WATER.
+#FINISH#
+#HINT#
+35
+
+#TEXT#
+Finally, THROW THE WET RAG AT THE FUSE.
+#FINISH#
+#TOPIC#
+6
+How can I stop the _Helena Louise_ from dashing on the rocks?
+#HINT#
+46
+
+#TEXT#
+You need to get on deck first.
+#FINISH#
+#HINT#
+46
+
+#TEXT#
+You may have overheard Crulley committing some mischief on the deck above the 
+crew's quarters. That's the forecastle. 
+#FINISH#
+#HINT#
+46
+
+#TEXT#
+Have you gone north from the forecastle to the bowsprit?
+#FINISH#
+#HINT#
+46
+
+#TEXT#
+One of the two anchor lines has been cut. The ship is drifting on the tide.
+#FINISH#
+#HINT#
+46
+
+#TEXT#
+You'll have to lower another anchor. Know what a mooring winch is? 
+#FINISH#
+#HINT#
+46
+
+#TEXT#
+Examine the lever on the winch.
+#FINISH#
+#HINT#
+46
+
+#TEXT#
+To open the teeth on the winch, in order to release the main anchor, RAISE THE 
+LEVER.
+#FINISH#
+#TOPIC#
+6
+How can I rescue my father, trapped as I am aboard the _Helena Louise_?
+#HINT#
+54
+
+#TEXT#
+To escape the ship, you need to get on deck first.
+#FINISH#
+#HINT#
+54
+
+#TEXT#
+Have you examined the pyramid of casks on the quarterdeck? 
+#FINISH#
+#HINT#
+54
+
+#TEXT#
+One of the casks is open ended. 
+#FINISH#
+#HINT#
+54
+
+#TEXT#
+If you enter the cask, you will notice...
+#FINISH#
+#HINT#
+54
+
+#TEXT#
+A fraying rope. Maybe if you just helped it along a little.
+#FINISH#
+#HINT#
+54
+
+#TEXT#
+There's a dagger in the Galley.
+#FINISH#
+#HINT#
+54
+
+#TEXT#
+ENTER THE CASK. CUT THE ROPE WITH THE DAGGER.
+#FINISH#
+#TOPIC#
+6
+I escape the ship but drift out to sea. How can I get ashore?
+#HINT#
+62
+
+#TEXT#
+The tide is going out. Wait for the tide to change.
+#FINISH#
+#HINT#
+62
+
+#TEXT#
+While you're waiting for the tide to change, you might want to stop the _Helena 
+Louise_ from dashing against the reefs.
+#FINISH#
+#TOPIC#
+6
+Of what use is the skiff?
+#HINT#
+65
+
+#TEXT#
+You never HAVE to use it, it is just there in case you want to go back to the 
+_Helena Louise_...
+#FINISH#
+#HINT#
+65
+
+#TEXT#
+To get items you forgot to bring along... 
+#FINISH#
+#HINT#
+65
+
+#TEXT#
+To go back to save the ship from exploding.
+#FINISH#
+#TOPIC#
+0
+The Mansion
+#TOPIC#
+69
+How can I get into the mansion?
+#HINT#
+70
+
+#TEXT#
+There are five routes into the house, two from the western side and one from 
+every other direction.
+#FINISH#
+#HINT#
+70
+
+#TEXT#
+The easterly entrance is approached from the Folly. See the question about the 
+slat in the folly for more information. ("There is a loose slat at the back of the folly. 
+Is it important?") 
+#FINISH#
+#HINT#
+70
+
+#TEXT#
+One of the western entrances is from the Trade Entrance, into the kitchen. See 
+the next question for more information. ("Who is this woman who keeps throwing 
+me out of the kitchen?")
+#FINISH#
+#HINT#
+70
+
+#TEXT#
+Another is from the Clearing northeast of the Forest. The place with the climbing 
+vines.
+#FINISH#
+#HINT#
+70
+
+#TEXT#
+When you climb the vine in the clearing, you'll find your way into an upstairs room.
+#FINISH#
+#HINT#
+70
+
+#TEXT#
+The northerly entrance is south from the Main Entrance. You'll need to have 
+gotten something from inside the house (entering by another route) before you can 
+successfully enter here, however.
+#FINISH#
+#HINT#
+70
+
+#TEXT#
+The final entrance is through the doors between the veranda and the ballroom. 
+You'll have to unlock and open them from inside the ballroom first, however.
+#FINISH#
+#TOPIC#
+69
+Who is this woman who keeps throwing me out of the kitchen? How can I make her stop?
+#HINT#
+78
+
+#TEXT#
+Her name is Lucy, and she is a friend of your father's. You'll probably want to talk 
+to her.
+#FINISH#
+#HINT#
+78
+
+#TEXT#
+Lucy hasn't time to chat with beggars (your dress is looking pretty bedraggled 
+without its hoops), or with fine ladies. Your boyish disguise could encourage her to 
+chat.
+#FINISH#
+#HINT#
+78
+
+#TEXT#
+Enter the kitchen wearing the shirt and breeches.
+#FINISH#
+#HINT#
+78
+
+#TEXT#
+Remember to take the garter when Lucy offers it to you. It might be useful.
+#FINISH#
+#TOPIC#
+69
+There is a loose slat at the back of the folly. Is it important?
+#HINT#
+83
+
+#TEXT#
+If you MOVE THE SLAT, a hole will be formed.
+#FINISH#
+#HINT#
+83
+
+#TEXT#
+If you GO THROUGH THE HOLE, you'll find a back entrance into the mansion.
+#FINISH#
+#TOPIC#
+69
+How do I get the pistols in the Parlour?
+#HINT#
+86
+
+#TEXT#
+You can't.
+#FINISH#
+#HINT#
+86
+
+#TEXT#
+Really. You can't. So stop trying.
+#FINISH#
+#TOPIC#
+0
+The Ball
+#TOPIC#
+89
+I haven't been to a ball in so long! How can I get in?
+#HINT#
+90
+
+#TEXT#
+Since the veranda doors are locked, you'll have to enter past the butler in the 
+foyer.
+#FINISH#
+#HINT#
+90
+
+#TEXT#
+Of course, if you don't look like a guest, the butler won't even let you in the house. 
+You'll have to dress properly.
+#FINISH#
+#HINT#
+90
+
+#TEXT#
+Enter the foyer wearing a ball gown.
+#FINISH#
+#HINT#
+90
+
+#TEXT#
+You'll also need an invitation to give to the butler.
+#FINISH#
+#TOPIC#
+89
+I don't have an invitation to the ball!
+#HINT#
+95
+
+#TEXT#
+If you haven't found an invitation, you obviously did not examine the coffer 
+thoroughly before losing it to the sea. (Don't worry. This isn't necessary to win the 
+game.)
+#FINISH#
+#HINT#
+95
+
+#TEXT#
+If you found the invitation, but left it aboard the _Helena Louise_, you could climb 
+into the skiff and row out to the ship, get the invitation and then row back. This 
+would work, but... 
+#FINISH#
+#HINT#
+95
+
+#TEXT#
+The butler will take other compensation for your loss of the invitation.
+#FINISH#
+#HINT#
+95
+
+#TEXT#
+BRIBE THE BUTLER WITH THE BANKNOTE. No thug is above a little bribery.
+#FINISH#
+#TOPIC#
+89
+I'm Cinderella, with nothing to wear to the ball! Where's my fairy godmother?
+#HINT#
+100
+
+#TEXT#
+This is not a fairy tale! This is real life! (Well, as close to it as romance and 
+interactive fiction ever come.) 
+#FINISH#
+#HINT#
+100
+
+#TEXT#
+Have you found the Clearing yet?
+#FINISH#
+#HINT#
+100
+
+#TEXT#
+The Clearing is northeast of the forest. There are climbing vines there.
+#FINISH#
+#HINT#
+100
+
+#TEXT#
+If you climb up the vines, you can crawl into the second floor window. That which 
+you seek is in that bedroom.
+#FINISH#
+#TOPIC#
+89
+Lafond is threatening to kill my father unless I dance with him. What shall I do?
+#HINT#
+105
+
+#TEXT#
+Dance with Lafond. 
+#FINISH#
+#HINT#
+105
+
+#TEXT#
+Unless you've already rescued your father, in which case you may try to refuse 
+him.
+#FINISH#
+#HINT#
+105
+
+#TEXT#
+But Lafond is not a man to toy with.
+#FINISH#
+#TOPIC#
+0
+Rescuing Papa
+#TOPIC#
+109
+Jamison can't find Papa anywhere, nor can I. Where else should I look?
+#HINT#
+110
+
+#TEXT#
+Jamison has a theory about where a dungeon might be. Dance with him to find 
+out.
+#FINISH#
+#HINT#
+110
+
+#TEXT#
+The Library is in the east wing of the house. Is there anything suspicious in the 
+Library?
+#FINISH#
+#HINT#
+110
+
+#TEXT#
+Jean Lafond is depicted in the portrait in the Library in exactly the same pose as 
+he is on the banknote. Examine the banknote that came in your game package 
+for clues.
+#FINISH#
+#HINT#
+110
+
+#TEXT#
+Notice what Lafond is carrying.
+#FINISH#
+#HINT#
+110
+
+#TEXT#
+Notice what Lafond is wearing.
+#FINISH#
+#HINT#
+110
+
+#TEXT#
+Notice what Lafond is doing. This must be done last. Voila!
+#FINISH#
+#HINT#
+110
+
+#TEXT#
+Once you have done this you may simply CLOSE and OPEN THE PORTRAIT.
+#FINISH#
+#TOPIC#
+109
+Lafond said he'd send for me when he was ready. I've been waiting around for hours and nothing has happened. What's taking so long?
+#HINT#
+118
+
+#TEXT#
+Lafond is a busy man, with many things to take care of before he can relax. You 
+should fill the extra time he's allowing you with the discovery and rescue of your 
+father.
+#FINISH#
+#TOPIC#
+109
+What do I do to get by the crocodile?
+#HINT#
+120
+
+#TEXT#
+The object is to render the beast incapable of biting you.
+#FINISH#
+#HINT#
+120
+
+#TEXT#
+There are two ways, actually.
+#FINISH#
+#HINT#
+120
+
+#TEXT#
+One way involves the garter. Go to Clue H for that solution.
+#FINISH#
+#HINT#
+120
+
+#TEXT#
+Another way involves the laudanum you found in the Crew's Quarters.
+#FINISH#
+#HINT#
+120
+
+#TEXT#
+You'll have to feed the crocodile something that has been doped with laudanum. 
+Food would be best.
+#FINISH#
+#HINT#
+120
+
+#TEXT#
+There's something edible (to crocodiles) in the bottom of the cask in which you 
+floated to shore. 
+#FINISH#
+#HINT#
+120
+
+#TEXT#
+SQUEEZE THE LAUDANUM ON THE PORK. FEED THE PORK TO THE 
+CROCODILE.
+#FINISH#
+#HINT#
+120
+
+#TEXT#
+The first clue for the alternate solution requires a brief foray into zoology: 
+Crocodiles, while able to snap a log in two with their jaws, have weak muscles for 
+opening those very same jaws. Thus, a strong man is capable of holding their jaws 
+shut with his bare hands.
+#FINISH#
+#HINT#
+120
+
+#TEXT#
+Since you are neither a strong man nor able to sit around holding closed the 
+monster's mouth, you have to find something else able to hold it shut for you.
+#FINISH#
+#HINT#
+120
+
+#TEXT#
+The garter is a likely candidate.
+#FINISH#
+#HINT#
+120
+
+#TEXT#
+Throw something at the reptile to get it to snap shut its jaws, then PUT THE 
+GARTER ON THE CROCODILE.
+#FINISH#
+#TOPIC#
+109
+Here's a locked cell and I have no key. A. Have you thoroughly searched the whole dungeon area?
+#HINT#
+132
+
+#TEXT#
+Have you been in the Guard's Cell?
+#FINISH#
+#HINT#
+132
+
+#TEXT#
+The key is on the cot in the Guard's Cell.
+#FINISH#
+#TOPIC#
+109
+Robert's fallen into the quicksand! How can I save him?
+#HINT#
+135
+
+#TEXT#
+Look around for a large branch.
+#FINISH#
+#HINT#
+135
+
+#TEXT#
+Get the fallen branch in the forest.
+#FINISH#
+#HINT#
+135
+
+#TEXT#
+Drop the branch into the quicksand for Robert to grab hold of...
+#FINISH#
+#HINT#
+135
+
+#TEXT#
+But this probably won't work since there's no branch, no quicksand and no Robert 
+in this game.
+#FINISH#
+#TOPIC#
+0
+Lafond's Bedroom
+#TOPIC#
+140
+Where is Lafond's room?
+#HINT#
+141
+
+#TEXT#
+It is through the door in the north wall of the upstairs east hallway.
+#FINISH#
+#HINT#
+141
+
+#TEXT#
+It is also the only room on the second story with a window facing seaward.
+#FINISH#
+#TOPIC#
+140
+How can I escape Lafond's clutches? I'm in his room, helpless and terrified.
+#HINT#
+144
+
+#TEXT#
+DRINK THE WINE whenever Lafond tells you to.
+#FINISH#
+#HINT#
+144
+
+#TEXT#
+Make sure there's nothing in the wine you drink, however.
+#FINISH#
+#HINT#
+144
+
+#TEXT#
+Ever hear the ditty, "The pellet of the poison's in the chalice from the palace,/ The 
+vessel with the pestle has the brew that is true"?
+#FINISH#
+#HINT#
+144
+
+#TEXT#
+POUR WINE INTO THE GREEN GOBLET. Then put something else into it.
+#FINISH#
+#HINT#
+144
+
+#TEXT#
+SQUEEZE LAUDANUM INTO THE GREEN GOBLET. When Lafond is busy on 
+the other side of the room, obviously.
+#FINISH#
+#HINT#
+144
+
+#TEXT#
+But Lafond knows you're doing something! So double-cross the devious dog!
+#FINISH#
+#HINT#
+144
+
+#TEXT#
+Lafond realizes that you've tampered with at least one of the glasses, so he 
+pretends to have forgotten which is his. If you type YES to his question (If the 
+green goblet is his?) then he'll assume you poisoned that glass, since you want 
+him to drink from it. If you type NO, then he'll assume you drugged the other (blue 
+glass). Then, being the cruel tyrant he is, he'll force you to drink from whichever 
+glass he thinks you want him to drink from. Of course, if you lie...
+#FINISH#
+#HINT#
+144
+
+#TEXT#
+When Lafond asks if the green goblet is his, type NO if you have put the 
+laudanum in it. (If you've drugged the blue goblet, type YES.) Then, when he 
+forces you to drink the wine you indicated, imbibe "the brew that is true." This 
+leaves the poisoned wine for...
+#FINISH#
+#HINT#
+144
+
+#TEXT#
+The butler, not Lafond, unfortunately. So, it doesn't quite work the way you 
+planned; at least the butler is taken care of.
+#FINISH#
+#TOPIC#
+140
+The butler is napping in the hall, but I can't stop Lafond from pawing me!
+#HINT#
+154
+
+#TEXT#
+This is a spicy puzzle. 
+#FINISH#
+#HINT#
+154
+
+#TEXT#
+Have you thoroughly examined the chicken and spices?
+#FINISH#
+#HINT#
+154
+
+#TEXT#
+The spices are dry. Have you tasted or smelled them?
+#FINISH#
+#HINT#
+154
+
+#TEXT#
+They are HOT!
+#FINISH#
+#HINT#
+154
+
+#TEXT#
+TAKE THE PEPPER THEN BLOW THE PEPPER AT LAFOND.
+#FINISH#
+#TOPIC#
+140
+I've gotten rid of Lafond, but the butler won't let me leave the room!
+#HINT#
+160
+
+#TEXT#
+SQUEEZE THE LAUDANUM into one of the goblets, then POUR THE WINE into 
+that goblet.
+#FINISH#
+#HINT#
+160
+
+#TEXT#
+WALK SOUTH. The butler will think you're trying to escape, and follow you back 
+into the room.
+#FINISH#
+#HINT#
+160
+
+#TEXT#
+GIVE THE (drugged) GOBLET TO THE BUTLER. No thug is above a little wine. 
+#FINISH#
+#HINT#
+160
+
+#TEXT#
+WAIT. WAIT. WAIT. It takes a little while for the drug to take effect.
+#FINISH#
+#HINT#
+160
+
+#TEXT#
+Don't waste any time, however. Lafond will be back soon!
+#FINISH#
+#TOPIC#
+140
+I've made it out of Lafond's room, but he catches me afterwards!
+#HINT#
+166
+
+#TEXT#
+In such situations, one should get some outside help.
+#FINISH#
+#HINT#
+166
+
+#TEXT#
+Cookie and the crew aboard Jamison's ship might provide some assistance.
+#FINISH#
+#HINT#
+166
+
+#TEXT#
+Signal the ship from an eastward-looking window.
+#FINISH#
+#HINT#
+166
+
+#TEXT#
+Wave the mirror in the moonbeam shining through the window of Lafond's room. 
+The pirates will respond.
+#FINISH#
+#HINT#
+166
+
+#TEXT#
+If you've lost the mirror, you can use the silver tray.
+#FINISH#
+#TOPIC#
+0
+Rescuing Nicholas
+#TOPIC#
+172
+(If you haven't been in Lafond's room, don't develop these.) Oh no! I can't get past this crocodile again!
+#HINT#
+173
+
+#TEXT#
+In such situations, one should get some outside help.
+#FINISH#
+#HINT#
+173
+
+#TEXT#
+Cookie and the crew aboard Jamison's ship might provide some assistance.
+#FINISH#
+#HINT#
+173
+
+#TEXT#
+Signal the ship from an eastward-looking window.
+#FINISH#
+#HINT#
+173
+
+#TEXT#
+Wave the mirror in the moonbeam shining in the window of Lafond's room. The 
+pirates will respond.
+#FINISH#
+#HINT#
+173
+
+#TEXT#
+If you've lost the mirror, you can use the silver tray.
+#FINISH#
+#HINT#
+173
+
+#TEXT#
+If you lead Cookie to the crocodile, he'll take care of the beast for you.
+#FINISH#
+#TOPIC#
+172
+Cookie is asking me if I know where Jamison is. What do I say?
+#HINT#
+180
+
+#TEXT#
+If you think about it, you might have a good guess to where he is.
+#FINISH#
+#HINT#
+180
+
+#TEXT#
+Lafond told his lackeys where to take Jamison.
+#FINISH#
+#HINT#
+180
+
+#TEXT#
+You've been there before.
+#FINISH#
+#HINT#
+180
+
+#TEXT#
+Jamison is in the Dungeon.
+#FINISH#
+#HINT#
+180
+
+#TEXT#
+Type YES and lead Cookie to the Dungeon.
+#FINISH#
+#TOPIC#
+172
+I've found Jamison, but Crulley won't let me near him!
+#HINT#
+186
+
+#TEXT#
+You're going to have to take some action here.
+#FINISH#
+#HINT#
+186
+
+#TEXT#
+Jamison's rapier might help you out.
+#FINISH#
+#HINT#
+186
+
+#TEXT#
+ATTACK CRULLEY WITH THE RAPIER.
+#FINISH#
+#HINT#
+186
+
+#TEXT#
+That time, in surprise, he stepped toward the trapdoor. Maybe one more...? 
+#FINISH#
+#HINT#
+186
+
+#TEXT#
+ATTACK CRULLEY WITH THE RAPIER (again). He'll fall down the well.
+#FINISH#
+#HINT#
+186
+
+#TEXT#
+But don't dawdle. He'll be back.
+#FINISH#
+#TOPIC#
+172
+Now I can't free Nicholas!
+#HINT#
+193
+
+#TEXT#
+There's no key for the manacles. Or if there is, it's down the well. You'll have to 
+find some other way to unlock the manacles.
+#FINISH#
+#HINT#
+193
+
+#TEXT#
+Of course, a fine lady may never have picked a lock before, but now is the time to 
+learn.
+#FINISH#
+#HINT#
+193
+
+#TEXT#
+Using the pin of the back of the brooch that Nicholas gave you, pick the locks on 
+the manacles.
+#FINISH#
+#HINT#
+193
+
+#TEXT#
+UNLOCK THE MANACLES WITH THE BROOCH.
+#FINISH#
+#TOPIC#
+172
+Now I can't wake Nicholas!
+#HINT#
+198
+
+#TEXT#
+A lady always carries something to prevent her swooning.
+#FINISH#
+#HINT#
+198
+
+#TEXT#
+REVIVE NICHOLAS WITH THE SMELLING SALTS.
+#FINISH#
+#TOPIC#
+172
+Men! I woke and freed Nicholas, but he kissed me and ran off! Where'd he go?
+#HINT#
+201
+
+#TEXT#
+Off to avenge your honor and his brother's life, just as he told you. You'd better get 
+after him, though. He's in no shape to duel Lafond.
+#FINISH#
+#TOPIC#
+0
+The Endgame
+#TOPIC#
+203
+They're duelling in the ballroom! How can I stop them?!
+#HINT#
+204
+
+#TEXT#
+First of all, get to someplace where you can see the duel.
+#FINISH#
+#HINT#
+204
+
+#TEXT#
+Now that you're in the Gallery, do you see anyway to transport yourself down to 
+the dance floor? 
+#FINISH#
+#HINT#
+204
+
+#TEXT#
+The rope! This is a pirate story! What do pirates ALWAYS do?! (Besides rape, 
+pillage and plunder.)
+#FINISH#
+#HINT#
+204
+
+#TEXT#
+Apes do it, monkeys do it, even Tarzan of the Jungle. You do it, you...
+#FINISH#
+#HINT#
+204
+
+#TEXT#
+SWING ON THE ROPE. Untie the rope first.
+#FINISH#
+#TOPIC#
+203
+Alack, alas! Lafond has killed Nicholas! Where shall I turn? What can I do? What shall become of me?
+#HINT#
+210
+
+#TEXT#
+Some awfully unpleasant things are going to happen to you unless you RESTORE 
+to an earlier point in the game. And this time, rescue Nicholas Jamison!
+#FINISH#
+#TOPIC#
+203
+They're duelling on the beach! How can I stop them?!
+#HINT#
+212
+
+#TEXT#
+Men will play their little wars. In this case, you can do nothing to stop them.
+#FINISH#
+#HINT#
+212
+
+#TEXT#
+However, you can stop a cold-blooded murder from happening just after. Keep an 
+eye on Crulley.
+#FINISH#
+#TOPIC#
+203
+Crulley's about to kill Nicholas! What can I do?
+#HINT#
+215
+
+#TEXT#
+There's no time to get to Crulley, and yelling to Nicholas will only bring disastrous 
+results. There are at least three long distance remedies.
+#FINISH#
+#HINT#
+215
+
+#TEXT#
+One obvious remedy involves the pistol dropped by Lafond in his jump. Another 
+method is explained starting with clue E. The third way out is detailed in clue H.
+#FINISH#
+#HINT#
+215
+
+#TEXT#
+LOAD THE GUN WITH THE GUNPOWDER. (You will have found the 
+gunpowder in the Guard's Bunkroom.)
+#FINISH#
+#HINT#
+215
+
+#TEXT#
+Then you may either FIRE GUN or SHOOT CRULLEY. (See the explanation of 
+the various conclusions.
+#FINISH#
+#HINT#
+215
+
+#TEXT#
+Another method uses the stone you step on as you run on the beach.
+#FINISH#
+#HINT#
+215
+
+#TEXT#
+And the garter; David and Goliath style.
+#FINISH#
+#HINT#
+215
+
+#TEXT#
+PUT THE STONE IN THE GARTER. SLING THE STONE AT CRULLEY. (See 
+the explanation of the various conclusions.)
+#FINISH#
+#HINT#
+215
+
+#TEXT#
+ENTER THE SKIFF. ROW TO THE SHIP. (See the explanation of the various 
+conclusions.)
+#FINISH#
+#TOPIC#
+0
+Explanations of the Four Different Conclusions
+#TOPIC#
+224
+The four possible final ranks are:
+#HINT#
+225
+
+#TEXT#
+Love Transcending Death. You can get this rank if you FIRE THE PISTOL INTO 
+THE AIR.
+#FINISH#
+#HINT#
+225
+
+#TEXT#
+Orphan. If you put the stone into the garter and sling it at Crulley. 
+#FINISH#
+#HINT#
+225
+
+#TEXT#
+Pirate Queen. Climb into the skiff as soon as you get to the beach, and row 
+towards the ship.
+#FINISH#
+#HINT#
+225
+
+#TEXT#
+Happily Ever After. SHOOT THE PIRATE with the loaded pistol.
+#FINISH#
+#TOPIC#
+0
+How the Points Are Scored
+#HINT#
+230
+
+#TEXT#
+One point for each of the following actions:
+#FINISH#
+#HINT#
+230
+
+#TEXT#
+TAKE PILE OF CLOTHES
+#FINISH#
+#HINT#
+230
+
+#TEXT#
+TAKE BOTTLE
+#FINISH#
+#HINT#
+230
+
+#TEXT#
+THROW COFFER THROUGH WINDOW
+#FINISH#
+#HINT#
+230
+
+#TEXT#
+ENTER POOP FROM LADDER (the first time)
+#FINISH#
+#HINT#
+230
+
+#TEXT#
+RAISE LEVER (on winch)
+#FINISH#
+#HINT#
+230
+
+#TEXT#
+THROW (WET) RAG OVER GATE
+#FINISH#
+#HINT#
+230
+
+#TEXT#
+CUT LINE WITH DAGGER
+#FINISH#
+#HINT#
+230
+
+#TEXT#
+WEAR BEAUTIFUL BALL GOWN
+#FINISH#
+#HINT#
+230
+
+#TEXT#
+GIVE INVITE TO BUTLER or GIVE BANKNOTE TO BUTLER
+#FINISH#
+#HINT#
+230
+
+#TEXT#
+TAKE TREATISE OF POWER (first time)
+#FINISH#
+#HINT#
+230
+
+#TEXT#
+OPEN PORTRAIT (first time)
+#FINISH#
+#HINT#
+230
+
+#TEXT#
+TAKE KEY (first time)
+#FINISH#
+#HINT#
+230
+
+#TEXT#
+Drugging the croc or MUZZLE THE CROC
+#FINISH#
+#HINT#
+230
+
+#TEXT#
+WALK NORTH (enter Dad's cell)
+#FINISH#
+#HINT#
+230
+
+#TEXT#
+DANCE WITH LAFOND (when he invites you to his room)
+#FINISH#
+#HINT#
+230
+
+#TEXT#
+WALK NORTH (enter Lafond's room)
+#FINISH#
+#HINT#
+230
+
+#TEXT#
+Drugging the butler
+#FINISH#
+#HINT#
+230
+
+#TEXT#
+BLOW SPICES AT LAFOND
+#FINISH#
+#HINT#
+230
+
+#TEXT#
+SIGNAL SHIP WITH MIRROR or TRAY
+#FINISH#
+#HINT#
+230
+
+#TEXT#
+ATTACK CRULLEY WITH RAPIER (tripping him down the well)
+#FINISH#
+#HINT#
+230
+
+#TEXT#
+REVIVE NICK WITH SALTS
+#FINISH#
+#HINT#
+230
+
+#TEXT#
+PICK LOCK (on manacles)
+#FINISH#
+#HINT#
+230
+
+#TEXT#
+SWING ON ROPE
+#FINISH#
+#HINT#
+230
+
+#TEXT#
+LOAD PISTOL WITH GUNPOWDER or PUT STONE IN GARTER
+#FINISH#
+#HINT#
+230
+
+#TEXT#
+SLING STONE (in garter) AT CRULLEY or FIRE PISTOL or SHOOT THE 
+PIRATE [with the pistol] or Jump in the skiff and row off in the end scene. 
+#FINISH#
+#TOPIC#
+0
+For Your Amusement
+#TOPIC#
+257
+Have you tried...
+#HINT#
+258
+
+#TEXT#
+Looking under your chemise?
+#FINISH#
+#HINT#
+258
+
+#TEXT#
+Examining your unmentionables?
+#FINISH#
+#HINT#
+258
+
+#TEXT#
+All the alternative puzzle solutions?
+#FINISH#
+#HINT#
+258
+
+#TEXT#
+All the different endings?
+#FINISH#
+#HINT#
+258
+
+#TEXT#
+SMELL in the Crew's Quarters?
+#FINISH#
+#HINT#
+258
+
+#TEXT#
+LISTEN TO THE MUSICIANS, when they're playing?
+#FINISH#
+#HINT#
+258
+
+#TEXT#
+WAIT while Lafond seduces you? 
+#FINISH#
+#HINT#
+258
+
+#TEXT#
+KISS JAMISON (when you meet, in the _Helena Louise_; as you dance, in the 
+Folly)?
+#FINISH#
+#HINT#
+258
+
+#TEXT#
+SPILL WINE ON LAFOND? 
+#FINISH#
+#HINT#
+258
+
+#TEXT#
+KICK LAFOND (twice -- while dancing with him in the ballroom)?
+#FINISH#
+#HINT#
+258
+
+#TEXT#
+ASK THE PIRATE (CRULLEY) ABOUT THE HOOK?
+#FINISH#
+#HINT#
+258
+
+#TEXT#
+ASK COOKIE ABOUT HIMSELF?
+#FINISH#
+#HINT#
+258
+
+#TEXT#
+HIT THE PIRATE WITH THE COFFER (twice) aboard _Lafond Deux_? 
+#FINISH#
+#HINT#
+258
+
+#TEXT#
+DRINK RUM?
+#FINISH#
+#HINT#
+258
+
+#TEXT#
+TIP THE WATER BARREL? 
+#FINISH#
+#HINT#
+258
+
+#TEXT#
+Returning to the ship in the skiff? Going near what remains of the pyramid of 
+casks?
+#FINISH#
+#HINT#
+258
+
+#TEXT#
+Escaping the ship in the cask before the tide turns?
+#FINISH#
+#HINT#
+258
+
+#TEXT#
+Waiting on the ship until she blows up? 
+#FINISH#
+#HINT#
+258
+
+#TEXT#
+SWING ON THE ROPE from the gallery before Jamison's crew comes to your 
+rescue? Before the duel in the ballroom? When Cookie is following you? After 
+Lafond has killed Nicholas in the duel? 
+#FINISH#
+#HINT#
+258
+
+#TEXT#
+OPEN THE PORTRAIT in front of Cookie?
+#FINISH#
+#HINT#
+258
+
+#TEXT#
+Leading Cookie to the beach when you are searching for Nicholas? 
+#FINISH#
+#HINT#
+258
+
+#TEXT#
+Going to the forest right after your father runs to save Lucy?
+#FINISH#
+#HINT#
+258
+
+#TEXT#
+LOOK at Jamison's ring? Lafond's ring? Tried to TAKE them? Translated the 
+Latin? 
+#FINISH#
+#HINT#
+258
+
+#TEXT#
+Waiting around after Lafond kills Nicholas in the ballroom duel?
+#FINISH#
+#HINT#
+258
+
+#TEXT#
+KISS CRULLEY?
+#FINISH#
+#HINT#
+258
+
+#TEXT#
+KISS COOKIE?
+#FINISH#
+#HINT#
+258
+
+#TEXT#
+EXAMINE JAMISON (when he's dead; in the ballroom; when you meet)? 
+#FINISH#
+#HINT#
+258
+
+#TEXT#
+Told Cookie about the fuse? the gunpowder? the reefs? fire?
+#FINISH#
+#HINT#
+258
+
+#TEXT#
+NICHOLAS, I LOVE YOU?
+#FINISH#
+#HINT#
+258
+
+#TEXT#
+NICHOLAS, I LOVE JEAN LAFOND (in the folly)? 
+#FINISH#
+#HINT#
+258
+
+#TEXT#
+Putting on boy's clothes, or stripping before Jamison returns with the coffer on the 
+_Helena Louise_? 
+#FINISH#
+#HINT#
+258
+
+#TEXT#
+Saving your father in boy's clothes or your chemise?
+#FINISH#
+#HINT#
+258
+
+#TEXT#
+Entering Lafond's room in boy's clothes or your chemise?
+#FINISH#
+#HINT#
+258
+
+#TEXT#
+ROLL CRULLEY UNDER THE BED (when he's unconscious in the Cabin)? 
+#FINISH#
+#HINT#
+258
+
+#TEXT#
+ROLL EYES? 
+#FINISH#
+#HINT#
+258
+
+#TEXT#
+ROLL BOTTLE?
+#FINISH#
+#HINT#
+258
+
+#TEXT#
+Looking at your ranks? (You get a new rank every 5 points, at 5, 10, 15, 20, and 
+25 points.)
+#FINISH#

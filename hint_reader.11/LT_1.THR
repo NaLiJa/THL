@@ -1,0 +1,97 @@
+110
+Sample THL 1.1 Link TEST
+Times New Roman
+32768
+22
+0000
+Written 1996 by Stefan Meier
+#NOTICE<#
+This file demonstrates the features of THL
+#>NOTICE#
+#TOPIC#
+0
+What´s the meaning of life ?
+#LINKS#
+0
+#HINT#
+1
+
+#TEXT#
+Read a book !
+#FINISH#
+#LINKS#
+0
+#HINT#
+1
+
+#TEXT#
+Read a famous book !
+#FINISH#
+#LINKS#
+0
+#HINT#
+1
+
+#TEXT#
+42
+#FINISH#
+#LINKS#
+0
+#HINT#
+1
+
+#TEXT#
+Ask Deep Thought.
+#FINISH#
+#LINKS#
+0
+#TOPIC#
+1
+Subtopic to test
+#LINKS#
+0
+#INFO#
+6
+
+#TEXT#
+Hier ist eine neue Info
+#FINISH#
+#LINKS#
+0
+#TOPIC#
+0
+Another topic...
+#LINKS#
+0
+#HINT#
+8
+
+#TEXT#
+Do you really need a hint ?
+#FINISH#
+#LINKS#
+1
+Link zu einem Thema
+1
+#MM#
+8
+That sounds good !
+C:\UTILITY\PROAUDIO\MIDI\Nutcrack.mid
+#LINKS#
+0
+#INFO#
+0
+
+#TEXT#
+Dies ist eine Infozeile
+#FINISH#
+#LINKS#
+4
+Text 1
+1
+Test 2
+6
+Link zu einem Hint
+3
+Ein SubDir test
+7

@@ -1,0 +1,5770 @@
+100
+The Hitchhiker´s Guide to the Galaxy InvisiClues(tm)
+MS Sans Serif
+255
+14
+1000
+Converted to THL 1996 by Stefan Meier
+#NOTICE<#
+Copyright by Infocom, Inc. Provided for non-commercial use only, with the sole intent of making information available that would otherwise be lost. 
+#>NOTICE#
+#TOPIC#
+0
+aaaaa
+#TOPIC#
+0
+Sample Question
+#TOPIC#
+2
+How can I tell the difference between a Vogon and a pile of Fronurbdi Fire Fungus? 
+#HINT#
+3
+
+#TEXT#
+You need a Fire Fungus meter. 
+#FINISH#
+#HINT#
+3
+
+#TEXT#
+You don't have a Fire Fungus meter. 
+#FINISH#
+#HINT#
+3
+
+#TEXT#
+So you can't. Remind me never to send you to the store for Fronurbdi Fire Fungus. 
+#FINISH#
+#TOPIC#
+0
+On the Earth
+#TOPIC#
+7
+How do I turn on the light after I wake up?
+#HINT#
+8
+
+#TEXT#
+Have you tried TURN ON THE LIGHT?
+#FINISH#
+#TOPIC#
+7
+I can't reach anything from the bed! What do I do?
+#HINT#
+10
+
+#TEXT#
+Maybe you should GET OUT OF THE BED.
+#FINISH#
+#TOPIC#
+7
+Why am I having trouble picking things up?
+#HINT#
+12
+
+#TEXT#
+The room is spinning because you have a hangover.
+#FINISH#
+#HINT#
+12
+
+#TEXT#
+There is _one_ thing you can pick up.
+#FINISH#
+#HINT#
+12
+
+#TEXT#
+It's the gown.
+#FINISH#
+#TOPIC#
+7
+How can I get out of the bedroom?
+#HINT#
+16
+
+#TEXT#
+You keep bouncing off the doorframe because the room is spinning from your 
+hangover. 
+#FINISH#
+#HINT#
+16
+
+#TEXT#
+You'll have to get rid of it
+#FINISH#
+#HINT#
+16
+
+#TEXT#
+See the previous question. 
+#FINISH#
+#HINT#
+16
+
+#TEXT#
+There's an aspirin in the pocket of the gown. 
+#FINISH#
+#HINT#
+16
+
+#TEXT#
+TAKE GOWN. PUT IT ON. OPEN THE POCKET. TAKE THE ANALGESIC. 
+#FINISH#
+#TOPIC#
+7
+What will I need to bring with me when I leave the bedroom?
+#HINT#
+22
+
+#TEXT#
+As in most interactive fiction, it's always best to bring as much as you can carry. 
+#FINISH#
+#TOPIC#
+7
+Is the pile of mail important?
+#HINT#
+24
+
+#TEXT#
+Have you read the mail? 
+#FINISH#
+#HINT#
+24
+
+#TEXT#
+Now you know what's going on outside the house. 
+#FINISH#
+#HINT#
+24
+
+#TEXT#
+Also, see the advice in the previous question. 
+#FINISH#
+#TOPIC#
+7
+What's that bulldozer doing in front of my house?
+#HINT#
+28
+
+#TEXT#
+The backstroke? 
+#FINISH#
+#HINT#
+28
+
+#TEXT#
+Sorry about that. Have you read the pile of mail on your Front Porch? 
+#FINISH#
+#HINT#
+28
+
+#TEXT#
+The bulldozer is there to knock down your house to make way for a new highway 
+bypass. 
+#FINISH#
+#TOPIC#
+7
+Is it important to stop my house from being destroyed?
+#HINT#
+32
+
+#TEXT#
+If you owned a house, even a little ugly one like Arthur's, wouldn't you want to 
+keep it from getting destroyed? 
+#FINISH#
+#HINT#
+32
+
+#TEXT#
+If you stay in the house until the bulldozer demolishes it, you die. 
+#FINISH#
+#HINT#
+32
+
+#TEXT#
+If you are standing near the house when the bulldozer demolishes it, a brick hits 
+you, and you die. 
+#FINISH#
+#HINT#
+32
+
+#TEXT#
+If you try to leave the vicinity of the house, it gets demolished, a brick hits you, and 
+you die. 
+#FINISH#
+#HINT#
+32
+
+#TEXT#
+In other words, yes. 
+#FINISH#
+#TOPIC#
+7
+How can I prevent my house from getting demolished?
+#HINT#
+38
+
+#TEXT#
+There's a tried and true method for stopping bulldozers and other unwanted 
+construction apparatus. 
+#FINISH#
+#HINT#
+38
+
+#TEXT#
+Have you ever tried calling the police from the phone in your bedroom? 
+#FINISH#
+#HINT#
+38
+
+#TEXT#
+In front of your house, have you ever tried to PROTEST or asked PROSSER, 
+STOP THE BULLDOZER? 
+#FINISH#
+#HINT#
+38
+
+#TEXT#
+Have you ever tried to STAND IN FRONT OF THE BULLDOZER? 
+#FINISH#
+#HINT#
+38
+
+#TEXT#
+In case you haven't figured it out from these subtle clues, you want to LIE DOWN 
+IN FRONT OF THE BULLDOZER. 
+#FINISH#
+#HINT#
+38
+
+#TEXT#
+Actually, because the authors are such swell and generous guys, BLOCK THE 
+BULLDOZER, or STOP THE BULLDOZER, or even just LIE DOWN all work. 
+#FINISH#
+#HINT#
+38
+
+#TEXT#
+But you have to wait a few turns after you lie down before the bulldozer finally 
+grinds to a halt. 
+#FINISH#
+#TOPIC#
+7
+What should I do when Ford Prefect shows up?
+#HINT#
+46
+
+#TEXT#
+If you take the towel that Ford is trying to give you, he'll walk away. 
+#FINISH#
+#HINT#
+46
+
+#TEXT#
+Standing up to follow him at this point is fatal.
+#FINISH#
+#HINT#
+46
+
+#TEXT#
+Without Ford you'll never survive the upcoming destruction of the Earth. 
+#FINISH#
+#HINT#
+46
+
+#TEXT#
+Ford is oblivious to your bulldozer problem. If you wait a few turns, he'll notice the 
+bulldozer, and help you out. 
+#FINISH#
+#HINT#
+46
+
+#TEXT#
+If you want to save a few turns, rather than just waiting, you can type FORD, 
+WHAT ABOUT MY HOME? as soon as he arrives. 
+#FINISH#
+#TOPIC#
+7
+Should I go with Ford to the Pub?
+#HINT#
+52
+
+#TEXT#
+You'd better not stand up until Prosser is lying down in your place.
+#FINISH#
+#HINT#
+52
+
+#TEXT#
+This will happen if you simply wait a few turns after Ford shows up. 
+#FINISH#
+#HINT#
+52
+
+#TEXT#
+At this point, you should listen to Ford and accompany him to the Pub. If you wait 
+around where you are, you'll be sorry. 
+#FINISH#
+#TOPIC#
+7
+Should I go with Ford to the Cinema?
+#HINT#
+56
+
+#TEXT#
+According to the article on the back page of Prosser's copy of the _Cottington 
+Gazette_, the Famous Scientist is a real movie buff. 
+#FINISH#
+#HINT#
+56
+
+#TEXT#
+The Cinema's double feature of "Citizen Kane" and "Earth vs. The Flying 
+Saucers" sounds promising. 
+#FINISH#
+#HINT#
+56
+
+#TEXT#
+Remember the warning in the introduction. Don't let the presence or absence of 
+questions influence your play, and don't assume that long answers are associated 
+with important questions. 
+#FINISH#
+#TOPIC#
+7
+What should I do in the Pub?
+#HINT#
+60
+
+#TEXT#
+You came here because of Ford, right? 
+#FINISH#
+#HINT#
+60
+
+#TEXT#
+Why not do as he says? 
+#FINISH#
+#HINT#
+60
+
+#TEXT#
+Drink some beer. 
+#FINISH#
+#HINT#
+60
+
+#TEXT#
+Also, have you noticed the shelf of items behind the bar? 
+#FINISH#
+#TOPIC#
+7
+How much beer should I drink?
+#HINT#
+65
+
+#TEXT#
+Ford will keep urging you to drink beer until you've had enough.
+#FINISH#
+#HINT#
+65
+
+#TEXT#
+If you've had less than three beers, the shock of the matter transference beam will 
+kill you. 
+#FINISH#
+#HINT#
+65
+
+#TEXT#
+If you have more than three beers, you'll get drunk and end up partying through 
+the end of the world. 
+#FINISH#
+#HINT#
+65
+
+#TEXT#
+In other words, you want to drink the beer three times. 
+#FINISH#
+#TOPIC#
+7
+Is the jukebox important?
+#HINT#
+70
+
+#TEXT#
+Try LISTEN TO THE JUKEBOX or LISTEN TO THE MUSIC. 
+#FINISH#
+#HINT#
+70
+
+#TEXT#
+The jukebox is just there for atmosphere.
+#FINISH#
+#HINT#
+70
+
+#TEXT#
+This space intentionally left blank.
+#FINISH#
+#HINT#
+70
+
+#TEXT#
+This space even more intentionally left blank.
+#FINISH#
+#TOPIC#
+7
+How can I buy beer?
+#HINT#
+75
+
+#TEXT#
+You can't. 
+#FINISH#
+#HINT#
+75
+
+#TEXT#
+But so what? Ford buys some for you.
+#FINISH#
+#TOPIC#
+7
+How can I buy a packet of peanuts?
+#HINT#
+78
+
+#TEXT#
+You can't. 
+#FINISH#
+#HINT#
+78
+
+#TEXT#
+At least, not when you're Arthur.
+#FINISH#
+#TOPIC#
+7
+How can I buy a cheese sandwich?
+#HINT#
+81
+
+#TEXT#
+How about BUY A CHEESE SANDWICH? 
+#FINISH#
+#HINT#
+81
+
+#TEXT#
+Or, BARTENDER, GIVE ME A CHEESE SANDWICH? 
+#FINISH#
+#HINT#
+81
+
+#TEXT#
+Perhaps ASK BARTENDER FOR A SANDWICH is more up your alley. 
+#FINISH#
+#TOPIC#
+7
+How can I buy some whiskey?
+#HINT#
+85
+
+#TEXT#
+You can't. 
+#FINISH#
+#HINT#
+85
+
+#TEXT#
+There's no whiskey in the entire game, let alone in the Pub! 
+#FINISH#
+#HINT#
+85
+
+#TEXT#
+It's not a very good pub, is it? 
+#FINISH#
+#TOPIC#
+7
+What should I do about the dog?
+#HINT#
+89
+
+#TEXT#
+Have you examined the dog? 
+#FINISH#
+#HINT#
+89
+
+#TEXT#
+If you haven't figured it out, you'll find out more later. 
+#FINISH#
+#TOPIC#
+7
+What should I do when my house is destroyed?
+#HINT#
+92
+
+#TEXT#
+There's not much you can do about it.
+#FINISH#
+#HINT#
+92
+
+#TEXT#
+You might return to Front of House to survey the rubble, or to have it out with 
+Prosser. 
+#FINISH#
+#TOPIC#
+7
+What should I do when the Vogon fleet arrives?
+#HINT#
+95
+
+#TEXT#
+DON'T PANIC. 
+#FINISH#
+#HINT#
+95
+
+#TEXT#
+Read everything carefully. 
+#FINISH#
+#HINT#
+95
+
+#TEXT#
+Remember Ford's reason for drinking all that beer? 
+#FINISH#
+#HINT#
+95
+
+#TEXT#
+It has something to do with that small black device that Ford drops after the fleet 
+arrives.
+#FINISH#
+#HINT#
+95
+
+#TEXT#
+Have you tried picking it up? 
+#FINISH#
+#HINT#
+95
+
+#TEXT#
+Have you tried examining it? 
+#FINISH#
+#HINT#
+95
+
+#TEXT#
+You want to hitch a ride aboard one of the Vogon ships.
+#FINISH#
+#HINT#
+95
+
+#TEXT#
+PUSH THE GREEN BUTTON. 
+#FINISH#
+#TOPIC#
+7
+The Earth keeps getting destroyed by the Vogon fleet, and me along with it!
+#HINT#
+104
+
+#TEXT#
+See the previous question. 
+#FINISH#
+#TOPIC#
+7
+I died from shock during matter transference. What did I do wrong?
+#HINT#
+106
+
+#TEXT#
+See the question about how much beer to drink. 
+#FINISH#
+#TOPIC#
+0
+In the Dark
+#TOPIC#
+108
+Help! I'm in the Dark and can't do anything!
+#HINT#
+109
+
+#TEXT#
+If this "Dark" is at the very beginning of the game, before you've done anything, 
+you're in the wrong place. Look at the first question in the first section of this 
+booklet. 
+#FINISH#
+#HINT#
+109
+
+#TEXT#
+You've been through a matter transference beam, and you still haven't recovered 
+from the shock of it. 
+#FINISH#
+#HINT#
+109
+
+#TEXT#
+Recovery takes time... 
+#FINISH#
+#HINT#
+109
+
+#TEXT#
+...but in this case, you'll have to do more than just wait. 
+#FINISH#
+#TOPIC#
+108
+Okay, just exactly how do I get out of this Dark?
+#HINT#
+114
+
+#TEXT#
+Have patience.
+#FINISH#
+#HINT#
+114
+
+#TEXT#
+Read carefully.
+#FINISH#
+#HINT#
+114
+
+#TEXT#
+If you wait a number of times, you'll begin to get some clues. 
+#FINISH#
+#HINT#
+114
+
+#TEXT#
+The first clue comes the 18th time you've waited; three additional clues come 
+every fifteen WAITs thereafter.
+#FINISH#
+#HINT#
+114
+
+#TEXT#
+Try starting again and reading each response to WAITing in the Dark very 
+carefully. 
+#FINISH#
+#HINT#
+114
+
+#TEXT#
+There's an important difference between the third and fourth responses. 
+#FINISH#
+#HINT#
+114
+
+#TEXT#
+You are no longer told that you can't smell anything. 
+#FINISH#
+#HINT#
+114
+
+#TEXT#
+Try SMELL THE DARKNESS or SMELL NOTHING or even just SMELL. 
+#FINISH#
+#TOPIC#
+108
+What's the significance of this shadow I see moving around?
+#HINT#
+123
+
+#TEXT#
+That's your way out of Dark. 
+#FINISH#
+#HINT#
+123
+
+#TEXT#
+You should EXAMINE THE SHADOW, or feel it, or smell it. 
+#FINISH#
+#TOPIC#
+108
+Oh no! I'm in that blasted Dark _again_!
+#HINT#
+126
+
+#TEXT#
+Unless you've been to the Vogon Hold, you're looking at the wrong question. 
+#FINISH#
+#HINT#
+126
+
+#TEXT#
+Okay, you've been through the Dark at least once before, so you should know 
+what's going on. 
+#FINISH#
+#HINT#
+126
+
+#TEXT#
+This time, though, it isn't smell that goes away on the fourth description.
+#FINISH#
+#HINT#
+126
+
+#TEXT#
+It's hearing. 
+#FINISH#
+#HINT#
+126
+
+#TEXT#
+Try HEAR NOTHING or LISTEN TO DARKNESS. 
+#FINISH#
+#HINT#
+126
+
+#TEXT#
+"There is an exit to port." Try going that way. 
+#FINISH#
+#HINT#
+126
+
+#TEXT#
+Well, don't just give up. Be persistent. Try going PORT a few more times.
+#FINISH#
+#HINT#
+126
+
+#TEXT#
+Perhaps AFT would be more productive, come to think of it. 
+#FINISH#
+#TOPIC#
+108
+Exactly how does Dark work?
+#HINT#
+135
+
+#TEXT#
+You enter Dark when the Earth is destroyed, and at various other points 
+throughout the game. 
+#FINISH#
+#HINT#
+135
+
+#TEXT#
+Beginning with the fourth time that you read "There's nothing you can taste..." (or 
+some paraphrase of that paragraph), one of your five senses will disappear.
+#FINISH#
+#HINT#
+135
+
+#TEXT#
+At this point, you should type the sense that no longer appears, such as SMELL or 
+SEE. 
+#FINISH#
+#HINT#
+135
+
+#TEXT#
+The first time you enter Dark, smell will go away. See the second question in this 
+section. 
+#FINISH#
+#HINT#
+135
+
+#TEXT#
+The second time you enter Dark, hearing will go away. See the fourth question in 
+this section. 
+#FINISH#
+#HINT#
+135
+
+#TEXT#
+On subsequent visits to Dark, the sense that disappears will be fairly random. See 
+the following question for more details.
+#FINISH#
+#TOPIC#
+108
+Is there any way to control where I go when I leave Dark?
+#HINT#
+142
+
+#TEXT#
+Not usually. 
+#FINISH#
+#HINT#
+142
+
+#TEXT#
+Don't continue until you have a cup of tea.
+#FINISH#
+#HINT#
+142
+
+#TEXT#
+Don't continue until you actually have real tea, not merely Advanced Tea 
+Substitute (ATS). 
+#FINISH#
+#HINT#
+142
+
+#TEXT#
+Have you ever examined the cup of tea?
+#FINISH#
+#HINT#
+142
+
+#TEXT#
+This response indicates that the tea is a better source of Brownian Motion for the 
+Improbability Drive setup than the ATS. Try it. 
+#FINISH#
+#HINT#
+142
+
+#TEXT#
+Notice anything different about Dark when you use tea instead of ATS? 
+#FINISH#
+#HINT#
+142
+
+#TEXT#
+For one thing, a sense is missing right away, rather than after three WAITs. 
+#FINISH#
+#HINT#
+142
+
+#TEXT#
+More importantly, when you have used tea as a Brownian source, a different 
+sense will be missing each time you WAIT. Thus, with tea, you can "control 
+Dark." 
+#FINISH#
+#HINT#
+142
+
+#TEXT#
+There are a total of eight exits from Dark. Taste never goes away, so there are 
+two Dark exits for each missing sense.
+#FINISH#
+#HINT#
+142
+
+#TEXT#
+There is a way to differentiate between each pair. 
+#FINISH#
+#HINT#
+142
+
+#TEXT#
+For example, when feel is missing, and you type FEEL DARK, you will be told that 
+it feels "warm and wet and squishy," in which case your current Dark exit is Inside 
+the Sperm Whale. When the response is "cold and wet and squishy," then tasting 
+the liquid will take you to the Living Room of the party. When you are controlling 
+dark, and have determined your current exit as in the previous example, and you 
+don't want to go there, simply WAIT and you will be given a new missing sense 
+and a corresponding new exit. NOTE: You will never get the whale exit unless you 
+are using real tea for your Brownian Source. 
+#FINISH#
+#HINT#
+142
+
+#TEXT#
+When smell disappears: If the object is "being waved under your nose," then the 
+exit will be the Vogon Hold. If the object is "waving under your nose," the exit is 
+the Lair of the Ravenous Bugblatter Beast of Traal.
+#FINISH#
+#HINT#
+142
+
+#TEXT#
+When hearing is missing: If the sound of the star drive is "coming from far above 
+you," then your exit would be Entry Bay Number Two of the Heart of Gold. If it is 
+"coming from far below you," then your exit would be the War Chamber of the 
+battle fleet.
+#FINISH#
+#HINT#
+142
+
+#TEXT#
+If seeing is the sense that goes away: When the light "stabs at the front of your 
+eyes," then your exit is the Country Lane. When the light "stabs at the back of 
+your eyes," then your exit is the Presidential Speedboat. 
+#FINISH#
+#TOPIC#
+0
+Aboard the Vogon Ship
+#TOPIC#
+157
+Where the heck am I?
+#HINT#
+158
+
+#TEXT#
+As your status line says, you are in the Vogon Hold. 
+#FINISH#
+#HINT#
+158
+
+#TEXT#
+ASK FORD ABOUT THE EARTH. 
+#FINISH#
+#HINT#
+158
+
+#TEXT#
+The Earth has been destroyed by the Vogon fleet. You and Ford have hitched a 
+ride aboard one of the ships of the Vogon fleet by using the electronic Sub-Etha 
+signaling device, also known as a Thumb.
+#FINISH#
+#TOPIC#
+157
+How do I prevent myself from getting groggy and dying?
+#HINT#
+162
+
+#TEXT#
+This is caused by your protein loss during the matter transference beams. 
+#FINISH#
+#HINT#
+162
+
+#TEXT#
+Do you have anything with a lot of protein in it? 
+#FINISH#
+#HINT#
+162
+
+#TEXT#
+It's something that Ford just gave you. 
+#FINISH#
+#HINT#
+162
+
+#TEXT#
+It's one of the primary ingredients of peanut butter and peanut brittle.
+#FINISH#
+#HINT#
+162
+
+#TEXT#
+It's frequently found on shelves behind bars in Pubs. 
+#FINISH#
+#HINT#
+162
+
+#TEXT#
+EAT THE PEANUTS. (Bet you already knew it anyway and were just exposing 
+this last hint hoping for something funny.) 
+#FINISH#
+#TOPIC#
+157
+What is that thing Ford puts on his satchel before he lies down for his nap?
+#HINT#
+169
+
+#TEXT#
+That's the Hitchhiker's Guide to the Galaxy. 
+#FINISH#
+#HINT#
+169
+
+#TEXT#
+It's the single most useful thing an inter-galactic hitchhiker (or Infocom game 
+player) can have. 
+#FINISH#
+#HINT#
+169
+
+#TEXT#
+See the Hitchhiker's Guide question in the General Questions section for more 
+information.
+#FINISH#
+#TOPIC#
+157
+How can I wake Ford?
+#HINT#
+173
+
+#TEXT#
+Have you tried to WAKE FORD? 
+#FINISH#
+#HINT#
+173
+
+#TEXT#
+You can't wake Ford. 
+#FINISH#
+#HINT#
+173
+
+#TEXT#
+You'll have to get the babel fish on your own. 
+#FINISH#
+#TOPIC#
+157
+How can I get the atomic vector plotter out of the glass case?
+#HINT#
+177
+
+#TEXT#
+There's a switch and a keyboard attached to the case. 
+#FINISH#
+#HINT#
+177
+
+#TEXT#
+If you haven't made a SAVE recently, now might be a good time.
+#FINISH#
+#HINT#
+177
+
+#TEXT#
+Try typing something on the keyboard. If you wanted to type "hello" on the 
+keyboard, the proper way would be to type TYPE "HELLO." 
+#FINISH#
+#HINT#
+177
+
+#TEXT#
+Well, perhaps that wasn't such a great idea. Maybe you should try flipping the 
+switch. 
+#FINISH#
+#HINT#
+177
+
+#TEXT#
+If the recording that played was nothing but gibberish, you'll have to find some way 
+to translate it. 
+#FINISH#
+#HINT#
+177
+
+#TEXT#
+See the question about the babel fish.
+#FINISH#
+#HINT#
+177
+
+#TEXT#
+Once you have the babel fish, try flipping the switch again. 
+#FINISH#
+#HINT#
+177
+
+#TEXT#
+Now you know what you need to type. It's just a matter of waiting around to hear 
+the Captain's poetry reading. See the question about what's going on in the 
+Captain's Quarters. 
+#FINISH#
+#TOPIC#
+157
+What is the tall dispensing machine?
+#HINT#
+186
+
+#TEXT#
+Examine it. 
+#FINISH#
+#TOPIC#
+157
+Why does the dispensing machine go "click"?
+#HINT#
+188
+
+#TEXT#
+It's out of fish.
+#FINISH#
+#TOPIC#
+157
+What is a babel fish?
+#HINT#
+190
+
+#TEXT#
+Consult the Guide.
+#FINISH#
+#TOPIC#
+157
+How can I get a babel fish?
+#HINT#
+192
+
+#TEXT#
+This puzzle has more clues than a Hitchhiker's Guide Mark IV has options. 
+#FINISH#
+#HINT#
+192
+
+#TEXT#
+Have you tried pressing the dispenser button? 
+#FINISH#
+#HINT#
+192
+
+#TEXT#
+You need to block the small hole. 
+#FINISH#
+#HINT#
+192
+
+#TEXT#
+Let's hope you aren't stuck here, because it only gets harder. 
+#FINISH#
+#HINT#
+192
+
+#TEXT#
+It has something to do with the hook above the hole. 
+#FINISH#
+#HINT#
+192
+
+#TEXT#
+You need to hang something on the hook. 
+#FINISH#
+#HINT#
+192
+
+#TEXT#
+Examine the gown.
+#FINISH#
+#HINT#
+192
+
+#TEXT#
+Notice the loop? Hang the gown on the hook, then press the button again. 
+#FINISH#
+#HINT#
+192
+
+#TEXT#
+Well, you've made a little progress. Don't give up now. 
+#FINISH#
+#HINT#
+192
+
+#TEXT#
+You'll have to block the drain. 
+#FINISH#
+#HINT#
+192
+
+#TEXT#
+There's only one thing large enough to completely cover the drain.
+#FINISH#
+#HINT#
+192
+
+#TEXT#
+Cover the drain with the towel, then push the button again.
+#FINISH#
+#HINT#
+192
+
+#TEXT#
+Oh, well. Forging ahead, you'll have to block the tiny robot panel. 
+#FINISH#
+#HINT#
+192
+
+#TEXT#
+Standing or lying in front of the panel won't work.
+#FINISH#
+#HINT#
+192
+
+#TEXT#
+You'll have to put some object in front of the panel. 
+#FINISH#
+#HINT#
+192
+
+#TEXT#
+If it isn't bulky enough, the cleaning robot dashes around it. 
+#FINISH#
+#HINT#
+192
+
+#TEXT#
+Examine all the objects around. 
+#FINISH#
+#HINT#
+192
+
+#TEXT#
+The satchel is bulky. Put it in front of the panel, then push the button again. 
+#FINISH#
+#HINT#
+192
+
+#TEXT#
+At this point, brave men have been known to break down and cry. 
+#FINISH#
+#HINT#
+192
+
+#TEXT#
+Read, very carefully, the paragraph when Ford goes to sleep.
+#FINISH#
+#HINT#
+192
+
+#TEXT#
+Note that when you placed the satchel in front of the panel the response was 
+"The satchel is now _lying on its side_ in front of the panel." 
+#FINISH#
+#HINT#
+192
+
+#TEXT#
+The point of the two previous hints is that you can put an object on top of the 
+satchel.
+#FINISH#
+#HINT#
+192
+
+#TEXT#
+Put something on the satchel, then push the dispenser button again. 
+#FINISH#
+#HINT#
+192
+
+#TEXT#
+Notice that the upper-half-of-the-room cleaning robot just manages to catch the 
+second item. 
+#FINISH#
+#HINT#
+192
+
+#TEXT#
+Perhaps if there were several items on the satchel, they would all fly in the air and 
+confuse the flying robot. 
+#FINISH#
+#HINT#
+192
+
+#TEXT#
+Unfortunately, there's only room for one object on the satchel. 
+#FINISH#
+#HINT#
+192
+
+#TEXT#
+Do you have an object, or have you seen an object, that when flung into the air 
+might act as many items? 
+#FINISH#
+#HINT#
+192
+
+#TEXT#
+Remember that when the upper-half-of-the-room cleaning robot grabbed the babel 
+fish, before you put an object on the satchel, the text said that the fish was "the 
+only flying junk" that the robot found. 
+#FINISH#
+#HINT#
+192
+
+#TEXT#
+Put the pile of junk mail on the satchel, then press the dispenser button again. 
+#FINISH#
+#HINT#
+192
+
+#TEXT#
+Voila! 
+#FINISH#
+#HINT#
+192
+
+#TEXT#
+This space intentionally left blank.
+#FINISH#
+#HINT#
+192
+
+#TEXT#
+Incidentally, did you know that this is the longest question ever to appear in an 
+InvisiClues hint booklet? 
+#FINISH#
+#HINT#
+192
+
+#TEXT#
+You see, the Kwimbucki of Zug Seven are avid interactive fiction fans, but they 
+have one rather eccentric peculiarity.
+#FINISH#
+#HINT#
+192
+
+#TEXT#
+They will not buy any work of interactive fiction unless its hint booklet has at least 
+one question with over 35 hints. 
+#FINISH#
+#HINT#
+192
+
+#TEXT#
+This is the 35th hint. 
+#FINISH#
+#HINT#
+192
+
+#TEXT#
+Our marketing department will be happy to know that Zug Seven sales have just 
+skyrocketed. 
+#FINISH#
+#TOPIC#
+157
+What's that gibberish I keep hearing over the ship's intercom?
+#HINT#
+229
+
+#TEXT#
+It's an announcement in Vogonese, a language not widely taught in the 
+universities around Cottington. 
+#FINISH#
+#HINT#
+229
+
+#TEXT#
+If you want to understand the announcement, you'll have to discover some way to 
+translate it. 
+#FINISH#
+#HINT#
+229
+
+#TEXT#
+See the questions about the babel fish. 
+#FINISH#
+#HINT#
+229
+
+#TEXT#
+The announcement will begin 18 turns after you enter the Vogon Hold, or 3 turns 
+after you obtain the babel fish. 
+#FINISH#
+#TOPIC#
+157
+Is there any way to stop the guards from dragging me to the Captain's quarters?
+#HINT#
+234
+
+#TEXT#
+No
+#FINISH#
+#HINT#
+234
+
+#TEXT#
+If you don't know why the guards are dragging you off, see the question about the 
+gibberish from the intercom. 
+#FINISH#
+#HINT#
+234
+
+#TEXT#
+The guards will arrive 36 turns after you arrive in the Vogon Hold, or 5 turns after 
+you obtain a babel fish.
+#FINISH#
+#TOPIC#
+157
+What's going on here in the Captain's Quarters?
+#HINT#
+238
+
+#TEXT#
+Don't go on unless you've translated the garbled announcement. 
+#FINISH#
+#HINT#
+238
+
+#TEXT#
+Don't go on until you've figured out what's going on with the glass case and 
+switch and keyboard. 
+#FINISH#
+#HINT#
+238
+
+#TEXT#
+You are at a Vogon Poetry Appreciation Session. The Vogon Captain is about to 
+read you his favorite poem. The Guide's entry on Vogon Poetry makes clear that 
+this is extremely nasty. 
+#FINISH#
+#HINT#
+238
+
+#TEXT#
+Because you have already flipped the switch on the glass case and listened to the 
+recording, you know that you'll have to listen to the second verse of the poem in 
+order to get the atomic vector plotter. 
+#FINISH#
+#HINT#
+238
+
+#TEXT#
+This poetry is painfully awful. Have you tried STOP THE POETRY or COVER MY 
+EARS or DON'T LISTEN TO THE VOGON POETRY? 
+#FINISH#
+#HINT#
+238
+
+#TEXT#
+"Why not relax and enjoy it?" 
+#FINISH#
+#HINT#
+238
+
+#TEXT#
+When he finishes the first verse the Captain says, "You didn't look like you 
+enjoyed my poetry at all!" and then proceeds to have you thrown into space. 
+#FINISH#
+#HINT#
+238
+
+#TEXT#
+You want to ENJOY THE POETRY, any time between when the Captain begins 
+the poetry reading and when he completes the end of the first verse. If you do so, 
+the Captain will continue on and read the second verse. 
+#FINISH#
+#HINT#
+238
+
+#TEXT#
+Now that you've heard the glass case's recording _and_ the second verse of the 
+poem, you know what to type on the keyboard in order to acquire the atomic 
+vector plotter. (You'll have to wait until the guards drag you back into the Vogon 
+Hold, of course.) 
+#FINISH#
+#HINT#
+238
+
+#TEXT#
+For example, if the recording asked you to type the second word from the second 
+verse, and the second word of the second verse was "lyshus," you should type 
+TYPE "LYSHUS" when you get back to the Vogon Hold. NOTE: Each time you 
+play the game, the lines of the verse come in different orders. Similarly, the glass 
+case's recording asks for a different number word each time you play. 
+#FINISH#
+#TOPIC#
+157
+How can I prevent the guards from throwing us in the airlock?
+#HINT#
+249
+
+#TEXT#
+There's no way to prevent this. 
+#FINISH#
+#HINT#
+249
+
+#TEXT#
+No matter what you do, you'll eventually end up getting spaced. 
+#FINISH#
+#HINT#
+249
+
+#TEXT#
+However, you should make sure that you've accomplished everything that needs 
+to be accomplished aboard the Vogon ship before this occurs. 
+#FINISH#
+#HINT#
+249
+
+#TEXT#
+Your main goal aboard the Vogon ship is obtaining the atomic vector plotter. 
+#FINISH#
+#TOPIC#
+157
+Is there any way to survive getting blown out of the Airlock?
+#HINT#
+254
+
+#TEXT#
+Yes. In fact, there's no way to _not_ survive it. 
+#FINISH#
+#HINT#
+254
+
+#TEXT#
+If you just wait, you'll be blown into space and find yourself in the Dark again. 
+#FINISH#
+#HINT#
+254
+
+#TEXT#
+Try examining the Thumb while in the Airlock.
+#FINISH#
+#HINT#
+254
+
+#TEXT#
+Apparently, there's another spaceship nearby. Try hitchhiking by pressing the 
+green button.
+#FINISH#
+#HINT#
+254
+
+#TEXT#
+This sends you through a matter transference beam, and you find yourself in the 
+Dark again,
+#FINISH#
+#HINT#
+254
+
+#TEXT#
+Both methods of surviving the Airlock are equivalent. 
+#FINISH#
+#TOPIC#
+0
+Aboard the Heart of Gold
+#TOPIC#
+261
+I've just arrived in Entry Bay Number Two. Where am I? What's going on?
+#HINT#
+262
+
+#TEXT#
+Listen to Ford. 
+#FINISH#
+#HINT#
+262
+
+#TEXT#
+Read the sales brochure that's lying on the ground. 
+#FINISH#
+#HINT#
+262
+
+#TEXT#
+You've just been picked up by a fantastic new spaceship powered by something 
+called an Infinite Improbability Drive. You might want to find out more about it. 
+#FINISH#
+#TOPIC#
+261
+Who are those people on the Bridge?
+#HINT#
+266
+
+#TEXT#
+If you stick around until everyone enters the sauna, and pay attention to what 
+everyone is saying, you'll find out. 
+#FINISH#
+#HINT#
+266
+
+#TEXT#
+The woman is Tricia MacMillan, also known as Trillian. She is an Earthwoman 
+whom you met at a party in Islington not too long ago, at which time you totally 
+failed to impress her. She eventually left the party with a guy named Phil... who is, 
+you realize, the two-headed man standing next to her. 
+#FINISH#
+#HINT#
+266
+
+#TEXT#
+The man is Zaphod Beeblebrox, current President of the Galaxy, who has stolen 
+this revolutionary new Infinite Improbability Drive-powered spaceship in order to 
+locate the legendary lost planet of Magrathea. Zaphod and Ford know each other.
+#FINISH#
+#HINT#
+266
+
+#TEXT#
+That you should be picked up in the vast emptiness of space by a ship inhabited 
+by an acquaintance from your now-destroyed native planet as well as your 
+travelling companion's semi-cousin can only be considered highly improbable. But 
+then, with Infinite Improbability Drives at work, the infinitely improbable is not only 
+possible but quite likely. 
+#FINISH#
+#TOPIC#
+261
+How can I enter the sauna?
+#HINT#
+271
+
+#TEXT#
+From the Bridge, head to port. 
+#FINISH#
+#HINT#
+271
+
+#TEXT#
+There is no way to actually STAY in the sauna. 
+#FINISH#
+#HINT#
+271
+
+#TEXT#
+Therefore, once Ford, Zaphod, and Trillian enter the sauna, they will be effectively 
+inaccessible to you for the remainder of the game. 
+#FINISH#
+#TOPIC#
+261
+Is Eddie (the shipboard computer) important?
+#HINT#
+275
+
+#TEXT#
+Without Eddie, who would make all those fun announcements? 
+#FINISH#
+#HINT#
+275
+
+#TEXT#
+Eddie is the only one who can turn on the main drive. 
+#FINISH#
+#HINT#
+275
+
+#TEXT#
+But he won't obey your order to do that, only Zaphod's. 
+#FINISH#
+#HINT#
+275
+
+#TEXT#
+Eddie's help is indirectly necessary to obtain a cup of tea. 
+#FINISH#
+#HINT#
+275
+
+#TEXT#
+But in terms of solving puzzles, you can basically ignore Eddie.
+#FINISH#
+#TOPIC#
+261
+Are the controls on the Bridge important?
+#HINT#
+281
+
+#TEXT#
+Have you examined them? 
+#FINISH#
+#HINT#
+281
+
+#TEXT#
+The large receptacle is important.
+#FINISH#
+#HINT#
+281
+
+#TEXT#
+Don't go on until you've figured out how to set up and use the spare Improbability 
+Drive. 
+#FINISH#
+#HINT#
+281
+
+#TEXT#
+Seriously! Don't go any further unless you've figured out the spare Improbability 
+Drive. 
+#FINISH#
+#HINT#
+281
+
+#TEXT#
+The large plug from the spare Drive can be plugged into the large receptacle. 
+#FINISH#
+#HINT#
+281
+
+#TEXT#
+But that isn't necessarily the right thing to do. 
+#FINISH#
+#HINT#
+281
+
+#TEXT#
+In fact, when you plug in the spare Drive at the wrong time, Eddie warns you that 
+it's only for emergencies.
+#FINISH#
+#HINT#
+281
+
+#TEXT#
+Notice that when you use the Drive while it's plugged into the large receptacle, 
+both the large receptacle and the large plug are destroyed. 
+#FINISH#
+#HINT#
+281
+
+#TEXT#
+You can only use the Drive in connected-to-controls mode _once_ during the 
+course of the game. 
+#FINISH#
+#HINT#
+281
+
+#TEXT#
+See the question about the missile attack at the end of this section. 
+#FINISH#
+#TOPIC#
+261
+How does the Nutrimat work?
+#HINT#
+292
+
+#TEXT#
+All you have to do is touch the touch-sensitive pad. 
+#FINISH#
+#HINT#
+292
+
+#TEXT#
+The Nutrimat does all the rest, and in seconds you'll have your very own cup of 
+incredibly delicious Advanced Tea Substitute (ATS). 
+#FINISH#
+#HINT#
+292
+
+#TEXT#
+Well, maybe not so delicious. But at least useful. 
+#FINISH#
+#HINT#
+292
+
+#TEXT#
+Actually, there is a way to get something else from the Nutrimat.
+#FINISH#
+#HINT#
+292
+
+#TEXT#
+It's a cup of tea (_real_ tea, not ATS). 
+#FINISH#
+#HINT#
+292
+
+#TEXT#
+But first, you'll need something that isn't in the Galley. 
+#FINISH#
+#HINT#
+292
+
+#TEXT#
+In fact, it isn't even in the Heart of Gold.
+#FINISH#
+#HINT#
+292
+
+#TEXT#
+Don't go on unless you have the Nutrimat/Computer Interface (not to be confused 
+with the shipping carton for the Interface). 
+#FINISH#
+#HINT#
+292
+
+#TEXT#
+Use the Interface. 
+#FINISH#
+#HINT#
+292
+
+#TEXT#
+Open the service panel and remove the circuit board. Now, put the Interface 
+inside the Nutrimat. Finally, touch the pad! 
+#FINISH#
+#HINT#
+292
+
+#TEXT#
+Still having trouble getting tea? See the question about the missile attack. It's the 
+last question in this section. 
+#FINISH#
+#TOPIC#
+261
+Is the Advanced Tea Substitute useful?
+#HINT#
+304
+
+#TEXT#
+ATS is useful, although drinking it is a bad idea.
+#FINISH#
+#HINT#
+304
+
+#TEXT#
+Have you ever examined it? 
+#FINISH#
+#HINT#
+304
+
+#TEXT#
+Have you discovered a need for a source of Brownian Motion?
+#FINISH#
+#HINT#
+304
+
+#TEXT#
+See the question about the spare Improbability Drive. 
+#FINISH#
+#TOPIC#
+261
+Is the Pan-Galactic Gargle Blaster useful?
+#HINT#
+309
+
+#TEXT#
+Don't go on until you're actually holding the Gargle Blaster. 
+#FINISH#
+#HINT#
+309
+
+#TEXT#
+Have you tried drinking it or examining it? 
+#FINISH#
+#HINT#
+309
+
+#TEXT#
+Have you read the Guide entry on Pan-Galactic Gargle Blasters? 
+#FINISH#
+#HINT#
+309
+
+#TEXT#
+Read carefully what Zaphod says when he notices that his Gargle Blaster is 
+missing.
+#FINISH#
+#HINT#
+309
+
+#TEXT#
+There is absolutely no way that you can be holding a Gargle Blaster. The Nutrimat 
+gives them only to Zaphod. You should never have developed this question.
+#FINISH#
+#TOPIC#
+261
+Is the cup of nectar useful?
+#HINT#
+315
+
+#TEXT#
+Have you ever heard the expression "nectar of the gods"?
+#FINISH#
+#HINT#
+315
+
+#TEXT#
+Have you ever tried boiling water at very high altitudes?
+#FINISH#
+#HINT#
+315
+
+#TEXT#
+Have you ever seen the 1993 remake of "Citizen Kane" starring Sly Stallone as 
+Charles Foster Kane?
+#FINISH#
+#HINT#
+315
+
+#TEXT#
+Have you ever felt like you developed hints that you shouldn't have?
+#FINISH#
+#TOPIC#
+261
+Is the cup of tea important?
+#HINT#
+320
+
+#TEXT#
+Don't go on unless you actually have the cup of tea. 
+#FINISH#
+#HINT#
+320
+
+#TEXT#
+Don't go on unless this cup of tea is _real_ tea, not just Advanced Tea Substitute 
+(ATS). 
+#FINISH#
+#HINT#
+320
+
+#TEXT#
+Have you ever examined the tea? 
+#FINISH#
+#HINT#
+320
+
+#TEXT#
+Because it has even more Brownian Motion than the ATS, it will make a better 
+source of it for the spare Improbability Drive. Try it.
+#FINISH#
+#HINT#
+320
+
+#TEXT#
+See the question about controlling where you go when you leave Dark, in the 
+section called "In the Dark." 
+#FINISH#
+#TOPIC#
+261
+What's the story with the circuit board in the Nutrimat?
+#HINT#
+326
+
+#TEXT#
+You can remove it from the Nutrimat.
+#FINISH#
+#HINT#
+326
+
+#TEXT#
+Have you examined it? 
+#FINISH#
+#HINT#
+326
+
+#TEXT#
+You can flip any of the eight dipswitches.
+#FINISH#
+#HINT#
+326
+
+#TEXT#
+You can even flip them while the circuit board is still in the Nutrimat.
+#FINISH#
+#HINT#
+326
+
+#TEXT#
+Have you noticed the message in tiny letters on the board? 
+#FINISH#
+#HINT#
+326
+
+#TEXT#
+There _is_ a way to read that message. 
+#FINISH#
+#HINT#
+326
+
+#TEXT#
+Don't go on until you've been on Damogran. 
+#FINISH#
+#HINT#
+326
+
+#TEXT#
+Don't go on until you've opened the toolbox. 
+#FINISH#
+#HINT#
+326
+
+#TEXT#
+READ THE MESSAGE THROUGH THE MAGNIFYING GLASS. 
+#FINISH#
+#TOPIC#
+261
+Is the shipping carton important?
+#HINT#
+336
+
+#TEXT#
+Try examining or reading it.
+#FINISH#
+#HINT#
+336
+
+#TEXT#
+Have you opened the carton? 
+#FINISH#
+#HINT#
+336
+
+#TEXT#
+The Sirius Cybernetics Corporation has apparently screwed up (a common 
+occurrence) and put the wrong item inside the shipping carton.
+#FINISH#
+#HINT#
+336
+
+#TEXT#
+You'll be able to find the Nutrimat/Computer Interface elsewhere in the game. 
+#FINISH#
+#TOPIC#
+261
+Is the strange gun important?
+#HINT#
+341
+
+#TEXT#
+Have you examined or read it? 
+#FINISH#
+#HINT#
+341
+
+#TEXT#
+Don't go on unless you've been in the Lair. 
+#FINISH#
+#HINT#
+341
+
+#TEXT#
+Have you tried shooting the gun at the Beast?
+#FINISH#
+#HINT#
+341
+
+#TEXT#
+Have you tried it several times? 
+#FINISH#
+#HINT#
+341
+
+#TEXT#
+The gun is completely worthless, useless, and unimportant. 
+#FINISH#
+#TOPIC#
+261
+Is it possible to enter the drive chamber, that is, to go aft from Corridor, Aft End?
+#HINT#
+347
+
+#TEXT#
+Yes, but not without a fight.
+#FINISH#
+#HINT#
+347
+
+#TEXT#
+You'll have to argue with the game for a few turns.
+#FINISH#
+#HINT#
+347
+
+#TEXT#
+Usually, YES or NO responses are sufficient.
+#FINISH#
+#HINT#
+347
+
+#TEXT#
+The proper sequence, from the Corridor, Aft End is AFT. YES. YES. AFT. NO.
+#FINISH#
+#HINT#
+347
+
+#TEXT#
+However, there's more. See the next question. 
+#FINISH#
+#TOPIC#
+261
+Is there anything important in the Engine Room?
+#HINT#
+353
+
+#TEXT#
+Have you gotten into the Engine Room? If not, you should do so before looking at 
+the next hint. 
+#FINISH#
+#HINT#
+353
+
+#TEXT#
+The game claims that there's nothing interesting there.
+#FINISH#
+#HINT#
+353
+
+#TEXT#
+However, after losing that argument with you, the game is probably a bit peeved 
+and is acting petulant. 
+#FINISH#
+#HINT#
+353
+
+#TEXT#
+You'll have to be persistent if you want to find out what's in the Engine Room.
+#FINISH#
+#HINT#
+353
+
+#TEXT#
+Type LOOK three times. The game will then give in and describe the room and the 
+stuff there. 
+#FINISH#
+#TOPIC#
+261
+Is the spare Infinite Improbability Drive important?
+#HINT#
+359
+
+#TEXT#
+Read the Guide entry on Improbability Physics. 
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+You'll need the atomic vector plotter from the Vogon Hold. If you never got it while 
+you were aboard the Vogon ship, you'll have to start the game over or go back to 
+a saved position.
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+You'll also need a good source of Brownian Motion. 
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+Consult the Hitchhiker's Guide about Brownian Motion.
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+Have you seen any hot liquids? 
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+You'll need the cup of Advanced Tea Substitute (ATS), which you can get from 
+the Nutrimat in the Galley. 
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+Now that you have all three items (spare Drive, plotter, and cup of ATS), you 
+should be able to figure out how to hook them together. 
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+Examine all three items. 
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+You want to plug the small plug (from the Drive) into the small receptacle (in the 
+atomic vector plotter). Also, you want to put the plotter's long dangly bit into the 
+cup of ATS. 
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+That still leaves the Drive's large plug unattached. See the question about the 
+controls on the Bridge. 
+#FINISH#
+#HINT#
+359
+
+#TEXT#
+When the spare Drive is hooked up properly, turning it on sends you to Dark. From 
+there you can go to all sorts of neat new places. 
+#FINISH#
+#TOPIC#
+261
+How can I get past the screening door in the Corridor, Aft End?
+#HINT#
+371
+
+#TEXT#
+This is a very difficult problem. 
+#FINISH#
+#HINT#
+371
+
+#TEXT#
+Furthermore, you won't be able to tackle it until you're pretty far into the game. 
+Don't let it worry you until you get up around 200 points.
+#FINISH#
+#HINT#
+371
+
+#TEXT#
+Don't read any further unless you've gotten the cup of tea (_real_ tea, not 
+Advanced Tea Substitute). 
+#FINISH#
+#HINT#
+371
+
+#TEXT#
+Don't go any further unless you've been in the Maze. 
+#FINISH#
+#HINT#
+371
+
+#TEXT#
+Presumably you've tried OPEN THE DOOR. 
+#FINISH#
+#HINT#
+371
+
+#TEXT#
+You have to show an example of your intelligence to the screening door. 
+#FINISH#
+#HINT#
+371
+
+#TEXT#
+Read the Guide entry on INTELLIGENCE. 
+#FINISH#
+#HINT#
+371
+
+#TEXT#
+Can you think of anything contradictory that you could have or do?
+#FINISH#
+#HINT#
+371
+
+#TEXT#
+To show your intelligence, there are two specific items that you must be holding at 
+the same time. 
+#FINISH#
+#HINT#
+371
+
+#TEXT#
+Have you noticed what happens when you take or drop the (real) tea?
+#FINISH#
+#HINT#
+371
+
+#TEXT#
+To prove your intelligence to the door, you must be holding TEA and NO TEA at 
+the same time. 
+#FINISH#
+#HINT#
+371
+
+#TEXT#
+Try going back to the beginning of the game and taking or dropping NO TEA. 
+#FINISH#
+#HINT#
+371
+
+#TEXT#
+Does the response to that ring any bells? 
+#FINISH#
+#HINT#
+371
+
+#TEXT#
+Have you ever read or examined the black particle in the Maze? 
+#FINISH#
+#HINT#
+371
+
+#TEXT#
+Do you know where you are when you are in the Maze? If not, see the questions 
+on the Maze. 
+#FINISH#
+#HINT#
+371
+
+#TEXT#
+The Maze is your own brain, and the particle is your common sense. Once you 
+have removed the particle, you will no longer be fettered by common sense... 
+#FINISH#
+#HINT#
+371
+
+#TEXT#
+...and can take NO TEA. 
+#FINISH#
+#HINT#
+371
+
+#TEXT#
+Spelling it out step by step: First, acquire a cup of tea. Then get rid of the common 
+sense particle in the Maze. TAKE TEA THEN TAKE NO TEA. Finally, show the 
+tea and then the no tea to the screening door. Or, you could save time on the last 
+step and just KNOCK ON THE DOOR while holding the two items. 
+#FINISH#
+#HINT#
+371
+
+#TEXT#
+Did you die upon passing through the screening door? It's because Marvin lives in 
+the room beyond the door, and his awesome depression pervades the place. 
+#FINISH#
+#HINT#
+371
+
+#TEXT#
+You'll have to make yourself very happy before entering. 
+#FINISH#
+#HINT#
+371
+
+#TEXT#
+Have you ever done anything that made you very happy and contented? 
+#FINISH#
+#HINT#
+371
+
+#TEXT#
+Drink the cup of tea before you enter. 
+#FINISH#
+#TOPIC#
+261
+Is Marvin important?
+#HINT#
+394
+
+#TEXT#
+Yes, but not right away. 
+#FINISH#
+#HINT#
+394
+
+#TEXT#
+Until a point, he won't do anything you tell him to do. 
+#FINISH#
+#HINT#
+394
+
+#TEXT#
+After that point, he'll grudgingly consent to ONE task. 
+#FINISH#
+#HINT#
+394
+
+#TEXT#
+Have you ever followed Marvin when he appears around the Heart of Gold?
+#FINISH#
+#HINT#
+394
+
+#TEXT#
+He always disappears through a certain door.
+#FINISH#
+#HINT#
+394
+
+#TEXT#
+Before Marvin will perform his one task, you must get past the screening door near 
+the aft end of the corridor.
+#FINISH#
+#HINT#
+394
+
+#TEXT#
+Don't go on until you've been in Marvin's Pantry. 
+#FINISH#
+#HINT#
+394
+
+#TEXT#
+Congratulations. You've now impressed Marvin enough for him to listen to one 
+request from you. Do you have any idea what order to give him? 
+#FINISH#
+#HINT#
+394
+
+#TEXT#
+What puzzles or obstacles still remain that he might help with?
+#FINISH#
+#HINT#
+394
+
+#TEXT#
+Try examining the mechanism in the Access Space. 
+#FINISH#
+#HINT#
+394
+
+#TEXT#
+If you've ever seen the fruit, eating it would provide a big hint. 
+#FINISH#
+#HINT#
+394
+
+#TEXT#
+You want to order Marvin to open the hatch (as in MARVIN, OPEN THE HATCH). 
+See the question about opening the hatch for more information. 
+#FINISH#
+#TOPIC#
+261
+Is the Access Space important?
+#HINT#
+407
+
+#TEXT#
+It houses the mechanism that opens and closes the hatch. Have you ever 
+examined the mechanism? 
+#FINISH#
+#HINT#
+407
+
+#TEXT#
+See the next question. 
+#FINISH#
+#TOPIC#
+261
+How can I open the hatch?
+#HINT#
+410
+
+#TEXT#
+Have you tried OPEN THE HATCH?
+#FINISH#
+#HINT#
+410
+
+#TEXT#
+If sirens and lights went off when you tried to open the hatch, then the ship is still 
+in space. You can't open the hatch while the ship is in space, of course. Don't go 
+on to the next hint until the ship has landed. 
+#FINISH#
+#HINT#
+410
+
+#TEXT#
+Do you remember an announcement when the Heart of Gold landed on 
+Magrathea? 
+#FINISH#
+#HINT#
+410
+
+#TEXT#
+Eddie (the shipboard computer) is jamming the hatch to prevent anyone from 
+leaving the ship until he's checked to make sure the environment is safe. 
+#FINISH#
+#HINT#
+410
+
+#TEXT#
+If you wait the 17 years such a check will take, you'll probably die of boredom. 
+#FINISH#
+#HINT#
+410
+
+#TEXT#
+You'll have to figure out how to override Eddie's wishes by fixing the hatchway 
+mechanism in the Access Space. 
+#FINISH#
+#HINT#
+410
+
+#TEXT#
+You don't have the necessary intelligence for the task. 
+#FINISH#
+#HINT#
+410
+
+#TEXT#
+Someone else does. 
+#FINISH#
+#HINT#
+410
+
+#TEXT#
+Marvin. See the question about Marvin to figure out how to get him to open the 
+hatch.
+#FINISH#
+#HINT#
+410
+
+#TEXT#
+Once Marvin has agreed to open the hatch, he tells you to meet him in the Access 
+Space in twelve turns. Make sure you're on hand for that meeting. (Hell hath no 
+depression like a paranoid android scorned.) 
+#FINISH#
+#HINT#
+410
+
+#TEXT#
+Marvin will ask you for the tool he needs to fix the mechanism. 
+#FINISH#
+#HINT#
+410
+
+#TEXT#
+You must give him the proper tool or you've blown your one chance to get the 
+hatchway open. 
+#FINISH#
+#HINT#
+410
+
+#TEXT#
+There are a total of ten tools scattered throughout the game. For a complete list of 
+them, see the question about the tools in the General Questions section.
+#FINISH#
+#HINT#
+410
+
+#TEXT#
+Even if you've collected all ten tools, you can only carry one at a time into the 
+Access Space... 
+#FINISH#
+#HINT#
+410
+
+#TEXT#
+...and you don't have time to go out and get a different one before Marvin gives 
+up and leaves... 
+#FINISH#
+#HINT#
+410
+
+#TEXT#
+...and the chance of you bringing in the correct tool is very low. 
+#FINISH#
+#HINT#
+410
+
+#TEXT#
+In fact, Marvin will _never_ ask for any tool you happen to be holding. 
+#FINISH#
+#HINT#
+410
+
+#TEXT#
+There's a way to figure out in advance what tool Marvin will ask you for.
+#FINISH#
+#HINT#
+410
+
+#TEXT#
+See the question about the fluff. 
+#FINISH#
+#HINT#
+410
+
+#TEXT#
+Don't go on until you've seen the fruit. 
+#FINISH#
+#HINT#
+410
+
+#TEXT#
+Eat the fruit. 
+#FINISH#
+#HINT#
+410
+
+#TEXT#
+The glimpse of the future provided by the fruit tells you what tool to bring into the 
+Access Space. 
+#FINISH#
+#HINT#
+410
+
+#TEXT#
+If you meet Marvin there and give him that tool when he asks for it, he will fix the 
+mechanism and open the hatch. 
+#FINISH#
+#HINT#
+410
+
+#TEXT#
+You're now awesomely close to the end of the game. 
+#FINISH#
+#HINT#
+410
+
+#TEXT#
+Go down through the hatch. 
+#FINISH#
+#HINT#
+410
+
+#TEXT#
+Start waiting for the next exciting Hitchhiker's game.
+#FINISH#
+#TOPIC#
+261
+Help! The Heart of Gold is being attacked by nuclear missiles!
+#HINT#
+437
+
+#TEXT#
+This is a good point for a SAVE. 
+#FINISH#
+#HINT#
+437
+
+#TEXT#
+The computer is helpless because you've tied it up with the Nutrimat Interface.
+#FINISH#
+#HINT#
+437
+
+#TEXT#
+You'll have to save the ship yourself. 
+#FINISH#
+#HINT#
+437
+
+#TEXT#
+The computer is tied up, so it can't turn on the main Drive during this emergency. 
+#FINISH#
+#HINT#
+437
+
+#TEXT#
+There's a spare Drive for use during emergencies. 
+#FINISH#
+#HINT#
+437
+
+#TEXT#
+Turn on the spare Drive. 
+#FINISH#
+#HINT#
+437
+
+#TEXT#
+That didn't work? Have you examined the spare Drive and the control console on 
+the Bridge? 
+#FINISH#
+#HINT#
+437
+
+#TEXT#
+If there are fused spots where the large plug and large receptacle used to be, you 
+plugged the Drive in at the wrong time. 
+#FINISH#
+#HINT#
+437
+
+#TEXT#
+Note that when the spare Drive is _not_ connected to the control console and 
+you turn it on, the effect is always directed at you personally. When the spare 
+Drive _is_ connected to the console, activating it has an effect on the entire ship. 
+#FINISH#
+#HINT#
+437
+
+#TEXT#
+Turning on the spare Drive while it's plugged into the control console destroys the 
+large plug and large receptacle, so you can only do it once during the game. The 
+one time you want to activate the drive while plugged into the control console is 
+during the missile attack. 
+#FINISH#
+#TOPIC#
+0
+On Traal
+#TOPIC#
+448
+Is it possible to enter the room that lies southwest from the Lair?
+#HINT#
+449
+
+#TEXT#
+Yes. 
+#FINISH#
+#HINT#
+449
+
+#TEXT#
+Figuring out how to subdue the Beast would help. 
+#FINISH#
+#TOPIC#
+448
+How can I stop the Ravenous Bugblatter Beast of Traal from killing me?
+#HINT#
+452
+
+#TEXT#
+The Beast will devour you about five turns after you pop up in its Lair. 
+#FINISH#
+#HINT#
+452
+
+#TEXT#
+Leaving the room (EAST) will buy you some time. 
+#FINISH#
+#HINT#
+452
+
+#TEXT#
+Have you read the Guide entry on the Ravenous Bugblatter Beast of Traal? 
+#FINISH#
+#HINT#
+452
+
+#TEXT#
+You must find a way to prevent yourself from seeing the Beast. The Beast will then 
+decide that since you can't see it, it can't see you! 
+#FINISH#
+#HINT#
+452
+
+#TEXT#
+Closing your eyes isn't obvious enough for the Beast to notice. 
+#FINISH#
+#HINT#
+452
+
+#TEXT#
+You have to cover your head with something.
+#FINISH#
+#HINT#
+452
+
+#TEXT#
+It's something important, which no interstellar hitchhiker should ever be without.
+#FINISH#
+#HINT#
+452
+
+#TEXT#
+The towel. COVER MY HEAD WITH THE TOWEL or PUT THE TOWEL OVER 
+MY EYES or WRAP THE TOWEL AROUND MY HEAD or, well, you get the idea. 
+#FINISH#
+#HINT#
+452
+
+#TEXT#
+Unfortunately, you can't move around very well with a towel over your eyes. 
+Furthermore, as you may have already noticed, this method is also only temporarily 
+effective. 
+#FINISH#
+#TOPIC#
+448
+Why does the beast ask me to say my name?
+#HINT#
+462
+
+#TEXT#
+A good question. Have you tried figuring out the answer yourself? 
+#FINISH#
+#HINT#
+462
+
+#TEXT#
+Have you been in the Beast's Outer Lair?
+#FINISH#
+#HINT#
+462
+
+#TEXT#
+Have you ever tried saying your name as the Beast demands? 
+#FINISH#
+#HINT#
+462
+
+#TEXT#
+There are at least a dozen ways to say your name: SAY MY NAME or SAY 
+"ARTHUR DENT" or SAY "MY NAME IS ARTHUR DENT" or SAY "I AM 
+ARTHUR DENT" or TELL THE BEAST MY NAME or TELL MY NAME TO THE 
+BEAST. You could also say BEAST, MY NAME IS ARTHUR DENT or BEAST, 
+I'M ARTHUR DENT. There are some others but you've probably got the general 
+idea by now. 
+#FINISH#
+#HINT#
+462
+
+#TEXT#
+You have to give your correct name to the Beast, or (in a rare moment of 
+Bugblatter Beast perceptivity) it will be able to tell that you're lying. In addition, you 
+can't tell the Beast your name if the Beast thinks it can't see you.
+#FINISH#
+#HINT#
+462
+
+#TEXT#
+The Beast's response when you told it your name should provide an additional hint 
+toward why the Beast wants to know your name and how to solve this entire Traal 
+puzzle.
+#FINISH#
+#HINT#
+462
+
+#TEXT#
+Still stuck? Go on to the next question.
+#FINISH#
+#TOPIC#
+448
+What is the significance of the sandstone memorial?
+#HINT#
+470
+
+#TEXT#
+Have you figured out why the Beast wants to know your name? 
+#FINISH#
+#HINT#
+470
+
+#TEXT#
+The Beast wants to carve your name in this, his memorial of remembrance, after 
+he has devoured you. 
+#FINISH#
+#HINT#
+470
+
+#TEXT#
+Have you figured out how to stop the Beast from attacking you, at least on a 
+temporary basis?
+#FINISH#
+#HINT#
+470
+
+#TEXT#
+Don't go on until you have figured out how to convince the Beast that it can't see 
+you. 
+#FINISH#
+#HINT#
+470
+
+#TEXT#
+There's a way to confuse the Beast...
+#FINISH#
+#HINT#
+470
+
+#TEXT#
+...into thinking that it has already eaten you.
+#FINISH#
+#HINT#
+470
+
+#TEXT#
+You want to carve your name in the memorial, as in CARVE MY NAME ON THE 
+SANDSTONE MEMORIAL.
+#FINISH#
+#HINT#
+470
+
+#TEXT#
+Of course, you'll need something to carve with.
+#FINISH#
+#HINT#
+470
+
+#TEXT#
+It's not any of the tools. 
+#FINISH#
+#HINT#
+470
+
+#TEXT#
+It's something found on Traal. 
+#FINISH#
+#HINT#
+470
+
+#TEXT#
+Use one of the sharp stones that are lying on the ground. 
+#FINISH#
+#HINT#
+470
+
+#TEXT#
+First you have to tell the Beast your name and cover your head with the towel.
+#FINISH#
+#HINT#
+470
+
+#TEXT#
+It is now safe to remove the towel from your head, and to go southwest from the 
+Lair.
+#FINISH#
+#TOPIC#
+448
+Are the tall walls around the courtyard important?
+#HINT#
+484
+
+#TEXT#
+If you could climb them, you might be able to escape the Beast. 
+#FINISH#
+#HINT#
+484
+
+#TEXT#
+If you could collapse them onto the Beast, that just might do it in. 
+#FINISH#
+#HINT#
+484
+
+#TEXT#
+If you could transmute them into steaming mounds of Qurmeesian Mega-Rhino 
+flank steaks, the Beast might start in on those and ignore your few measly pounds 
+of stringy flesh. 
+#FINISH#
+#HINT#
+484
+
+#TEXT#
+Unfortunately, you can't do any of the above.
+#FINISH#
+#TOPIC#
+448
+Are the bleached bones important?
+#HINT#
+489
+
+#TEXT#
+Don't go on until you've found the black paint.
+#FINISH#
+#HINT#
+489
+
+#TEXT#
+Have you tried painting the bones with the paint? 
+#FINISH#
+#HINT#
+489
+
+#TEXT#
+Where does the Beast go when he sees the black bones?
+#FINISH#
+#HINT#
+489
+
+#TEXT#
+Black paint? Remember the warning in the introduction! Developing the hints to 
+random questions will spoil the game for you. Stick to just those points where 
+you're stuck.
+#FINISH#
+#TOPIC#
+448
+Are the sharp stones important?
+#HINT#
+494
+
+#TEXT#
+Yes.
+#FINISH#
+#HINT#
+494
+
+#TEXT#
+Have you examined them? 
+#FINISH#
+#HINT#
+494
+
+#TEXT#
+See the question about the sandstone memorial. 
+#FINISH#
+#TOPIC#
+448
+What is the point of this whole Traal scene?
+#HINT#
+498
+
+#TEXT#
+First, you'll have to figure out how to "neutralize" the Beast.
+#FINISH#
+#HINT#
+498
+
+#TEXT#
+Don't go on until the Beast is sleeping. 
+#FINISH#
+#HINT#
+498
+
+#TEXT#
+Have you been in the Inner Lair? 
+#FINISH#
+#HINT#
+498
+
+#TEXT#
+Go southwest from the Lair. 
+#FINISH#
+#HINT#
+498
+
+#TEXT#
+The entire point of this scene is to get that Nutrimat/Computer interface. 
+#FINISH#
+#HINT#
+498
+
+#TEXT#
+You have a limited number of moves to get the Interface, after the Beast falls 
+asleep and before the Fronurbdian Beasthunters arrive.
+#FINISH#
+#TOPIC#
+0
+On Damogran
+#TOPIC#
+505
+Who am I?
+#HINT#
+506
+
+#TEXT#
+Ask the game! (Type WHO AM I?) 
+#FINISH#
+#TOPIC#
+505
+Where am I?
+#HINT#
+508
+
+#TEXT#
+You're on Damogran. If you'd like to know more about it, consult the Hitchhiker's 
+Guide.
+#FINISH#
+#TOPIC#
+505
+How can I open the toolbox?
+#HINT#
+510
+
+#TEXT#
+Have you tried OPEN THE TOOLBOX? 
+#FINISH#
+#HINT#
+510
+
+#TEXT#
+Since it's locked, you'll need to find a key. 
+#FINISH#
+#HINT#
+510
+
+#TEXT#
+Try typing WHERE IS THE KEY while on the speedboat. 
+#FINISH#
+#HINT#
+510
+
+#TEXT#
+There aren't a lot of hiding places around the boat. 
+#FINISH#
+#HINT#
+510
+
+#TEXT#
+SEARCH THE PILOT SEAT or LOOK UNDER THE CUSHION. 
+#FINISH#
+#TOPIC#
+505
+How can I stop myself from cracking up against the rocks?
+#HINT#
+516
+
+#TEXT#
+Have you tried to EXAMINE THE CONTROLS?
+#FINISH#
+#HINT#
+516
+
+#TEXT#
+Try PUSH THE AUTOPILOT BUTTON. 
+#FINISH#
+#HINT#
+516
+
+#TEXT#
+The autopilot doesn't seem concerned about your situation, since it just takes a 
+look around and then shuts itself off. 
+#FINISH#
+#HINT#
+516
+
+#TEXT#
+You need to give the autopilot some impetus to go to work.
+#FINISH#
+#HINT#
+516
+
+#TEXT#
+Instead of steering toward the channel, try steering toward the cliff or the rocky 
+spire. 
+#FINISH#
+#HINT#
+516
+
+#TEXT#
+After three turns of heading toward an obstacle, the autopilot will kick on and 
+navigate you safely to your destination. 
+#FINISH#
+#TOPIC#
+505
+What should I do when the boat docks?
+#HINT#
+523
+
+#TEXT#
+Leave the boat. Type NORTH or LEAVE THE BOAT. 
+#FINISH#
+#TOPIC#
+505
+What should I do when I reach the Dais?
+#HINT#
+525
+
+#TEXT#
+You're here for the dedication ceremonies of the Heart of Gold. You obviously 
+have the crowd eating out of your hands. 
+#FINISH#
+#HINT#
+525
+
+#TEXT#
+You might try smiling, or waving, or making a speech. 
+#FINISH#
+#HINT#
+525
+
+#TEXT#
+Mainly, though, you just need to wait until Trillian shows up.
+#FINISH#
+#TOPIC#
+505
+What do I do about the Guards?
+#HINT#
+529
+
+#TEXT#
+Don't go on unless you're on the Dais and Trillian is there.
+#FINISH#
+#HINT#
+529
+
+#TEXT#
+Trillian isn't really attacking you. It's just part of your plan to steal the Heart of Gold.
+#FINISH#
+#HINT#
+529
+
+#TEXT#
+The guards don't know that you're planning to steal the Heart of Gold, so they're 
+on your side. 
+#FINISH#
+#HINT#
+529
+
+#TEXT#
+You're President of the Galaxy! The guards will probably listen to your orders. 
+#FINISH#
+#HINT#
+529
+
+#TEXT#
+You should say GUARDS, DON'T SHOOT or GUARDS, DROP THE PHOTON 
+RIFLES. 
+#FINISH#
+#HINT#
+529
+
+#TEXT#
+If you're still having troubles with the guards, see the next question. 
+#FINISH#
+#TOPIC#
+505
+Is there any way to enter the Heart of Gold from the Dais?
+#HINT#
+536
+
+#TEXT#
+Until Trillian shows up, the game won't even let you try.
+#FINISH#
+#HINT#
+536
+
+#TEXT#
+After Trillian shows up, attempting to enter the Heart of Gold is deadly.
+#FINISH#
+#HINT#
+536
+
+#TEXT#
+Don't go on unless you've disarmed the guards (see the previous question).
+#FINISH#
+#HINT#
+536
+
+#TEXT#
+This isn't helpful all by itself, since the guards pick up their rifles and still shoot you 
+if you break for the ship. 
+#FINISH#
+#HINT#
+536
+
+#TEXT#
+You must figure out a way to get rid of the guards or the rifles permanently. 
+#FINISH#
+#HINT#
+536
+
+#TEXT#
+The guards will _not_ leave the scene, no matter what you do. 
+#FINISH#
+#HINT#
+536
+
+#TEXT#
+Trying to shoot the guards doesn't work either. 
+#FINISH#
+#HINT#
+536
+
+#TEXT#
+There is, however, a way to dispose of the rifles. 
+#FINISH#
+#HINT#
+536
+
+#TEXT#
+Take the blaster from Trillian and shoot the rifles. Alternatively you can just ASK 
+TRILLIAN TO SHOOT THE PILE OF RIFLES. 
+#FINISH#
+#HINT#
+536
+
+#TEXT#
+Once you've destroyed the rifles, it's safe to enter the ship. 
+#FINISH#
+#TOPIC#
+505
+What's the point of the whole Damogran scene?
+#HINT#
+547
+
+#TEXT#
+Don't go on until you've ended the scene by successfully entering the Heart of 
+Gold. (If you were killed by the guards while attempting to enter, you did _not_ 
+enter "successfully.") 
+#FINISH#
+#HINT#
+547
+
+#TEXT#
+Have you opened the toolbox? 
+#FINISH#
+#HINT#
+547
+
+#TEXT#
+If you've opened the toolbox, then you've certainly found both the seat cushion 
+fluff and the laser-assisted monkey wrench. Getting these two items are [sic] the 
+ultimate goal of the Damogran scene. 
+#FINISH#
+#TOPIC#
+0
+At the Party
+#TOPIC#
+551
+Who am I?
+#HINT#
+552
+
+#TEXT#
+Ask the game. (Type WHO AM I?) 
+#FINISH#
+#TOPIC#
+551
+Where am I?
+#HINT#
+554
+
+#TEXT#
+Remember what happened when you first reached the Bridge of the Heart of 
+Gold? 
+#FINISH#
+#HINT#
+554
+
+#TEXT#
+This is the Party where Arthur Dent tried to pick up Tricia MacMillan (but, you'll 
+recall, failed completely). 
+#FINISH#
+#HINT#
+554
+
+#TEXT#
+Thanks to the wild vagaries of Improbability Physics, you have not only travelled 
+back in time, you have changed your identity as well. 
+#FINISH#
+#TOPIC#
+551
+What should I do about Phil?
+#HINT#
+558
+
+#TEXT#
+If you try to talk to Phil, he doesn't notice, and invariably leaves the room.
+#FINISH#
+#HINT#
+558
+
+#TEXT#
+Have you examined him?
+#FINISH#
+#HINT#
+558
+
+#TEXT#
+The draped cage on his shoulder does _not_ contain a bird. 
+#FINISH#
+#HINT#
+558
+
+#TEXT#
+The cage is hiding Phil's second head. 
+#FINISH#
+#HINT#
+558
+
+#TEXT#
+Phil is actually Zaphod Beeblebrox in disguise. He has undoubtedly dropped by 
+this Islington party as part of some interstellar party-crashing hop.
+#FINISH#
+#HINT#
+558
+
+#TEXT#
+If you recall from the events on the Bridge of the Heart of Gold, you (Trillian) 
+eventually left...er, will leave...the party with Zaphod/Phil. 
+#FINISH#
+#HINT#
+558
+
+#TEXT#
+But that won't happen until you do something else. See the question about the 
+point of the party scene. 
+#FINISH#
+#TOPIC#
+551
+What should I do about Arthur?
+#HINT#
+566
+
+#TEXT#
+Arthur keeps trying to start a conversation with you, but he's too shy and 
+embarrassed. If you try to talk to him, he finds your tone rather cool, and moves 
+away. 
+#FINISH#
+#HINT#
+566
+
+#TEXT#
+Have you examined him?
+#FINISH#
+#HINT#
+566
+
+#TEXT#
+Notice the fluff? 
+#FINISH#
+#HINT#
+566
+
+#TEXT#
+If you take the fluff from his jacket, it will "break the ice" and Arthur will begin 
+jabbering. 
+#FINISH#
+#HINT#
+566
+
+#TEXT#
+Did you notice that you can't take the fluff until you drop one of the other things 
+you're carrying (handbag, wine, hors d'oeuvres)? You can't hold more than three 
+things while you're at the party. 
+#FINISH#
+#TOPIC#
+551
+What should I do about the hostess?
+#HINT#
+572
+
+#TEXT#
+You're usually able to avoid her. 
+#FINISH#
+#HINT#
+572
+
+#TEXT#
+If you try to talk to her, you'll learn the meaning of the phrase "bored to death." 
+#FINISH#
+#HINT#
+572
+
+#TEXT#
+If you drop your glass of wine, your handbag, or your plate of hors d'oeuvres, the 
+hostess will come over and pester you about it. She won't leave you alone until 
+you take the item that you dropped.
+#FINISH#
+#TOPIC#
+551
+How can I leave the apartment?
+#HINT#
+576
+
+#TEXT#
+Try going south from the Living Room. 
+#FINISH#
+#HINT#
+576
+
+#TEXT#
+Dying will get you back to Dark, but that's probably not what you had in mind. 
+#FINISH#
+#HINT#
+576
+
+#TEXT#
+There is a way to leave the apartment, but you'll have to solve a puzzle first. See 
+the next question.
+#FINISH#
+#TOPIC#
+551
+What is the point of the party scene?
+#HINT#
+580
+
+#TEXT#
+There's an item at the party that you have to get back to the Heart of Gold.
+#FINISH#
+#HINT#
+580
+
+#TEXT#
+That item is the unsightly piece of jacket fluff.
+#FINISH#
+#HINT#
+580
+
+#TEXT#
+Read all the previous questions in this section of the hint booklet. 
+#FINISH#
+#HINT#
+580
+
+#TEXT#
+You want to get "picked up" by Phil. However, he won't take any notice of you 
+until you take the fluff and get Arthur talking to you. 
+#FINISH#
+#HINT#
+580
+
+#TEXT#
+In order to take the fluff, though, you'll have to drop something. This will cause the 
+hostess to start hovering around you. Phil is much too smart to approach you 
+when you're with the hostess. 
+#FINISH#
+#HINT#
+580
+
+#TEXT#
+So, to get Phil to come over, you'll have to take the item that the hostess keeps 
+offering you. To do so, you'll have to drop something, and the piece of fluff is the 
+only thing you have that you can drop without setting off the hostess again.
+#FINISH#
+#HINT#
+580
+
+#TEXT#
+There _is_ a way to stop holding the fluff _without_ dropping it.
+#FINISH#
+#HINT#
+580
+
+#TEXT#
+Look at what you're carrying again. 
+#FINISH#
+#HINT#
+580
+
+#TEXT#
+You can put the fluff in your handbag. 
+#FINISH#
+#HINT#
+580
+
+#TEXT#
+Naturally, the fluff is still in the handbag when you eventually get back to the Heart 
+of Gold. You need only go to the Bridge or wherever you left the handbag, open it, 
+and take the jacket fluff.
+#FINISH#
+#HINT#
+580
+
+#TEXT#
+.If you're still confused, one sequence of moves that will "solve" the party scene 
+is: EXAMINE ARTHUR. DROP THE WINE. TAKE THE JACKET FLUFF. OPEN 
+THE HANDBAG. PUT THE FLUFF IN THE HANDBAG. TAKE THE WINE. Then 
+just WAIT until Phil comes up and escorts you away. You will end up in Dark. 
+#FINISH#
+#TOPIC#
+0
+The Earth, Revisited
+#TOPIC#
+592
+Who am I? 
+#HINT#
+593
+
+#TEXT#
+Ask the game. (Type WHO AM I?) 
+#FINISH#
+#TOPIC#
+592
+Where should I go?
+#HINT#
+595
+
+#TEXT#
+You are reliving the last few minutes before the destruction of the Earth... 
+#FINISH#
+#HINT#
+595
+
+#TEXT#
+...this time as Ford Prefect rather than Arthur Dent. 
+#FINISH#
+#HINT#
+595
+
+#TEXT#
+The Improbability Drive has sent you back in time and has also changed your 
+identity. 
+#FINISH#
+#HINT#
+595
+
+#TEXT#
+You want to do what Ford did when you were Arthur.
+#FINISH#
+#HINT#
+595
+
+#TEXT#
+Go north to Front of House.
+#FINISH#
+#TOPIC#
+592
+What should I do about that feeling of uneasiness?
+#HINT#
+601
+
+#TEXT#
+Have you tried waiting a few turns?
+#FINISH#
+#HINT#
+601
+
+#TEXT#
+Obviously, you're doing the wrong thing.
+#FINISH#
+#HINT#
+601
+
+#TEXT#
+You shouldn't be in the Pub at this point.
+#FINISH#
+#HINT#
+601
+
+#TEXT#
+See the previous question. 
+#FINISH#
+#TOPIC#
+592
+What should I do about Arthur?
+#HINT#
+606
+
+#TEXT#
+According to the introductory text for this scene, why did you come here?
+#FINISH#
+#HINT#
+606
+
+#TEXT#
+What did Ford do at this point when you were Arthur? 
+#FINISH#
+#HINT#
+606
+
+#TEXT#
+Try to give the towel to Arthur. 
+#FINISH#
+#HINT#
+606
+
+#TEXT#
+The towel is inside your satchel. 
+#FINISH#
+#TOPIC#
+592
+What should I do about Prosser?
+#HINT#
+611
+
+#TEXT#
+Don't go on until you've done the step called for by the previous question.
+#FINISH#
+#HINT#
+611
+
+#TEXT#
+You want Arthur to come with you to the Pub.
+#FINISH#
+#HINT#
+611
+
+#TEXT#
+If you recall from when you were Arthur, it would mean the destruction of Arthur's 
+house if he stood up at this point. 
+#FINISH#
+#HINT#
+611
+
+#TEXT#
+He won't stand up until you've safeguarded his house. 
+#FINISH#
+#HINT#
+611
+
+#TEXT#
+You have to talk to Prosser.
+#FINISH#
+#HINT#
+611
+
+#TEXT#
+But he can't hear you from here. 
+#FINISH#
+#HINT#
+611
+
+#TEXT#
+So you have to APPROACH PROSSER or WALK AROUND THE BULLDOZER. 
+Now you can talk to him.
+#FINISH#
+#HINT#
+611
+
+#TEXT#
+You want him to lie down in front of the bulldozer. 
+#FINISH#
+#HINT#
+611
+
+#TEXT#
+Try PROSSER, LIE DOWN IN FRONT OF THE BULLDOZER.
+#FINISH#
+#HINT#
+611
+
+#TEXT#
+Arthur is now willing to follow you to the Pub. 
+#FINISH#
+#TOPIC#
+592
+What should I do in the Pub?
+#HINT#
+622
+
+#TEXT#
+Unless Arthur is with you, you are here prematurely. 
+#FINISH#
+#HINT#
+622
+
+#TEXT#
+Once again, think back to what Ford did when you were Arthur. 
+#FINISH#
+#HINT#
+622
+
+#TEXT#
+The first thing to do is BUY SOME BEER.
+#FINISH#
+#HINT#
+622
+
+#TEXT#
+Then DRINK THE BEER. Arthur will follow your example. You need to do this 
+twice. 
+#FINISH#
+#HINT#
+622
+
+#TEXT#
+You can BUY SOME PEANUTS, but it isn't necessary to do so. 
+#FINISH#
+#HINT#
+622
+
+#TEXT#
+When Arthur's house is destroyed, he will rush out of the Pub. It would be a good 
+idea to stay with him. 
+#FINISH#
+#TOPIC#
+592
+What should I do about the dog?
+#HINT#
+629
+
+#TEXT#
+There's not much you can do about the dog at this point. 
+#FINISH#
+#HINT#
+629
+
+#TEXT#
+You may find out more about the dog later.
+#FINISH#
+#TOPIC#
+592
+What's the point of this second Earth scene?
+#HINT#
+632
+
+#TEXT#
+You learn a lot about Ford's motivations, thus making for a more cohesive, 
+internally consistent story line.
+#FINISH#
+#HINT#
+632
+
+#TEXT#
+Oh, right. You're more interested in puzzle solutions. The entire point of this scene 
+is acquiring one particular item for use on the Heart of Gold.
+#FINISH#
+#HINT#
+632
+
+#TEXT#
+It's in the satchel.
+#FINISH#
+#HINT#
+632
+
+#TEXT#
+It's the satchel fluff. 
+#FINISH#
+#HINT#
+632
+
+#TEXT#
+There's a way to transfer it to something, other than the satchel, so that it will be 
+accessible when you get back to the Heart of Gold.
+#FINISH#
+#HINT#
+632
+
+#TEXT#
+That something is Arthur Dent.
+#FINISH#
+#HINT#
+632
+
+#TEXT#
+Give the fluff to Arthur.
+#FINISH#
+#HINT#
+632
+
+#TEXT#
+This is a rather weird action, and Arthur won't accept the fluff until he's had 
+enough beer. 
+#FINISH#
+#HINT#
+632
+
+#TEXT#
+After Arthur runs back to his house (now rubble), follow him and give him the fluff. 
+He'll accept it at this point and put it in his pocket. Then just wait for events to run 
+their course, and you'll soon find yourself back in Dark. When you get back to the 
+Heart of Gold, the satchel fluff should be in the pocket of your gown.
+#FINISH#
+#TOPIC#
+0
+The War Chamber and Maze
+#TOPIC#
+642
+What's going on in the War Chamber?
+#HINT#
+643
+
+#TEXT#
+Have you tried listening to the conversation? 
+#FINISH#
+#HINT#
+643
+
+#TEXT#
+Have you examined the approaching star system?
+#FINISH#
+#HINT#
+643
+
+#TEXT#
+Do you remember the long piece of text that appeared when your careless words 
+set off an interstellar war? 
+#FINISH#
+#HINT#
+643
+
+#TEXT#
+Those two warring races have now set off on a quest for vengeance against the 
+world (Earth) that spawned the person (you) whose remark set off their war.
+#FINISH#
+#TOPIC#
+642
+How can I get the awl out of the War Chamber?
+#HINT#
+648
+
+#TEXT#
+Just TAKE AWL! 
+#FINISH#
+#HINT#
+648
+
+#TEXT#
+Then solve the puzzle involving the giant dog. 
+#FINISH#
+#TOPIC#
+642
+How can I prevent being swallowed by that giant dog?
+#HINT#
+651
+
+#TEXT#
+The dog really isn't a giant dog. 
+#FINISH#
+#HINT#
+651
+
+#TEXT#
+It's a normal-sized dog. The spaceship you're aboard is microscopic. 
+#FINISH#
+#HINT#
+651
+
+#TEXT#
+Have you seen a dog anywhere else? 
+#FINISH#
+#HINT#
+651
+
+#TEXT#
+This is the very same dog you ran into in the Country Lane back at the beginning 
+of the game. 
+#FINISH#
+#HINT#
+651
+
+#TEXT#
+The dog swallows the space fleet for one particular reason. 
+#FINISH#
+#HINT#
+651
+
+#TEXT#
+If you examine the dog at the beginning of the game, you'll notice that it's very 
+hungry.
+#FINISH#
+#HINT#
+651
+
+#TEXT#
+You need to feed the dog back at the beginning of the game.
+#FINISH#
+#HINT#
+651
+
+#TEXT#
+If you want to avoid starting over, there's another way to feed the dog.
+#FINISH#
+#HINT#
+651
+
+#TEXT#
+You must become Ford Prefect first. 
+#FINISH#
+#HINT#
+651
+
+#TEXT#
+During the scene where you're Ford, buy a sandwich, then give the sandwich to 
+Arthur. When Arthur dashes out of the Pub, he'll feed the sandwich to the dog.
+#FINISH#
+#HINT#
+651
+
+#TEXT#
+Once the dog has been fed, you can survive the War Chamber scene and go on 
+to the Maze.
+#FINISH#
+#TOPIC#
+642
+Where is this Maze?
+#HINT#
+663
+
+#TEXT#
+Synapses? Gray matter? 
+#FINISH#
+#HINT#
+663
+
+#TEXT#
+Remember you were just teleported over from a microscopic space fleet... 
+#FINISH#
+#HINT#
+663
+
+#TEXT#
+...so you must be microscopic-sized yourself. 
+#FINISH#
+#HINT#
+663
+
+#TEXT#
+You're inside a brain. 
+#FINISH#
+#HINT#
+663
+
+#TEXT#
+Ah, but whose brain?
+#FINISH#
+#HINT#
+663
+
+#TEXT#
+Remember, the Vl'Hurgs and G'Gugvunts were teleporting you back to the Heart 
+of Gold. 
+#FINISH#
+#HINT#
+663
+
+#TEXT#
+You are, improbably enough, inside your own brain!
+#FINISH#
+#TOPIC#
+642
+Can the Maze be mapped?
+#HINT#
+671
+
+#TEXT#
+The usual way of mapping a maze in this sort of a game is to drop one object in 
+each room of the maze. That way, when you return to the room, the game will 
+mention that "there is a (whatever) here," and the rooms will no longer look exactly 
+alike.
+#FINISH#
+#HINT#
+671
+
+#TEXT#
+However, that method doesn't work in this Maze, since anything you drop just sails 
+away and vanishes.
+#FINISH#
+#HINT#
+671
+
+#TEXT#
+The Maze is totally unmappable.
+#FINISH#
+#HINT#
+671
+
+#TEXT#
+In fact, the directions you can go in the Maze on any given turn are totally random, 
+so it makes absolutely no difference which direction you try to move in.
+#FINISH#
+#HINT#
+671
+
+#TEXT#
+The third time you successfully move to a new Maze room (as opposed to being 
+blocked by a synaptic discharge), you'll run across the black particle. 
+#FINISH#
+#HINT#
+671
+
+#TEXT#
+If you ignore the particle, you'll run across it again 14 successful movements later, 
+and then again after another 19. 
+#FINISH#
+#TOPIC#
+642
+What's this black particle? What should I do about it?
+#HINT#
+678
+
+#TEXT#
+Have you read the markings on the particle?
+#FINISH#
+#HINT#
+678
+
+#TEXT#
+The particle is your own common sense!
+#FINISH#
+#HINT#
+678
+
+#TEXT#
+You have an opportunity here to remove your own common sense. 
+#FINISH#
+#HINT#
+678
+
+#TEXT#
+Does that ring a bell? 
+#FINISH#
+#HINT#
+678
+
+#TEXT#
+See the question about no tea in the General Questions section. 
+#FINISH#
+#HINT#
+678
+
+#TEXT#
+Taking the particle also has the beneficial side effect of getting you out of the 
+Maze.
+#FINISH#
+#TOPIC#
+642
+What's the point of the War Chamber and Maze scene?
+#HINT#
+685
+
+#TEXT#
+You should be able to figure it out for yourself.
+#FINISH#
+#HINT#
+685
+
+#TEXT#
+Do you know the answers to all the other questions in this section?
+#FINISH#
+#HINT#
+685
+
+#TEXT#
+There are two goals for the War Chamber/Maze scene.
+#FINISH#
+#HINT#
+685
+
+#TEXT#
+The first goal is to get the awl. 
+#FINISH#
+#HINT#
+685
+
+#TEXT#
+The second goal is to remove your particle of common sense. 
+#FINISH#
+#TOPIC#
+0
+Inside the Whale
+#TOPIC#
+691
+Who am I?
+#HINT#
+692
+
+#TEXT#
+You're still Arthur in this scene.
+#FINISH#
+#TOPIC#
+691
+Where am I?
+#HINT#
+694
+
+#TEXT#
+You're inside a sperm whale, obviously.
+#FINISH#
+#HINT#
+694
+
+#TEXT#
+Note the sound of rushing air. 
+#FINISH#
+#HINT#
+694
+
+#TEXT#
+The Improbability Drive, in one of its nastier coincidences, has transported you 
+inside the very same whale you created when you used the Drive to save the ship 
+during the missile attack. 
+#FINISH#
+#HINT#
+694
+
+#TEXT#
+If you recall, the missiles were turned into a sperm whale, which was last seen 
+plummeting through the atmosphere of Magrathea. This explains why, after a few 
+turns, the whale invariably splats (and you along with it). 
+#FINISH#
+#TOPIC#
+691
+Who's the old man with the wooden puppet?
+#HINT#
+699
+
+#TEXT#
+The old man is Gepetto the carpenter. 
+#FINISH#
+#HINT#
+699
+
+#TEXT#
+The puppet is his creation, Pinocchio. 
+#FINISH#
+#HINT#
+699
+
+#TEXT#
+Their boat was swallowed by the whale. If you hide in the Cargo Hold, perhaps 
+you'll be able to escape. 
+#FINISH#
+#HINT#
+699
+
+#TEXT#
+Don't go on until you've met the evil ice queen, the seven dwarfs, and the talking 
+dragon.
+#FINISH#
+#HINT#
+699
+
+#TEXT#
+What game are you playing?
+#FINISH#
+#TOPIC#
+691
+How can I get out of the whale?
+#HINT#
+705
+
+#TEXT#
+There are no exits in any direction.
+#FINISH#
+#HINT#
+705
+
+#TEXT#
+If you wait long enough, you'll splat and return to Dark. 
+#FINISH#
+#HINT#
+705
+
+#TEXT#
+There's one other way to get out of the whale.
+#FINISH#
+#HINT#
+705
+
+#TEXT#
+It's a method you've used before. 
+#FINISH#
+#HINT#
+705
+
+#TEXT#
+It will also leave you in Dark.
+#FINISH#
+#HINT#
+705
+
+#TEXT#
+Hitchhike using the Thumb.
+#FINISH#
+#HINT#
+705
+
+#TEXT#
+The Thumb is probably broken, though. You'll have to get it fixed by an Engineer 
+robot.
+#FINISH#
+#TOPIC#
+691
+How can I prevent the whale from splatting?
+#HINT#
+713
+
+#TEXT#
+You can't. 
+#FINISH#
+#HINT#
+713
+
+#TEXT#
+No matter what you do, you've only got ten moves in the whale before it splats.
+#FINISH#
+#TOPIC#
+691
+How can I get the flowerpot out of the whale?
+#HINT#
+716
+
+#TEXT#
+There are two ways to do this.
+#FINISH#
+#HINT#
+716
+
+#TEXT#
+One way involves the Thumb.
+#FINISH#
+#HINT#
+716
+
+#TEXT#
+The other method involves the thing your aunt gave you which you don't know 
+what it is.
+#FINISH#
+#HINT#
+716
+
+#TEXT#
+To obtain the flowerpot using the Thumb, just pick up the pot and hitchhike. 
+#FINISH#
+#HINT#
+716
+
+#TEXT#
+For more details, see the question on getting out of the whale. 
+#FINISH#
+#HINT#
+716
+
+#TEXT#
+To obtain the flowerpot using the aunt's gift: the aunt's gift has an unusual 
+property you may not have discovered. See the question about the aunt's gift.
+#FINISH#
+#HINT#
+716
+
+#TEXT#
+Just put the flowerpot inside the aunt's gift and then wait until the whale splats. 
+Within a few turns after leaving Dark, the aunt's gift should reappear, containing 
+the pot.
+#FINISH#
+#TOPIC#
+691
+What's the point of this scene inside the whale?
+#HINT#
+724
+
+#TEXT#
+Isn't it obvious? 
+#FINISH#
+#HINT#
+724
+
+#TEXT#
+There really isn't much here.
+#FINISH#
+#HINT#
+724
+
+#TEXT#
+The only point of this scene is to get the flowerpot.
+#FINISH#
+#TOPIC#
+0
+General Questions
+#TOPIC#
+728
+Is there any significance to "no tea"?
+#HINT#
+729
+
+#TEXT#
+Yes.
+#FINISH#
+#HINT#
+729
+
+#TEXT#
+It's a hint that at some point, getting tea will be important.
+#FINISH#
+#HINT#
+729
+
+#TEXT#
+Also, see the question about the screening door in the Corridor, Aft End in the 
+Heart of Gold section.
+#FINISH#
+#TOPIC#
+728
+What the Zark is the thing my aunt gave me which I don't know what it is?
+#HINT#
+733
+
+#TEXT#
+Have you tried examining it?
+#FINISH#
+#HINT#
+733
+
+#TEXT#
+Have you tried getting rid of it? 
+#FINISH#
+#HINT#
+733
+
+#TEXT#
+You've probably noticed that it keeps turning up.
+#FINISH#
+#HINT#
+733
+
+#TEXT#
+If you leave it behind, it will pop up about a dozen moves later, sometimes on the 
+ground where you are, sometimes in your inventory, and sometimes in your gown 
+pocket. (The thing will only "follow" you when you are Arthur.) 
+#FINISH#
+#HINT#
+733
+
+#TEXT#
+There's something else that you probably haven't noticed about the thing your 
+aunt gave you.
+#FINISH#
+#HINT#
+733
+
+#TEXT#
+You can put things in it. In fact, you can put almost every takeable item into the 
+thing at the same time.
+#FINISH#
+#HINT#
+733
+
+#TEXT#
+This is useful for transporting more objects than you carry [sic], but it isn't ever 
+necessary to do so. 
+#FINISH#
+#HINT#
+733
+
+#TEXT#
+Because of these two properties (auto-return and containment) the thing your aunt 
+gave you provides an alternate solution of one of the puzzles in the game. 
+#FINISH#
+#HINT#
+733
+
+#TEXT#
+It's a puzzle toward the very end of the game.
+#FINISH#
+#HINT#
+733
+
+#TEXT#
+It's the puzzle of getting the flowerpot out of the whale. 
+#FINISH#
+#TOPIC#
+728
+Is the Hitchhiker's Guide important?
+#HINT#
+744
+
+#TEXT#
+Well, the game _is_ named after it... 
+#FINISH#
+#HINT#
+744
+
+#TEXT#
+The various entries in the Guide contain all sorts of useful information and hints 
+that you'll need to solve the puzzles in the game. 
+#FINISH#
+#HINT#
+744
+
+#TEXT#
+The proper syntax for reading a particular Guide entry is CONSULT GUIDE 
+ABOUT (item). For example, you could type CONSULT GUIDE ABOUT 
+MUSHROOMS.
+#FINISH#
+#HINT#
+744
+
+#TEXT#
+Once you know the solutions to all the puzzles, you could play to the end of the 
+game without ever using the Guide.
+#FINISH#
+#HINT#
+744
+
+#TEXT#
+There are 39 Guide entries in the game. A complete list of the topics appears in 
+the Guide Entries section.
+#FINISH#
+#TOPIC#
+728
+What is the Thumb? How does it work? Is it important?
+#HINT#
+750
+
+#TEXT#
+The Thumb is an electronic Sub-Etha Auto-Hitching Device. If used properly, it will 
+allow you to hitch rides aboard passing spaceships.
+#FINISH#
+#HINT#
+750
+
+#TEXT#
+You should read the Guide entry on the Thumb.
+#FINISH#
+#HINT#
+750
+
+#TEXT#
+You can examine the Thumb to determine whether a spaceship is within range. (If 
+the lights are flashing, a ship is nearby.)
+#FINISH#
+#HINT#
+750
+
+#TEXT#
+If a ship is within range, you can transport yourself to the ship (via a matter 
+transference beam) by pushing the green button.
+#FINISH#
+#HINT#
+750
+
+#TEXT#
+If you press the green button when there is no ship around, you'll break the 
+Thumb.
+#FINISH#
+#HINT#
+750
+
+#TEXT#
+Also, the Thumb will break down on its own over the course of the game. 
+#FINISH#
+#HINT#
+750
+
+#TEXT#
+If the Thumb is broken, you will not be transported when you press the green 
+button, even if a ship is nearby. 
+#FINISH#
+#HINT#
+750
+
+#TEXT#
+A broken Thumb can be mended.
+#FINISH#
+#HINT#
+750
+
+#TEXT#
+To do so, push the red button to summon a repair robot. See the following 
+question for further details on repairing the Thumb.
+#FINISH#
+#HINT#
+750
+
+#TEXT#
+There are three points in the game when you can use the Thumb.
+#FINISH#
+#HINT#
+750
+
+#TEXT#
+The first time is near the very beginning of the game, when you use it to get to the 
+Vogon ship.
+#FINISH#
+#HINT#
+750
+
+#TEXT#
+The second time is when you're in the Airlock of the Vogon ship. It isn't necessary 
+to use the Thumb here, because simply waiting a few turns has the same result. 
+#FINISH#
+#HINT#
+750
+
+#TEXT#
+The third time is when you're Inside the Sperm Whale. Once again, there's an 
+alternative to using the Thumb, but in this case it's not as simple as just waiting. 
+See the section entitled "Inside the Whale" for more information.
+#FINISH#
+#TOPIC#
+728
+Is the Engineer robot important?
+#HINT#
+764
+
+#TEXT#
+Only the Engineer robot can fix the Thumb.
+#FINISH#
+#HINT#
+764
+
+#TEXT#
+Once you've summoned the Engineer robot, SHOW (or GIVE) THE THUMB TO 
+THE ENGINEER ROBOT. 
+#FINISH#
+#HINT#
+764
+
+#TEXT#
+If the robot claims that there's nothing wrong with the Thumb, then it wasn't 
+broken. 
+#FINISH#
+#HINT#
+764
+
+#TEXT#
+If the Thumb is broken, the Engineer robot won't agree to fix it unless you also 
+SHOW THE GUARANTEE TO THE ENGINEER ROBOT.
+#FINISH#
+#HINT#
+764
+
+#TEXT#
+Actually, you can shortcut by showing the guarantee first.
+#FINISH#
+#TOPIC#
+728
+What's all this nonsense about fluff?
+#HINT#
+770
+
+#TEXT#
+There does seem to be a lot of it scattered throughout the game.
+#FINISH#
+#HINT#
+770
+
+#TEXT#
+Have you consulted the Guide about fluff?
+#FINISH#
+#HINT#
+770
+
+#TEXT#
+The ancient legend is of particular interest. 
+#FINISH#
+#HINT#
+770
+
+#TEXT#
+There are a total of four pieces of fluff in the game. You'll have to find and obtain 
+all four.
+#FINISH#
+#HINT#
+770
+
+#TEXT#
+Try finding them yourself. When you're stumped, return to this question.
+#FINISH#
+#HINT#
+770
+
+#TEXT#
+Hint: You have four different roles over the course of the game: Arthur, Ford, 
+Trillian, and Zaphod.
+#FINISH#
+#HINT#
+770
+
+#TEXT#
+You can obtain one piece of fluff during each role. 
+#FINISH#
+#HINT#
+770
+
+#TEXT#
+A list of all four, and their locations, follows. You shouldn't look at this list unless 
+you're completely stumped, because it will give away a lot.
+#FINISH#
+#HINT#
+770
+
+#TEXT#
+Pocket fluff: in the pocket of your gown at the start of the game. Satchel fluff: 
+inside Ford's satchel (see The Earth, Revisited). Jacket fluff: on Arthur's jacket 
+(see At The Party). Seat cushion fluff: under the pilot seat of the speedboat (see 
+On Damogran)
+#FINISH#
+#HINT#
+770
+
+#TEXT#
+Now that you have all four pieces of fluff, any idea what to do with them?
+#FINISH#
+#HINT#
+770
+
+#TEXT#
+Don't continue until you have the flowerpot
+#FINISH#
+#HINT#
+770
+
+#TEXT#
+You should plant each piece of fluff in the flowerpot.
+#FINISH#
+#HINT#
+770
+
+#TEXT#
+Now wait. 
+#FINISH#
+#HINT#
+770
+
+#TEXT#
+A tiny plant will sprout around ten moves later.
+#FINISH#
+#HINT#
+770
+
+#TEXT#
+For more information, see the next question.
+#FINISH#
+#TOPIC#
+728
+What do I do about the plant?
+#HINT#
+786
+
+#TEXT#
+Left to itself, the tiny sprout will never grow any further.
+#FINISH#
+#HINT#
+786
+
+#TEXT#
+You have nothing to water the plant with.
+#FINISH#
+#HINT#
+786
+
+#TEXT#
+Read the Guide entry on fluff again. 
+#FINISH#
+#HINT#
+786
+
+#TEXT#
+Notice that this rare plant once grew on a tropical world.
+#FINISH#
+#HINT#
+786
+
+#TEXT#
+Can you think of anything around that's similar to a tropical environment?
+#FINISH#
+#HINT#
+786
+
+#TEXT#
+Carry the plant into the sauna.
+#FINISH#
+#HINT#
+786
+
+#TEXT#
+Now examine the plant. 
+#FINISH#
+#HINT#
+786
+
+#TEXT#
+Now see the question about opening the hatch in the Heart of Gold section. 
+#FINISH#
+#TOPIC#
+728
+What are all these tools scattered throughout the game?
+#HINT#
+795
+
+#TEXT#
+Have you examined them? 
+#FINISH#
+#HINT#
+795
+
+#TEXT#
+Many of them are rather excitingly high-tech, aren't they? 
+#FINISH#
+#HINT#
+795
+
+#TEXT#
+They don't really have much use...
+#FINISH#
+#HINT#
+795
+
+#TEXT#
+...until the very end of the game.
+#FINISH#
+#HINT#
+795
+
+#TEXT#
+See the question about opening the hatch in the Heart of Gold section.
+#FINISH#
+#HINT#
+795
+
+#TEXT#
+Marvin will ask for one of ten different tools. 
+#FINISH#
+#HINT#
+795
+
+#TEXT#
+A list of all ten, and their locations, follows. You shouldn't look at this list unless 
+you're completely stumped, because it will give away a lot.
+#FINISH#
+#HINT#
+795
+
+#TEXT#
+Flathead screwdriver: in your Bedroom. Toothbrush: in your Bedroom. Tweezers: 
+inside Trillian's handbag. Molecular hyperwave pincer: on the Bridge. Ionic 
+diffusion rasp: in the Engine Room. Hypersonic pliers: in the Engine Room. 
+Thermo-fusion chisel: in Marvin's Pantry. Laser-assisted monkey wrench: inside 
+the toolbox on the speedboat. Ultra-plasmic vacuum awl: in the War Chamber. 
+Number twelve asteroid paint chipper: you're holding it when you return from your 
+adventure at the end of the Traal scene.
+#FINISH#
+#TOPIC#
+728
+What is the goal of the game?
+#HINT#
+804
+
+#TEXT#
+Have you tried asking some of the other characters in the story?
+#FINISH#
+#HINT#
+804
+
+#TEXT#
+Have fun, be happy.
+#FINISH#
+#HINT#
+804
+
+#TEXT#
+Solve all the puzzles, reach the end.
+#FINISH#
+#HINT#
+804
+
+#TEXT#
+The ultimate goal of the game is to step out onto the surface of Magrathea.
+#FINISH#
+#HINT#
+804
+
+#TEXT#
+Knowing this fact is of virtually no help in getting through the game.
+#FINISH#
+#TOPIC#
+728
+How can I read the footnotes?
+#HINT#
+810
+
+#TEXT#
+You obviously didn't read your manual very carefully. That's explained in the 
+section entitled Important Commands.
+#FINISH#
+#TOPIC#
+0
+How All the Points are Scored
+#HINT#
+812
+
+#TEXT#
+This section should only be used as a last resort, or for your own interest after 
+you've completed the game. 
+#FINISH#
+#HINT#
+812
+
+#TEXT#
+Taking the buffered analgesic  (10)
+#FINISH#
+#HINT#
+812
+
+#TEXT#
+ Drinking or enjoying the beer (first time, as Arthur)  (5)
+#FINISH#
+#HINT#
+812
+
+#TEXT#
+ Drinking or enjoying the beer (second time, as Arthur) (5)
+#FINISH#
+#HINT#
+812
+
+#TEXT#
+Drinking or enjoying the beer (third time, as Arthur) (5)
+#FINISH#
+#HINT#
+812
+
+#TEXT#
+ Arriving at the Vogon Hold  (8)
+#FINISH#
+#HINT#
+812
+
+#TEXT#
+Getting the babel fish in your ear  (12)
+#FINISH#
+#HINT#
+812
+
+#TEXT#
+ Enjoying the Vogon poetry  (15)
+#FINISH#
+#HINT#
+812
+
+#TEXT#
+Opening the glass case in the Vogon Hold  (25)
+#FINISH#
+#HINT#
+812
+
+#TEXT#
+Entering the Engine Room of the Heart of Gold (25)
+#FINISH#
+#HINT#
+812
+
+#TEXT#
+ Getting the Nutrimat/Computer Interface  (25)
+#FINISH#
+#HINT#
+812
+
+#TEXT#
+Drinking or enjoying the beer (as Ford) (15)
+#FINISH#
+#HINT#
+812
+
+#TEXT#
+ Leaving the party with Phil (25)
+#FINISH#
+#HINT#
+812
+
+#TEXT#
+ Stealing the Heart of Gold on Damogran (25)
+#FINISH#
+#HINT#
+812
+
+#TEXT#
+Taking the common sense particle (25)
+#FINISH#
+#HINT#
+812
+
+#TEXT#
+Drinking the tea (100)
+#FINISH#
+#HINT#
+812
+
+#TEXT#
+Entering Marvin's Pantry  (25)
+#FINISH#
+#HINT#
+812
+
+#TEXT#
+Blooming the plant by entering the sauna  (25)
+#FINISH#
+#HINT#
+812
+
+#TEXT#
+Getting Marvin to open the hatch  (25)
+#FINISH#
+#HINT#
+812
+
+#TEXT#
+You lose 30 points each for eating the cheese sandwich, drinking the Advanced 
+Tea Substitute, or turning on the spare Drive while plugged into the large 
+receptacle before the missile attack begins.
+#FINISH#
+#TOPIC#
+0
+For Your Amusement
+#TOPIC#
+833
+Have you tried... 
+#HINT#
+834
+
+#TEXT#
+looking under your bed?
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+enjoying the mud while you're lying in front of the bulldozer?
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+to PHONE HOME from your bedroom?
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+asking Prosser for the time?
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+to GET DRUNK in the pub?
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+buying peanuts (as Arthur)? 
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+listening to the jukebox music (several times, then again when you're Ford)? 
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+petting or kicking the dog?
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+feeding peanuts to the dog? (You can only do this as Ford, of course.) 
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+hitting Prosser (before and after your house is demolished)?
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+enjoying your house after it's been demolished?
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+asking PROSSER, WHAT ABOUT MY HOME after it's been demolished?
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+giving the towel, the thing your aunt gave you, or the satchel to Prosser? (You can 
+only do the last one when you're Ford, of course.)
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+talking to Prosser after the Vogon fleet has arrived? 
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+eating the cheese sandwich when you're Ford? 
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+going straight to the Pub when you're Ford, instead of giving Arthur the towel, and 
+then waiting a few turns?
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+yelling in the Dark? 
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+waiting about 60 turns in Dark to see the hints you get? 
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+not eating the peanuts in the Vogon Hold?
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+drinking the Santraginean Mineral Water?
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+asking FORD, WHAT ABOUT THE EARTH once it's been destroyed?
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+developing the invisible printing in this booklet with a mixture of shampoo and 
+apple cider instead of the developing marker? 
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+(Doesn't work very well, does it?)
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+enjoying the Vogon poetry without the babel fish?
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+opening the hatch in the Heart of Gold before landing on Magrathea?
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+kicking the screening door, then entering Marvin's Pantry?
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+closing the screening door once you've opened it?
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+reading the tiny message on the circuit board with the magnifying glass? 
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+smashing the circuit board? 
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+turning on the spare Drive, plugged into the control panel, before the missile 
+attack begins? 
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+turning on the spare Drive during the missile attack, without first plugging it into the 
+control panel? 
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+asking Eddie to open the hatch after the ship has landed?
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+not going to the Access Space after asking Marvin to fix the hatch?
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+saying something other than your name when the Beast asks for it? 
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+saying your name with the towel over your eyes?
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+to CARVE NAME ON MEMORIAL (rather than CARVE MY NAME ON 
+MEMORIAL)?
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+carving one of the names suggested by the previous item?
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+carving the Beast's name on the memorial? 
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+reading the memorial (both before and after carving your name)? 
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+showing the thing your aunt gave you to the Beast?
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+waking the sleeping Beast?
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+drinking the wine at the party?
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+eating one of the hors d'oeuvres? (Try several times.) 
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+throwing the glass of wine or the plate of hors d'oeuvres? 
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+to PICK UP ARTHUR or PICK UP PHIL at the party?
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+jumping into the water from the Presidential Speedboat?
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+throwing something into the water from the boat?
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+shooting the crowd, the guards, Trillian, yourself, the toolbox... 
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+ordering GUARDS, SHOOT both before and after they've dropped their photon 
+rifles?
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+examining the approaching star system and the third planet from the War Chamber 
+of the battle fleet? 
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+talking to the Vl'Hurg leader or G'Gugvunt leader? 
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+dropping something in the Maze (your brain) and then walking around once you've 
+gotten out? 
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+talking to the bulldozer driver, the Vogon Captain, or the hostess? 
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+closing the thing your aunt gave you?
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+wrapping the towel around your head anywhere except Traal?
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+typing I AM ARTHUR DENT to the game (as opposed to while talking to a 
+character in the game)? 
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+typing PANIC? How about DON'T PANIC?
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+pushing the red button on the Thumb when an Engineer robot is already present?
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+counting the hors d'oeuvres, the crowd at the Dais, or the guards (at various 
+points)?
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+typing DON'T LOOK or DON'T WAIT or DON'T (anything else)? 
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+examining the bulldozer, the Vogon fleet, the flowerpot, the mechanism in the 
+Access Space, or various tools?
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+typing GIVE UP or THROW IN THE TOWEL or PULL MYSELF TOGETHER?
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+brushing your teeth with the toothbrush? 
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+typing ESCAPE at any point?
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+filling anything? 
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+returning to various scenes after you've successfully completed them? (Examples: 
+returning to Damogran after stealing the Heart of Gold, returning to Traal after 
+getting the Interface...)
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+typing APPLAUD at any point (other than during the poetry reading)? 
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+answering the game's various rhetorical questions, such as "Did you have a 
+particular direction in mind?" or "Don't you think it would be a bad idea to leave 
+the ceremonies?", by typing YES or NO? 
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+typing APPRECIATE [something]?
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+asking various characters about the object of the game? (Especially Prosser, Ford, 
+Marvin, Eddie, the Nutrimat, the screening door, and the Beast.)
+#FINISH#
+#HINT#
+834
+
+#TEXT#
+calling Infocom's Technical Hotline and trying to convince them that you're 
+Winston Churchill?
+#FINISH#
+#TOPIC#
+0
+Guide Entries
+#HINT#
+906
+
+#TEXT#
+Here's a complete list of all the things that you can CONSULT the Hitchhiker's 
+Guide about. You should use it only as a last resort, or for your interest once 
+you've finished the game. 
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+ALCOHOL
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+ATOMIC VECTOR PLOTTER
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+BABEL FISH
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+DAMOGRAN
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+EARTH
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+FLUFF
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+FRANCE
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+GALACTIC SECURITY AGENCY
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+GALAXIA WOONBEAM
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+GREEN BUTTON
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+HEART OF GOLD
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+INFOCOM
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+BROWNIAN MOTION
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+GENUINE PEOPLE
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+PERSONALITIES
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+MAGRATHEA
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+HITCHHIKER'S GUIDE
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+IMPROBABILITY DRIVES
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+INTELLIGENCE
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+LARGE PLUG
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+LONG DANGLY BIT
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+MATTER TRANSFERENCE
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+BEAMS
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+PAN-GALACTIC GARGLE 
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+BLASTER
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+PERIL-SENSITIVE SUNGLASSES
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+PROTEIN
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+NUTRIMAT
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+RAVENOUS BUGBLATTER 
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+BEAST OF TRAAL
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+RED BUTTON
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+SANTRAGINEAN MINERAL 
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+WATER
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+SIRIUS CYBERNETICS
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+CORPORATION
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+SMALL PLUG
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+SMALL RECEPTACLE
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+SPACE
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+THUMB
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+TOWEL
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+VOGON POETRY
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+VOGONS
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+WALKING
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+various tools
+#FINISH#
+#HINT#
+906
+
+#TEXT#
+various weapons
+#FINISH#
+#TOPIC#
+0
+Footnotes
+#HINT#
+953
+
+#TEXT#
+The section tells how to find the place where each footnote is referenced in the 
+game. Once again, you shouldn't develop this section until you finished, because 
+it will probably ruin some puzzles for you. 
+#FINISH#
+#HINT#
+953
+
+#TEXT#
+ RELAX or ENJOY THE DARKNESS in Dark
+#FINISH#
+#HINT#
+953
+
+#TEXT#
+Refer to your home as a HOUSE while talking to Ford
+#FINISH#
+#HINT#
+953
+
+#TEXT#
+ Upon arrival at the Presidential Speedboat
+#FINISH#
+#HINT#
+953
+
+#TEXT#
+ Listen to the music in the Pub several times, until "Hey Jude" is the song that is 
+playing
+#FINISH#
+#HINT#
+953
+
+#TEXT#
+ Remove the towel in the Beast's Outer Lair after the Beast has gone to sleep
+#FINISH#
+#HINT#
+953
+
+#TEXT#
+Type FOOTNOTE without any number after it to see where this footnote is 
+referenced
+#FINISH#
+#HINT#
+953
+
+#TEXT#
+Shoot the Beast three times with the anti-Beast gun
+#FINISH#
+#HINT#
+953
+
+#TEXT#
+ Consult the Guide about fluff
+#FINISH#
+#HINT#
+953
+
+#TEXT#
+Get the Guide entry on SPACE by having the Guide with you when you're blown 
+out of the Airloc
+#FINISH#
+#HINT#
+953
+
+#TEXT#
+ When the game finally gives in and describes the Engine Room
+#FINISH#
+#HINT#
+953
+
+#TEXT#
+ This footnote is not referenced anywhere in the game
+#FINISH#
+#HINT#
+953
+
+#TEXT#
+ This footnote is referenced only by itself
+#FINISH#
+#HINT#
+953
+
+#TEXT#
+ Push the boat's autopilot button three times
+#FINISH#
+#HINT#
+953
+
+#TEXT#
+When Ford hands you the Guide in the Vogon Hold
+#FINISH#
+#HINT#
+953
+
+#TEXT#
+Read the banner at the Dais
+#FINISH#
+#TOPIC#
+0
+Maps
+#TOPIC#
+970
+General
+#PIC#
+971
+E:\work\hint_reader\thlfiles\legend.bmp
+1
+Legend for Maps
+0,0,399,569
+#TOPIC#
+970
+On the Earth
+#PIC#
+973
+E:\work\hint_reader\thlfiles\earth.bmp
+1
+Earth
+0,0,400,548
+#TOPIC#
+970
+Aboard the Vogon Ship
+#PIC#
+975
+E:\work\hint_reader\thlfiles\vogon.bmp
+1
+The Vogon Ship
+0,0,499,236

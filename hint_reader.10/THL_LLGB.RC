@@ -1,0 +1,251 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// German (Germany) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_DEU)
+#ifdef _WIN32
+LANGUAGE LANG_GERMAN, SUBLANG_GERMAN
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    100                     "&File"
+    101                     "&Editor"
+    102                     "&Language"
+    103                     "&Help"
+    104                     "&Open..."
+    105                     "Open existing file"
+    106                     "E&xit"
+    107                     "Close this application"
+    108                     "&Create new hintfile"
+    109                     "&Edit hintfile"
+    110                     "&Select language"
+    111                     "&Contents"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    112                     "&Search"
+    113                     "&Using help"
+    114                     "In&fo..."
+    115                     "Save Language Set&ting"
+    116                     "&Verbose open"
+    117                     "This version expires 10-31-96."
+    118                     "Open file and read hints"
+    119                     "Create new file with editor"
+    120                     "Open existing file with editor"
+    121                     "Show contents of helpfile"
+    122                     "Show information about this software"
+    123                     "Exit program"
+    124                     "Open file (verbose mode) and read hints"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    50                      "Warning"
+    51                      "Error"
+    52                      "Information"
+    53                      "Confirmation"
+    60                      "Yes"
+    61                      "No"
+    62                      "Ok"
+    63                      "Cancel"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    64                      "Abort"
+    65                      "Retry"
+    66                      "Ignore"
+    67                      "All"
+    68                      "Help"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    150                     "Open file"
+    151                     "Cancel"
+    152                     "Ok"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    200                     "Type: Multimedia file"
+    201                     "Cancel"
+    202                     "Browse"
+    203                     "Description"
+    204                     "File"
+    205                     "Please enter description and file!"
+    206                     "Ok"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    250                     "Description"
+    251                     "Area"
+    252                     "Type: Picture"
+    253                     "File:"
+    254                     "Hotspot-Editor:"
+    255                     "Browse"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    256                     "Cancel"
+    257                     "The hotspot list is bogus !"
+    258                     "File does not exist !"
+    259                     "Insert this area into hotspot list ?"
+    260                     "No free entries in hotspot list left !"
+    261                     "Reset the hotspot list ?"
+    262                     "Ok"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    300                     "Read hints"
+    301                     "Finish"
+    302                     "<< back >>"
+    303                     "Hint"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    304                     "This file was created with a newer program version !"
+    305                     "Error in file !"
+    306                     "You did not read the previous hints.\nAre you sure you want to read this hint ?\nThis may affect your enjoyment of the game."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    350                     "Picture"
+    351                     "Close"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    400                     "Hint"
+    401                     "Show hint"
+    402                     "Close"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    450                     "Multimedia file"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    500                     "Hintfile-Editor"
+    501                     "Add entries"
+    502                     "Edit entries"
+    503                     "Title:"
+    504                     "Author:"
+    505                     "Info:"
+    506                     "Font"
+    507                     "New Topic/Question"
+    508                     "New Hint"
+    509                     "New Picture link"
+    510                     "New Mediafile"
+    511                     "Edit"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    512                     "Delete"
+    513                     "Save"
+    514                     "Compile"
+    515                     "Close"
+    516                     "Up"
+    517                     "Down"
+    518                     "Lowest level reached !"
+    519                     "Please enter title and author !"
+    520                     "Really delete thsi entry ?"
+    521                     "Root can not be deleted !"
+    522                     "This file was created with a newer program version."
+    523                     "Token expected:"
+    524                     "Unknown token. Error in file."
+    525                     "File not found"
+    526                     "File not found."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    600                     "Type: Hint"
+    601                     "Cancel"
+    602                     "OK"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    650                     "Type: Topic"
+    651                     "Cancel"
+    652                     "OK"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    700                     "Language"
+    701                     "Ok"
+    702                     "Cancel"
+END
+
+#endif    // German (Germany) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

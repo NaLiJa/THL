@@ -1,0 +1,69 @@
+The Hint Library License Agreement
+
+This is a legal agreement between you and Stefan Meier covering your use
+of The Hint Library. Be sure to read the following agreement before using
+the software. IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, DO NOT
+USE THE SOFTWARE AND DESTROY ALL COPIES OF IT.
+This copyright software is distributed as freeware. You may use this
+software without any charge and may distribute to others. The software is
+owned by Stefan Meier and is protected by FR Germany copyright laws and
+international treaty provisions. Therefore, you must treat the software
+like any other copyrighted material (e.g., a book or musical recording).
+
+You may not rent or lease the software, nor may you modify, adapt,
+translate, reverse engineer, decompile, or disassemble the software.
+If you violate any part of this agreement, your right to use this software
+terminates automatically and you then destroy all copies of this software
+in your possession.
+
+The software and related documentation are provided "AS IS" and without
+warranty of any kind and the author expressly disclaims all other warranties,
+express or implied, including, but not limited to, the implied warranties
+of merchantability and fitness for a particular purpose. Under no
+circumstances shall Stefan Meier be liable for any incidental, special
+or consequential damages that result from the use or inability to use the
+software or related documentation, even if Stefan Meier has been advised
+of the possibility of such damages.
+
+If you intent to write THL-files with the included editor and distribute them
+you should always contact me to tell me about your project and check out if
+anyone else is working on a hint file for the given game. Although the use
+of the software is free you are NOT ALLOWED to take charge for your individual
+THL-files.
+
+Distribution through retail and wholesale stores requires specific
+written permission.
+Distribution through "magazine- compact disks" or "magazines-floppy disks"
+requires specific written permission.
+No distributor may charge more than $8 US (or the appropriate value in
+other currencies, e.g. 12 DM) for this archive.
+
+Vendors' entire collection of THL files must be stored on a reasonably
+small number of disks; distribution of hint files over excessive numbers
+of disks is prohibited.  No more than $8 US (or the appropriate value in
+other currencies, e.g. 12 DM) may be charged for any disk containing THL files.
+These terms are a condition of distribution of this archive and apply
+to all THL files written by any hint author.
+
+Right to distribute this archive may be terminated by written
+notice, and distributors must stop distributing this archive 30 days
+after the date of the notice.  Termination of the right to distribute
+does not affect distributors' other duties in this license.
+
+Many thanks go to Detlef Meister for his freeware project MPICVIEW. Parts of
+this project are used for displaying JPEG,TARGA and PCX files.
+You can contact Detlef Meister at:
+Meister@rz.fhtw-berlin.de
+ 
+Enjoy The Hint Library!
+
+Stefan Meier, Erfstr. 65, D-52249 Eschweiler, Germany
+AOL:
+SMeier7777
+E-Mail:
+SMeier7777@aol.com
+Stefan.Meier@post.rwth-aachen.de
+
+ftp://members.aol.com/thlhome
+or
+http://members.aol.com/thlhome/index.htm

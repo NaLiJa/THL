@@ -1,0 +1,60 @@
+100
+Beispieldatei
+Times New Roman
+32768
+22
+0000
+Written 1996 by Stefan Meier
+#NOTICE<#
+Diese Beispieldatei veranschaulicht die Möglichkeiten von THL.
+#>NOTICE#
+#TOPIC#
+0
+Was ist der Sinn des Lebens ?
+#HINT#
+1
+
+#TEXT#
+Lesen Sie ein Buch.
+#FINISH#
+#HINT#
+1
+
+#TEXT#
+Lesen Sie ein bekanntes Buch!
+#FINISH#
+#HINT#
+1
+
+#TEXT#
+Die Antwort gibt Ihnen Deep Thought.
+#FINISH#
+#HINT#
+1
+
+#TEXT#
+42
+#FINISH#
+#TOPIC#
+0
+Noch ein Thema...
+#HINT#
+6
+
+#TEXT#
+Wozu wollen Sie einen Hinweis ?
+#FINISH#
+#PIC#
+6
+C:\WORK\TEXTE\Startrek.jpg
+3
+Ein Startrek-Plakat
+0,0,387,480
+Die Enterprise
+210,175,357,274
+Der Titel des Films
+6,347,203,426
+#MM#
+6
+Das ist eine Musikdatei !
+C:\UTILITY\PROAUDIO\MIDI\Nutcrack.mid
