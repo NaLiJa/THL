@@ -16,7 +16,7 @@ The folders contain:
 **hint_reader.10**
 
 Delphi source project for THL 1.0. There are the compiled binaries included as well, without the installer.
-The binaries still seem to work on recent Windows systems. Try AdvHint1.exe.
+The binaries still seem to work on recent Windows systems. Try AdvHint1.exe. It might be necessary to resize the app window to see the full content.
 
 **hint_reader.11**
 
